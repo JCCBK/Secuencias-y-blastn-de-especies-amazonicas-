@@ -1,0 +1,133 @@
+RID: 8F2U15VA013	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_6376123 Length: 507
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Chelonus insularis split ends (spen), transcript...    Chelonus ins... NA              460826     57.2   57.2  13%   0.003 79.71  15873      XM_035095039.1   
+PREDICTED: Chelonus insularis split ends (spen), transcript...    Chelonus ins... NA              460826     57.2   57.2  13%   0.003 79.71  17686      XM_035095034.1   
+PREDICTED: Chelonus insularis split ends (spen), transcript...    Chelonus ins... NA              460826     57.2   57.2  13%   0.003 79.71  17625      XM_035095036.1   
+PREDICTED: Chelonus insularis split ends (spen), transcript...    Chelonus ins... NA              460826     57.2   57.2  13%   0.003 79.71  17569      XM_035095037.1   
+PREDICTED: Chelonus insularis split ends (spen), transcript...    Chelonus ins... NA              460826     57.2   57.2  13%   0.003 79.71  15612      XM_035095035.1   
+PREDICTED: Chelonus insularis split ends (spen), transcript...    Chelonus ins... NA              460826     57.2   57.2  13%   0.003 79.71  15591      XM_035095038.1   
+
+
+Alignments:
+
+>PREDICTED: Chelonus insularis split ends (spen), transcript variant X6, mRNA
+Sequence ID: XM_035095039.1 Length: 15873
+Range 1: 5084 to 5152
+
+Score:57.2 bits(62), Expect:0.003, 
+Identities:55/69(80%),  Gaps:4/69(5%), Strand: Plus/Minus
+
+Query  301   TTTCACCTTCAACCT---CTCT-TCCTCCTGAGCCCTTTTTAGTTCTGTATCGATTCTTT  356
+             |||||| |||||| |   |||| |||||||   | |||||  ||||| ||||||||||||
+Sbjct  5152  TTTCACGTTCAACTTTTTCTCTCTCCTCCTTCTCTCTTTTCCGTTCTCTATCGATTCTTT  5093
+
+Query  357   CTTTCTCCT  365
+             |||| ||||
+Sbjct  5092  CTTTTTCCT  5084
+
+
+
+
+>PREDICTED: Chelonus insularis split ends (spen), transcript variant X1, mRNA
+Sequence ID: XM_035095034.1 Length: 17686
+Range 1: 6897 to 6965
+
+Score:57.2 bits(62), Expect:0.003, 
+Identities:55/69(80%),  Gaps:4/69(5%), Strand: Plus/Minus
+
+Query  301   TTTCACCTTCAACCT---CTCT-TCCTCCTGAGCCCTTTTTAGTTCTGTATCGATTCTTT  356
+             |||||| |||||| |   |||| |||||||   | |||||  ||||| ||||||||||||
+Sbjct  6965  TTTCACGTTCAACTTTTTCTCTCTCCTCCTTCTCTCTTTTCCGTTCTCTATCGATTCTTT  6906
+
+Query  357   CTTTCTCCT  365
+             |||| ||||
+Sbjct  6905  CTTTTTCCT  6897
+
+
+
+
+>PREDICTED: Chelonus insularis split ends (spen), transcript variant X3, mRNA
+Sequence ID: XM_035095036.1 Length: 17625
+Range 1: 6836 to 6904
+
+Score:57.2 bits(62), Expect:0.003, 
+Identities:55/69(80%),  Gaps:4/69(5%), Strand: Plus/Minus
+
+Query  301   TTTCACCTTCAACCT---CTCT-TCCTCCTGAGCCCTTTTTAGTTCTGTATCGATTCTTT  356
+             |||||| |||||| |   |||| |||||||   | |||||  ||||| ||||||||||||
+Sbjct  6904  TTTCACGTTCAACTTTTTCTCTCTCCTCCTTCTCTCTTTTCCGTTCTCTATCGATTCTTT  6845
+
+Query  357   CTTTCTCCT  365
+             |||| ||||
+Sbjct  6844  CTTTTTCCT  6836
+
+
+
+
+>PREDICTED: Chelonus insularis split ends (spen), transcript variant X4, mRNA
+Sequence ID: XM_035095037.1 Length: 17569
+Range 1: 6897 to 6965
+
+Score:57.2 bits(62), Expect:0.003, 
+Identities:55/69(80%),  Gaps:4/69(5%), Strand: Plus/Minus
+
+Query  301   TTTCACCTTCAACCT---CTCT-TCCTCCTGAGCCCTTTTTAGTTCTGTATCGATTCTTT  356
+             |||||| |||||| |   |||| |||||||   | |||||  ||||| ||||||||||||
+Sbjct  6965  TTTCACGTTCAACTTTTTCTCTCTCCTCCTTCTCTCTTTTCCGTTCTCTATCGATTCTTT  6906
+
+Query  357   CTTTCTCCT  365
+             |||| ||||
+Sbjct  6905  CTTTTTCCT  6897
+
+
+
+
+>PREDICTED: Chelonus insularis split ends (spen), transcript variant X2, mRNA
+Sequence ID: XM_035095035.1 Length: 15612
+Range 1: 4823 to 4891
+
+Score:57.2 bits(62), Expect:0.003, 
+Identities:55/69(80%),  Gaps:4/69(5%), Strand: Plus/Minus
+
+Query  301   TTTCACCTTCAACCT---CTCT-TCCTCCTGAGCCCTTTTTAGTTCTGTATCGATTCTTT  356
+             |||||| |||||| |   |||| |||||||   | |||||  ||||| ||||||||||||
+Sbjct  4891  TTTCACGTTCAACTTTTTCTCTCTCCTCCTTCTCTCTTTTCCGTTCTCTATCGATTCTTT  4832
+
+Query  357   CTTTCTCCT  365
+             |||| ||||
+Sbjct  4831  CTTTTTCCT  4823
+
+
+
+
+>PREDICTED: Chelonus insularis split ends (spen), transcript variant X5, mRNA
+Sequence ID: XM_035095038.1 Length: 15591
+Range 1: 4802 to 4870
+
+Score:57.2 bits(62), Expect:0.003, 
+Identities:55/69(80%),  Gaps:4/69(5%), Strand: Plus/Minus
+
+Query  301   TTTCACCTTCAACCT---CTCT-TCCTCCTGAGCCCTTTTTAGTTCTGTATCGATTCTTT  356
+             |||||| |||||| |   |||| |||||||   | |||||  ||||| ||||||||||||
+Sbjct  4870  TTTCACGTTCAACTTTTTCTCTCTCCTCCTTCTCTCTTTTCCGTTCTCTATCGATTCTTT  4811
+
+Query  357   CTTTCTCCT  365
+             |||| ||||
+Sbjct  4810  CTTTTTCCT  4802
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,3121 @@
+RID: 8F90BM4R015	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_2117083 Length: 311
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Syzygium oleosum mitogen-activated protein kinase...   Syzygium ole... NA              219896     495    495   96%   2e-135 96.66  2110       XM_030591020.2   
+PREDICTED: Rhodamnia argentea mitogen-activated protein kinase... Rhodamnia ar... NA              178133     481    481   96%   4e-131 95.65  1890       XM_030671350.2   
+PREDICTED: Eucalyptus grandis mitogen-activated protein kinase... Eucalyptus g... NA              71139      459    459   96%   1e-124 93.98  1932       XM_010062681.3   
+PREDICTED: Vitis riparia mitogen-activated protein kinase...      Vitis riparia   riverbank grape 96939      280    280   93%   7e-71  81.38  1956       XM_034820461.1   
+PREDICTED: Rosa rugosa mitogen-activated protein kinase homolo... Rosa rugosa     NA              74645      280    280   95%   7e-71  81.02  1844       XM_062164557.1   
+Vitis vinifera contig VV78X276383.3, whole genome shotgun...      Vitis vinifera  wine grape      29760      280    280   93%   7e-71  81.38  52506      AM457383.1       
+PREDICTED: Vitis vinifera mitogen-activated protein kinase...     Vitis vinifera  wine grape      29760      280    280   93%   7e-71  81.38  1983       XM_002281039.5   
+PREDICTED: Citrus sinensis mitogen-activated protein kinase...    Citrus sinensis sweet orange    2711       276    276   95%   3e-69  80.68  1968       XM_006473487.4   
+PREDICTED: Citrus sinensis mitogen-activated protein kinase...    Citrus sinensis sweet orange    2711       276    276   95%   3e-69  80.68  1923       XM_006473486.3   
+PREDICTED: Citrus clementina mitogen-activated protein kinase...  Citrus x cle... NA              85681      276    276   95%   3e-69  80.68  1956       XM_006434992.2   
+PREDICTED: Citrus clementina mitogen-activated protein kinase...  Citrus x cle... NA              85681      276    276   95%   3e-69  80.68  1911       XM_006434991.2   
+PREDICTED: Argentina anserina mitogen-activated protein kinase... Argentina an... silverweed c... 57926      276    276   95%   3e-69  80.68  1754       XM_050507699.1   
+PREDICTED: Pistacia vera mitogen-activated protein kinase...      Pistacia vera   NA              55513      271    271   95%   4e-68  80.34  1373       XM_031413143.1   
+PREDICTED: Pistacia vera mitogen-activated protein kinase...      Pistacia vera   NA              55513      271    271   95%   4e-68  80.34  1372       XM_031413144.1   
+PREDICTED: Fragaria vesca subsp. vesca mitogen-activated prote... Fragaria ves... NA              101020     267    267   95%   2e-66  80.00  1820       XM_004291797.2   
+PREDICTED: Rosa chinensis mitogen-activated protein kinase...     Rosa chinensis  NA              74649      262    262   95%   2e-65  79.66  1880       XM_040508990.1   
+PREDICTED: Rosa chinensis mitogen-activated protein kinase...     Rosa chinensis  NA              74649      262    262   95%   2e-65  79.66  1750       XM_024309704.2   
+PREDICTED: Theobroma cacao mitogen-activated protein kinase...    Theobroma cacao cacao           3641       262    262   95%   2e-65  79.66  2055       XM_007017559.2   
+PREDICTED: Daucus carota subsp. sativus mitogen-activated...      Daucus carot... NA              79200      262    262   95%   2e-65  79.66  1840       XM_017398766.2   
+PREDICTED: Daucus carota subsp. sativus mitogen-activated...      Daucus carot... NA              79200      262    262   95%   2e-65  79.66  1450       XM_064079921.1   
+PREDICTED: Rosa chinensis mitogen-activated protein kinase...     Rosa chinensis  NA              74649      262    262   95%   2e-65  79.66  1829       XM_040508989.1   
+PREDICTED: Tripterygium wilfordii mitogen-activated protein...    Tripterygium... NA              458696     262    262   95%   2e-65  79.66  1943       XM_038861222.1   
+PREDICTED: Diospyros lotus mitogen-activated protein kinase...    Diospyros lotus NA              55363      260    260   96%   7e-65  79.26  1965       XM_052347302.1   
+PREDICTED: Diospyros lotus mitogen-activated protein kinase...    Diospyros lotus NA              55363      260    260   96%   7e-65  79.26  1983       XM_052347303.1   
+PREDICTED: Tripterygium wilfordii mitogen-activated protein...    Tripterygium... NA              458696     258    258   95%   8e-64  79.32  1990       XM_038848680.1   
+PREDICTED: Gastrolobium bilobum mitogen-activated protein kina... Gastrolobium... NA              150636     258    258   95%   8e-64  79.32  1795       XM_061494895.1   
+PREDICTED: Herrania umbratica mitogen-activated protein kinase... Herrania umb... NA              108875     258    258   95%   8e-64  79.32  2055       XM_021428805.1   
+PREDICTED: Punica granatum mitogen-activated protein kinase...    Punica granatum pomegranate     22663      258    258   95%   8e-64  79.32  1870       XM_031549041.1   
+PREDICTED: Tripterygium wilfordii mitogen-activated protein...    Tripterygium... NA              458696     258    258   95%   8e-64  79.32  1505       XM_038848681.1   
+PREDICTED: Gastrolobium bilobum mitogen-activated protein kina... Gastrolobium... NA              150636     258    258   95%   8e-64  79.32  1819       XM_061494894.1   
+Prunus cerasus x Prunus canescens mitogen-activated protein...    Prunus ceras... NA              1759535    253    253   95%   1e-62  78.98  1392       KT357361.1       
+PREDICTED: Prunus avium mitogen-activated protein kinase homol... Prunus avium    sweet cherry    42229      253    253   95%   1e-62  78.98  1903       XM_021975846.1   
+Prunus dulcis genome assembly, chromosome: 1                      Prunus dulcis   almond          3755       253    253   95%   1e-62  78.98  50520004   OZ022197.1       
+PREDICTED: Prunus dulcis mitogen-activated protein kinase...      Prunus dulcis   almond          3755       253    253   95%   1e-62  78.98  1934       XM_034355275.1   
+PREDICTED: Manihot esculenta mitogen-activated protein kinase...  Manihot escu... cassava         3983       250    250   95%   1e-61  79.12  2054       XM_021757956.2   
+Manihot esculenta mitogen-activated protein kinase 4 mRNA,...     Manihot escu... cassava         3983       250    250   95%   1e-61  79.12  1119       KT827558.1       
+PREDICTED: Ziziphus jujuba mitogen-activated protein kinase...    Ziziphus jujuba common jujube   326968     250    250   94%   1e-61  78.84  2218       XM_016029474.4   
+PREDICTED: Cannabis sativa mitogen-activated protein kinase...    Cannabis sativa NA              3483       250    250   94%   1e-61  78.84  2202       XM_030628907.2   
+Cannabis sativa cultivar ERBxHO40_23 chromosome X                 Cannabis sativa NA              3483       250    250   94%   1e-61  78.84  84640807   CP158662.1       
+PREDICTED: Ziziphus jujuba mitogen-activated protein kinase...    Ziziphus jujuba common jujube   326968     250    250   94%   1e-61  78.84  2223       XM_016029473.4   
+Cannabis sativa cultivar ERBxHO40_23 chromosome X                 Cannabis sativa NA              3483       250    250   94%   1e-61  78.84  84401000   CP158652.1       
+PREDICTED: Camellia sinensis mitogen-activated protein kinase...  Camellia sin... NA              4442       249    249   95%   4e-61  78.64  1972       XM_028232188.1   
+PREDICTED: Gossypium raimondii mitogen-activated protein kinas... Gossypium ra... Peruvian cotton 29730      249    249   95%   4e-61  78.64  1936       XM_012622649.2   
+PREDICTED: Camellia sinensis mitogen-activated protein kinase...  Camellia sin... NA              4442       249    249   95%   4e-61  78.64  1950       XM_028232187.1   
+PREDICTED: Abrus precatorius mitogen-activated protein kinase...  Abrus precat... Indian licorice 3816       249    249   95%   4e-61  78.64  2199       XM_027501274.1   
+PREDICTED: Prunus mume mitogen-activated protein kinase homolo... Prunus mume     Japanese apr... 102107     249    249   95%   4e-61  78.64  1953       XM_008222632.2   
+PREDICTED: Gossypium hirsutum mitogen-activated protein kinase... Gossypium hi... cotton          3635       249    249   95%   4e-61  78.64  1978       XM_016893571.2   
+PREDICTED: Gossypium hirsutum mitogen-activated protein kinase... Gossypium hi... cotton          3635       249    249   95%   4e-61  78.64  2085       XM_016893570.2   
+PREDICTED: Gossypium arboreum mitogen-activated protein kinase... Gossypium ar... NA              29729      249    249   95%   4e-61  78.64  2047       XM_017756310.2   
+PREDICTED: Lupinus angustifolius mitogen-activated protein...     Lupinus angu... narrow-leave... 3871       249    249   95%   4e-61  78.64  1696       XM_019581340.1   
+PREDICTED: Lupinus angustifolius mitogen-activated protein...     Lupinus angu... narrow-leave... 3871       249    249   95%   4e-61  78.64  1716       XM_019581339.1   
+PREDICTED: Gossypium hirsutum mitogen-activated protein kinase... Gossypium hi... cotton          3635       249    249   95%   4e-61  78.64  2057       XM_016837981.2   
+PREDICTED: Lupinus angustifolius mitogen-activated protein...     Lupinus angu... narrow-leave... 3871       249    249   95%   4e-61  78.64  1435       XM_019581342.1   
+PREDICTED: Gossypium arboreum mitogen-activated protein kinase... Gossypium ar... NA              29729      249    249   95%   4e-61  78.64  2053       XM_017756311.2   
+PREDICTED: Abrus precatorius mitogen-activated protein kinase...  Abrus precat... Indian licorice 3816       249    249   95%   4e-61  78.64  1843       XM_027501273.1   
+PREDICTED: Lupinus angustifolius mitogen-activated protein...     Lupinus angu... narrow-leave... 3871       249    249   95%   4e-61  78.64  1706       XM_019581341.1   
+PREDICTED: Prunus persica mitogen-activated protein kinase...     Prunus persica  peach           3760       249    249   95%   4e-61  78.64  1977       XM_007225711.2   
+PREDICTED: Quercus lobata mitogen-activated protein kinase...     Quercus lobata  NA              97700      247    247   96%   1e-60  78.26  1805       XM_031094722.1   
+PREDICTED: Quercus lobata mitogen-activated protein kinase...     Quercus lobata  NA              97700      247    247   96%   1e-60  78.26  1823       XM_031094723.1   
+Ziziphus jujuba isolate TW-2024b chromosome 06                    Ziziphus jujuba common jujube   326968     245    245   94%   5e-60  78.50  32802658   CP157408.1       
+PREDICTED: Vigna unguiculata mitogen-activated protein kinase...  Vigna unguic... cowpea          3917       244    244   93%   5e-60  78.62  1828       XM_028048496.1   
+PREDICTED: Gossypium hirsutum mitogen-activated protein kinase... Gossypium hi... cotton          3635       244    244   95%   5e-60  78.31  2071       XM_016832113.2   
+PREDICTED: Gossypium hirsutum mitogen-activated protein kinase... Gossypium hi... cotton          3635       244    244   95%   5e-60  78.31  2073       XM_016832114.2   
+Gossypium hirsutum mitogen-activated protein kinase (MAPK) mRN... Gossypium hi... cotton          3635       244    244   95%   5e-60  78.31  1932       DQ132852.1       
+PREDICTED: Apium graveolens mitogen-activated protein kinase...   Apium graveo... NA              4045       244    244   95%   5e-60  78.31  1778       XM_074489135.1   
+PREDICTED: Vigna angularis mitogen-activated protein kinase...    Vigna angularis adzuki bean     3914       244    244   95%   5e-60  78.31  1872       XM_017580838.2   
+Gossypium hirsutum mitogen-activated protein kinase (MAPK) gen... Gossypium hi... cotton          3635       244    244   95%   5e-60  78.31  3023       FJ966890.1       
+PREDICTED: Vigna umbellata mitogen-activated protein kinase...    Vigna umbellata NA              87088      244    244   95%   5e-60  78.31  1869       XM_047308868.1   
+Gossypium hirsutum mitogen-activated protein kinase homolog...    Gossypium hi... cotton          3635       244    244   95%   5e-60  78.31  1181       NM_001326952.1   
+PREDICTED: Manihot esculenta mitogen-activated protein kinase...  Manihot escu... cassava         3983       243    243   95%   2e-59  78.72  1936       XM_021745504.2   
+PREDICTED: Manihot esculenta mitogen-activated protein kinase...  Manihot escu... cassava         3983       243    243   95%   2e-59  78.72  1918       XM_021745505.2   
+Manihot esculenta mitogen-activated protein kinase 6 mRNA,...     Manihot escu... cassava         3983       243    243   95%   2e-59  78.72  1119       KT827560.1       
+PREDICTED: Ricinus communis mitogen-activated protein kinase...   Ricinus comm... castor bean     3988       243    243   95%   2e-59  78.72  2117       XM_015720516.3   
+PREDICTED: Sesamum indicum mitogen-activated protein kinase...    Sesamum indicum sesame          4182       242    242   96%   2e-59  77.93  1824       XM_011085322.2   
+PREDICTED: Quercus suber mitogen-activated protein kinase...      Quercus suber   NA              58331      242    242   96%   2e-59  77.93  1816       XM_024044704.2   
+PREDICTED: Quercus suber mitogen-activated protein kinase...      Quercus suber   NA              58331      242    242   96%   2e-59  77.93  1797       XM_024044703.2   
+PREDICTED: Sesamum indicum mitogen-activated protein kinase...    Sesamum indicum sesame          4182       242    242   96%   2e-59  77.93  1827       XM_011085320.2   
+PREDICTED: Camellia sinensis mitogen-activated protein kinase...  Camellia sin... NA              4442       242    242   96%   2e-59  77.93  2018       XM_028225597.1   
+PREDICTED: Cajanus cajan mitogen-activated protein kinase...      Cajanus cajan   pigeon pea      3821       240    240   93%   2e-58  78.28  1811       XM_020363502.2   
+PREDICTED: Gossypium raimondii mitogen-activated protein kinas... Gossypium ra... Peruvian cotton 29730      240    240   95%   2e-58  77.97  1961       XM_012589390.2   
+PREDICTED: Glycine soja mitogen-activated protein kinase homol... Glycine soja    NA              3848       240    240   95%   2e-58  77.97  1816       XM_028378972.1   
+PREDICTED: Glycine max mitogen-activated protein kinase homolo... Glycine max     soybean         3847       240    240   95%   2e-58  77.97  1867       XM_006581134.4   
+PREDICTED: Malus domestica mitogen-activated protein kinase...    Malus domestica apple           3750       240    240   95%   2e-58  77.97  1745       XM_008378978.4   
+PREDICTED: Gossypium raimondii mitogen-activated protein kinas... Gossypium ra... Peruvian cotton 29730      240    240   95%   2e-58  77.97  1966       XM_012589391.2   
+PREDICTED: Vigna radiata var. radiata mitogen-activated protei... Vigna radiat... mung bean       3916       240    240   95%   2e-58  77.97  1511       XM_014646405.2   
+Glycine max cDNA, clone: GMFL01-33-P06                            Glycine max     soybean         3847       240    240   95%   2e-58  77.97  1621       AK286667.1       
+PREDICTED: Vigna radiata var. radiata mitogen-activated protei... Vigna radiat... mung bean       3916       240    240   95%   2e-58  77.97  1482       XM_014646406.2   
+PREDICTED: Glycine max mitogen-activated protein kinase homolo... Glycine max     soybean         3847       240    240   95%   2e-58  77.97  1735       XM_003527933.5   
+PREDICTED: Pyrus x bretschneideri mitogen-activated protein...    Pyrus x bret... Chinese whit... 225117     240    240   95%   2e-58  77.97  1544       XM_048588415.1   
+PREDICTED: Glycine soja mitogen-activated protein kinase homol... Glycine soja    NA              3848       240    240   95%   2e-58  77.97  1944       XM_028378973.1   
+PREDICTED: Hevea brasiliensis mitogen-activated protein kinase... Hevea brasil... rubber tree     3981       239    239   95%   2e-58  78.38  1928       XM_021780682.2   
+PREDICTED: Daucus carota subsp. sativus mitogen-activated...      Daucus carot... NA              79200      239    239   95%   2e-58  78.38  1653       XM_017393173.2   
+PREDICTED: Durio zibethinus mitogen-activated protein kinase...   Durio zibeth... NA              66656      238    238   96%   8e-58  77.59  2164       XM_022913321.1   
+PREDICTED: Quercus robur mitogen-activated protein kinase...      Quercus robur   English oak     38942      238    238   96%   8e-58  77.59  1496       XM_050411580.1   
+PREDICTED: Durio zibethinus mitogen-activated protein kinase...   Durio zibeth... NA              66656      238    238   96%   8e-58  77.59  2169       XM_022913322.1   
+PREDICTED: Quercus robur mitogen-activated protein kinase...      Quercus robur   English oak     38942      238    238   96%   8e-58  77.59  1814       XM_050411579.1   
+PREDICTED: Silene latifolia mitogen-activated protein kinase...   Silene latif... NA              37657      237    237   95%   8e-58  77.70  1814       XM_074424025.1   
+Humulus lupulus mitogen-activated protein kinase 1 (MPK1) mRNA... Humulus lupulus European hop    3486       236    236   94%   3e-57  77.82  2119       MG736291.1       
+Gossypium hirsutum cultivar TM-1 mitogen-activated protein...     Gossypium hi... cotton          3635       236    236   95%   3e-57  77.63  1131       KM190109.1       
+PREDICTED: Humulus lupulus mitogen-activated protein kinase...    Humulus lupulus European hop    3486       236    236   94%   3e-57  77.82  2004       XM_062245745.1   
+
+
+Alignments:
+
+>PREDICTED: Syzygium oleosum mitogen-activated protein kinase homolog NTF3 (LOC115669871), mRNA
+Sequence ID: XM_030591020.2 Length: 2110
+Range 1: 1274 to 1572
+
+Score:495 bits(548), Expect:2e-135, 
+Identities:289/299(97%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  1572  TGTACGGGTGTTGGAGAGCCTCAGTGACACCGATGCGCTTCGATGGGTCGAAAATGAGCA  1513
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1512  TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  1453
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             |||| ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||
+Sbjct  1452  TCCCGGGGGAATATGGGAGAGACTTTATGAACTTTCTCGCCTTTGGGTTGTCGATAAATT  1393
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             | |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |
+Sbjct  1392  CGATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGGC  1333
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             ||||||||||||||||||||||||||||||| |||||||||||||||||||||||| ||
+Sbjct  1332  ACTCGGTACCAGGGAATAATGGCTTACGACCAAGAAGCTCGGCGAAGATACATCCGACA  1274
+
+
+
+
+>PREDICTED: Rhodamnia argentea mitogen-activated protein kinase homolog 1 (LOC115738661), mRNA
+Sequence ID: XM_030671350.2 Length: 1890
+Range 1: 1054 to 1352
+
+Score:481 bits(533), Expect:4e-131, 
+Identities:286/299(96%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  1352  TGTACGGGTGTTGGAGAGCCTCAGTGACACCGATGCGCTTCGATGGGTCGAAAATGAGCA  1293
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             ||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||
+Sbjct  1292  TCTTTTGCAGGAGATCAATAGCCAGAGGATCTGCATTAGGGTAAAGACGGGATAATGCAG  1233
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1232  TCCCAGGGGAATGCGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  1173
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             | |||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |
+Sbjct  1172  CGATATCCTCCTCTCTTTGGCTGCCGAGTACATTGATGATCAGTTTGAGTTGGTTAAGGC  1113
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             ||||||||||||||||||||||||| ||||||||||||||||| |||||||||||| ||
+Sbjct  1112  ACTCGGTACCAGGGAATAATGGCTTGCGACCGAGAAGCTCGGCAAAGATACATCCGACA  1054
+
+
+
+
+>PREDICTED: Eucalyptus grandis mitogen-activated protein kinase homolog NTF3 (LOC104448786), mRNA
+Sequence ID: XM_010062681.3 Length: 1932
+Range 1: 1104 to 1402
+
+Score:459 bits(508), Expect:1e-124, 
+Identities:281/299(94%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||||||||||||||||||||||||||| ||||||||||| ||||||||||| |||||||
+Sbjct  1402  TGTATGGGTGTTGGAGAGCCTCAGTGACGCCAATGCGCTTTGATGGGTCGAAAATGAGCA  1343
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||
+Sbjct  1342  TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGGAG  1283
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             |||| ||||||| ||||||||||||||| |||||||| ||||||||||||||||||||||
+Sbjct  1282  TCCCTGGGGAATTTGGGAGAGACTTTATGAACTTTCTCGCCTTTGGGTTGTCGATAAATT  1223
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             | |||||||||||||||||||||||||||||||||||||||||||| |||||||| || |
+Sbjct  1222  CGATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTCAGTTGGTTGAGGC  1163
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             |||| ||||||||||||||||||||||| ||||||||||| || ||||| |||||| ||
+Sbjct  1162  ACTCAGTACCAGGGAATAATGGCTTACGTCCGAGAAGCTCAGCAAAGATGCATCCGACA  1104
+
+
+
+
+>PREDICTED: Vitis riparia mitogen-activated protein kinase homolog NTF3 (LOC117907093), mRNA
+Sequence ID: XM_034820461.1 Length: 1956
+Range 1: 1177 to 1466
+
+Score:280 bits(310), Expect:7e-71, 
+Identities:236/290(81%),  Gaps:0/290(0%), Strand: Plus/Minus
+
+Query  6     GGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATCTTT  65
+             ||||||||||| || || ||||||||||| | ||| || ||||| || || |||||||| 
+Sbjct  1466  GGGTGTTGGAGTGCTTCGGTGACACCAATCCTCTTTGAGGGGTCAAAAATTAGCATCTTC  1407
+
+Query  66    TGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTCCCA  125
+             ||||| |||||||| ||||  ||||| ||||| |||||||||||||| || |  ||||| 
+Sbjct  1406  TGCAGCAGATCAATCGCCATGGGATGGGCATTTGGGTAAAGACGGGAAAAAGGCGTCCCT  1347
+
+Query  126   GGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCAATA  185
+             || ||  | ||||||||||| ||  | || ||||| || |||||||| || |||||||||
+Sbjct  1346  GGTGAGAACGGGAGAGACTTGATGTATTTCCTTGCTTTGGGGTTGTCAATGAATTCAATA  1287
+
+Query  186   TCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACACTCG  245
+             ||  |||| || ||||| || ||||  ||||||||||||||||| |||||||||||||| 
+Sbjct  1286  TCAGCCTCCCTCTGGCTCCCAAGGATGTTGATGATCAGTTTGAGCTGGTTAAGACACTCT  1227
+
+Query  246   GTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             || ||||||||||  || || || ||||||||||| || ||||| |||||
+Sbjct  1226  GTGCCAGGGAATATAGGTTTCCGGCCGAGAAGCTCCGCAAAGATGCATCC  1177
+
+
+
+
+>PREDICTED: Rosa rugosa mitogen-activated protein kinase homolog NTF3 (LOC133736940), mRNA
+Sequence ID: XM_062164557.1 Length: 1844
+Range 1: 1030 to 1324
+
+Score:280 bits(310), Expect:7e-71, 
+Identities:239/295(81%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||||||||| || | ||| |||||||| || |  ||||
+Sbjct  1324  TGTAAGGGTGTTGGAGTGCTTCAGTGACACCGATCCTCTTTGATGGGTCAAAAACAAGCA  1265
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || || |||||||| |||| |||||| |||| ||||||||||| ||| || |  |
+Sbjct  1264  TCTTCTGTAGTAGATCAATGGCCAAAGGATGGGCATCAGGGTAAAGACAGGAGAAGGGCG  1205
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| |||||||| |  ||||| ||  ||||  | |||||||| ||||| |||||||
+Sbjct  1204  TCCCAGGAGAATATGGCAATGACTTGATGTACTTCTTCGCCTTTGGATTGTCTATAAATT  1145
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| || |||||||| ||||  || || || ||||| |||||||| ||||
+Sbjct  1144  CAATATCCTCCTCCCTCTGGCTGCCAAGGATGTTAATTATAAGTTTAAGTTGGTTGAGAC  1085
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || || |||||||| |  |||||||| || |||||||| || ||||| |||||
+Sbjct  1084  ATTCTGTCCCAGGGAAGATAGGCTTACGGCCAAGAAGCTCAGCAAAGATGCATCC  1030
+
+
+
+
+>Vitis vinifera contig VV78X276383.3, whole genome shotgun sequence
+Sequence ID: AM457383.1 Length: 52506
+Range 1: 7834 to 8123
+
+Score:280 bits(310), Expect:7e-71, 
+Identities:236/290(81%),  Gaps:0/290(0%), Strand: Plus/Plus
+
+Query  6     GGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATCTTT  65
+             ||||||||||| || || ||||||||||| | ||| || ||||| || || |||||||| 
+Sbjct  7834  GGGTGTTGGAGTGCTTCGGTGACACCAATCCTCTTTGAGGGGTCAAAAATTAGCATCTTC  7893
+
+Query  66    TGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTCCCA  125
+             ||||| |||||||| ||||  ||||| ||||| |||||||||||||| || |  ||||| 
+Sbjct  7894  TGCAGCAGATCAATTGCCATGGGATGGGCATTTGGGTAAAGACGGGAAAAAGGCGTCCCT  7953
+
+Query  126   GGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCAATA  185
+             || ||  | ||||||||||| ||  | || ||||| || |||||||| || |||||||||
+Sbjct  7954  GGTGAGAACGGGAGAGACTTGATGTATTTCCTTGCTTTGGGGTTGTCAATGAATTCAATA  8013
+
+Query  186   TCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACACTCG  245
+             ||  |||| || ||||| || ||||  ||||||||||||||||| |||||||||||||| 
+Sbjct  8014  TCAGCCTCCCTCTGGCTCCCAAGGATGTTGATGATCAGTTTGAGCTGGTTAAGACACTCT  8073
+
+Query  246   GTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             || ||||||||||  || || || ||||||||||| || ||||| |||||
+Sbjct  8074  GTGCCAGGGAATATAGGTTTCCGGCCGAGAAGCTCCGCAAAGATGCATCC  8123
+
+
+
+
+>PREDICTED: Vitis vinifera mitogen-activated protein kinase homolog NTF3 (LOC100254083), mRNA
+Sequence ID: XM_002281039.5 Length: 1983
+Range 1: 1234 to 1523
+
+Score:280 bits(310), Expect:7e-71, 
+Identities:236/290(81%),  Gaps:0/290(0%), Strand: Plus/Minus
+
+Query  6     GGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATCTTT  65
+             ||||||||||| || || ||||||||||| | ||| || ||||| || || |||||||| 
+Sbjct  1523  GGGTGTTGGAGTGCTTCGGTGACACCAATCCTCTTTGAGGGGTCAAAAATTAGCATCTTC  1464
+
+Query  66    TGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTCCCA  125
+             ||||| |||||||| ||||  ||||| ||||| |||||||||||||| || |  ||||| 
+Sbjct  1463  TGCAGCAGATCAATTGCCATGGGATGGGCATTTGGGTAAAGACGGGAAAAAGGCGTCCCT  1404
+
+Query  126   GGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCAATA  185
+             || ||  | ||||||||||| ||  | || ||||| || |||||||| || |||||||||
+Sbjct  1403  GGTGAGAACGGGAGAGACTTGATGTATTTCCTTGCTTTGGGGTTGTCAATGAATTCAATA  1344
+
+Query  186   TCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACACTCG  245
+             ||  |||| || ||||| || ||||  ||||||||||||||||| |||||||||||||| 
+Sbjct  1343  TCAGCCTCCCTCTGGCTCCCAAGGATGTTGATGATCAGTTTGAGCTGGTTAAGACACTCT  1284
+
+Query  246   GTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             || ||||||||||  || || || ||||||||||| || ||||| |||||
+Sbjct  1283  GTGCCAGGGAATATAGGTTTCCGGCCGAGAAGCTCCGCAAAGATGCATCC  1234
+
+
+
+
+>PREDICTED: Citrus sinensis mitogen-activated protein kinase homolog NTF3 (LOC102623819), transcript variant X2, mRNA
+Sequence ID: XM_006473487.4 Length: 1968
+Range 1: 1118 to 1412
+
+Score:276 bits(305), Expect:3e-69, 
+Identities:238/295(81%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| | ||| |  ||||| || |  ||||
+Sbjct  1412  TGTAAGGGTGTTGGAGTGCTTCAGTAACACTAATCCTCTTTGTAGGGTCAAAAACAAGCA  1353
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| ||||||||||| | |||||||||||| |||||||||||||| || | ||
+Sbjct  1352  TCTTTTGCAGCAGATCAATAGCTAAAGGATGCGCATTCGGGTAAAGACGGGAAAAGGGAG  1293
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| | ||| || || || || ||  | || || |||||||||||||| ||||| |
+Sbjct  1292  TCCCAGGTGTATACGGAAGCGATTTAATGTATTTCCTCGCCTTTGGGTTGTCAATAAACT  1233
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||||||||| ||| ||||||| ||||  |||||||| ||||| || ||||||||||
+Sbjct  1232  CAAGATCCTCCTCCCTTCGGCTGCCAAGGATGTTGATGATAAGTTTAAGCTGGTTAAGAC  1173
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || || ||||| |  || || ||||| || ||||| || ||||| |||||
+Sbjct  1172  ACTCTGTTCCGGGGAAGATAGGTTTGCGACCAAGTAGCTCAGCAAAGATGCATCC  1118
+
+
+
+
+>PREDICTED: Citrus sinensis mitogen-activated protein kinase homolog NTF3 (LOC102623819), transcript variant X1, mRNA
+Sequence ID: XM_006473486.3 Length: 1923
+Range 1: 1073 to 1367
+
+Score:276 bits(305), Expect:3e-69, 
+Identities:238/295(81%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| | ||| |  ||||| || |  ||||
+Sbjct  1367  TGTAAGGGTGTTGGAGTGCTTCAGTAACACTAATCCTCTTTGTAGGGTCAAAAACAAGCA  1308
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| ||||||||||| | |||||||||||| |||||||||||||| || | ||
+Sbjct  1307  TCTTTTGCAGCAGATCAATAGCTAAAGGATGCGCATTCGGGTAAAGACGGGAAAAGGGAG  1248
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| | ||| || || || || ||  | || || |||||||||||||| ||||| |
+Sbjct  1247  TCCCAGGTGTATACGGAAGCGATTTAATGTATTTCCTCGCCTTTGGGTTGTCAATAAACT  1188
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||||||||| ||| ||||||| ||||  |||||||| ||||| || ||||||||||
+Sbjct  1187  CAAGATCCTCCTCCCTTCGGCTGCCAAGGATGTTGATGATAAGTTTAAGCTGGTTAAGAC  1128
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || || ||||| |  || || ||||| || ||||| || ||||| |||||
+Sbjct  1127  ACTCTGTTCCGGGGAAGATAGGTTTGCGACCAAGTAGCTCAGCAAAGATGCATCC  1073
+
+
+
+
+>PREDICTED: Citrus clementina mitogen-activated protein kinase homolog NTF3 (LOC18040152), transcript variant X2, mRNA
+Sequence ID: XM_006434992.2 Length: 1956
+Range 1: 1132 to 1426
+
+Score:276 bits(305), Expect:3e-69, 
+Identities:238/295(81%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| | ||| |  ||||| || |  ||||
+Sbjct  1426  TGTAAGGGTGTTGGAGTGCTTCAGTAACACTAATCCTCTTTGTAGGGTCAAAAACAAGCA  1367
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| ||||||||||| | |||||||||||| |||||||||||||| || | ||
+Sbjct  1366  TCTTTTGCAGCAGATCAATAGCTAAAGGATGCGCATTCGGGTAAAGACGGGAAAAGGGAG  1307
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| | ||| || || || || ||  | || || |||||||||||||| ||||| |
+Sbjct  1306  TCCCAGGTGTATACGGAAGCGATTTAATGTATTTCCTCGCCTTTGGGTTGTCAATAAACT  1247
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||||||||| ||| ||||||| ||||  |||||||| ||||| || ||||||||||
+Sbjct  1246  CAAGATCCTCCTCCCTTCGGCTGCCAAGGATGTTGATGATAAGTTTAAGCTGGTTAAGAC  1187
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || || ||||| |  || || ||||| || ||||| || ||||| |||||
+Sbjct  1186  ACTCTGTTCCGGGGAAGATAGGTTTGCGACCAAGTAGCTCAGCAAAGATGCATCC  1132
+
+
+
+
+>PREDICTED: Citrus clementina mitogen-activated protein kinase homolog NTF3 (LOC18040152), transcript variant X1, mRNA
+Sequence ID: XM_006434991.2 Length: 1911
+Range 1: 1087 to 1381
+
+Score:276 bits(305), Expect:3e-69, 
+Identities:238/295(81%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| | ||| |  ||||| || |  ||||
+Sbjct  1381  TGTAAGGGTGTTGGAGTGCTTCAGTAACACTAATCCTCTTTGTAGGGTCAAAAACAAGCA  1322
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| ||||||||||| | |||||||||||| |||||||||||||| || | ||
+Sbjct  1321  TCTTTTGCAGCAGATCAATAGCTAAAGGATGCGCATTCGGGTAAAGACGGGAAAAGGGAG  1262
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| | ||| || || || || ||  | || || |||||||||||||| ||||| |
+Sbjct  1261  TCCCAGGTGTATACGGAAGCGATTTAATGTATTTCCTCGCCTTTGGGTTGTCAATAAACT  1202
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||||||||| ||| ||||||| ||||  |||||||| ||||| || ||||||||||
+Sbjct  1201  CAAGATCCTCCTCCCTTCGGCTGCCAAGGATGTTGATGATAAGTTTAAGCTGGTTAAGAC  1142
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || || ||||| |  || || ||||| || ||||| || ||||| |||||
+Sbjct  1141  ACTCTGTTCCGGGGAAGATAGGTTTGCGACCAAGTAGCTCAGCAAAGATGCATCC  1087
+
+
+
+
+>PREDICTED: Argentina anserina mitogen-activated protein kinase homolog NTF3 (LOC126782449), mRNA
+Sequence ID: XM_050507699.1 Length: 1754
+Range 1: 967 to 1261
+
+Score:276 bits(305), Expect:3e-69, 
+Identities:238/295(81%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| ||||| || | ||| ||||||||||| |  ||||
+Sbjct  1261  TGTAAGGGTGTTGGAGTGCTTCAGTCACACCGATCCTCTTTGATGGGTCGAAAACAAGCA  1202
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| ||||||||||| ||||||| |||||  ||||  ||||||||||| || || |  |
+Sbjct  1201  TCTTCTGCAGGAGATCGATAGCCAAAGGATCGGCATCGGGGTAAAGACGAGAGAAGGGTG  1142
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||| ||| ||||||||||| ||||| ||  ||||  | |||||||| ||||| |||||||
+Sbjct  1141  TCCTAGGAGAATATGGGAGTGACTTGATGTACTTCTTCGCCTTTGGATTGTCTATAAATT  1082
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| || |||||||| ||||  || || || ||||| |||||||| ||||
+Sbjct  1081  CAATATCCTCCTCCCTCTGGCTGCCAAGGATGTTAATTATAAGTTTAAGTTGGTTGAGAC  1022
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || || |||||||| |  ||||| || || |||||||| || ||||| || ||
+Sbjct  1021  ATTCTGTGCCAGGGAAGATAGGCTTCCGGCCAAGAAGCTCAGCAAAGATGCACCC  967
+
+
+
+
+>PREDICTED: Pistacia vera mitogen-activated protein kinase homolog NTF3 (LOC116127482), transcript variant X1, mRNA
+Sequence ID: XM_031413143.1 Length: 1373
+Range 1: 800 to 1094
+
+Score:271 bits(300), Expect:4e-68, 
+Identities:237/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||||||||| ||||| |||||||| | ||| || ||||| || |  ||||
+Sbjct  1094  TGTAAGGGTGTTGGAGAGCTTCAGTAACACCAATCCTCTTTGACGGGTCAAAAACAAGCA  1035
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | ||||||||||||||||| || | |||||||||||| || ||||||||||  || ||  
+Sbjct  1034  TTTTTTGCAGGAGATCAATTGCTAAAGGATGCGCATTGGGATAAAGACGGGCAAAAGCGA  975
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| ||||||||||| || || ||  |||| ||||||||||  || || ||||| |
+Sbjct  974   TCCCAGGTGAATATGGGAGCGATTTAATGTACTTCCTTGCCTTTGCATTATCAATAAACT  915
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||||||||| || ||||| || || |  || ||||| ||||| ||||| |||||||
+Sbjct  914   CAAGATCCTCCTCCCTCTGGCTACCAAGAATGTTAATGATGAGTTTAAGTTGATTAAGAC  855
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || | ||| |||||||| || ||||| |||||
+Sbjct  854   ATTCTGTACCAGGGAAGATAGGTTTTCTACCAAGAAGCTCTGCAAAGATGCATCC  800
+
+
+
+
+>PREDICTED: Pistacia vera mitogen-activated protein kinase homolog NTF3 (LOC116127482), transcript variant X2, mRNA
+Sequence ID: XM_031413144.1 Length: 1372
+Range 1: 799 to 1093
+
+Score:271 bits(300), Expect:4e-68, 
+Identities:237/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||||||||| ||||| |||||||| | ||| || ||||| || |  ||||
+Sbjct  1093  TGTAAGGGTGTTGGAGAGCTTCAGTAACACCAATCCTCTTTGACGGGTCAAAAACAAGCA  1034
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | ||||||||||||||||| || | |||||||||||| || ||||||||||  || ||  
+Sbjct  1033  TTTTTTGCAGGAGATCAATTGCTAAAGGATGCGCATTGGGATAAAGACGGGCAAAAGCGA  974
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| ||||||||||| || || ||  |||| ||||||||||  || || ||||| |
+Sbjct  973   TCCCAGGTGAATATGGGAGCGATTTAATGTACTTCCTTGCCTTTGCATTATCAATAAACT  914
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||||||||| || ||||| || || |  || ||||| ||||| ||||| |||||||
+Sbjct  913   CAAGATCCTCCTCCCTCTGGCTACCAAGAATGTTAATGATGAGTTTAAGTTGATTAAGAC  854
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || | ||| |||||||| || ||||| |||||
+Sbjct  853   ATTCTGTACCAGGGAAGATAGGTTTTCTACCAAGAAGCTCTGCAAAGATGCATCC  799
+
+
+
+
+>PREDICTED: Fragaria vesca subsp. vesca mitogen-activated protein kinase homolog NTF3 (LOC101314433), mRNA
+Sequence ID: XM_004291797.2 Length: 1820
+Range 1: 982 to 1276
+
+Score:267 bits(295), Expect:2e-66, 
+Identities:236/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||||||||| || | ||| |||||||| || |  ||||
+Sbjct  1276  TGTAAGGGTGTTGGAGTGCTTCAGTGACACCGATCCTCTTTGATGGGTCAAAAACAAGCA  1217
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || || ||||| || |||| |||||| ||||  |||||||||| ||| || |  |
+Sbjct  1216  TCTTCTGTAGTAGATCGATGGCCAAAGGATGGGCATCGGGGTAAAGACAGGAGAAGGGCG  1157
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| |||||||| || ||||| ||  ||||  | |||||||| ||||| |||||||
+Sbjct  1156  TCCCAGGAGAATATGGCAGTGACTTGATGTACTTCTTCGCCTTTGGATTGTCTATAAATT  1097
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| || |||||||| ||||  || || || ||||| |||||||| ||||
+Sbjct  1096  CAATATCCTCCTCCCTCTGGCTGCCAAGGATGTTAATTATAAGTTTAAGTTGGTTGAGAC  1037
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || || |||||||| |  ||||| || || |||||||| || ||||| || ||
+Sbjct  1036  ATTCTGTGCCAGGGAAGATAGGCTTCCGGCCAAGAAGCTCAGCAAAGATGCACCC  982
+
+
+
+
+>PREDICTED: Rosa chinensis mitogen-activated protein kinase homolog NTF3 (LOC112172384), transcript variant X3, mRNA
+Sequence ID: XM_040508990.1 Length: 1880
+Range 1: 1033 to 1327
+
+Score:262 bits(290), Expect:2e-65, 
+Identities:235/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||||||||| |  | ||| |||||||| || |  ||||
+Sbjct  1327  TGTAAGGGTGTTGGAGTGCTTCAGTGACACCGACCCTCTTTGATGGGTCAAAAACAAGCA  1268
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || || ||||| || |||| |||||| |||| |||||| |||| ||| || |  |
+Sbjct  1267  TCTTCTGTAGTAGATCGATGGCCAAAGGATGGGCATCAGGGTATAGACAGGAGAAGGGCG  1208
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| ||| |||| |  ||||| ||  ||||  | |||||||| ||||| |||||||
+Sbjct  1207  TCCCAGGAGAAAATGGCAATGACTTGATGTACTTCTTCGCCTTTGGATTGTCTATAAATT  1148
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| || |||||||| ||||  || || || ||||| |||||||| ||||
+Sbjct  1147  CAATATCCTCCTCCCTCTGGCTGCCAAGGATGTTAATTATAAGTTTAAGTTGGTTGAGAC  1088
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || || |||||||| |  |||||||| || |||||||| || ||||| |||||
+Sbjct  1087  ATTCTGTCCCAGGGAAGATAGGCTTACGGCCAAGAAGCTCAGCAAAGATGCATCC  1033
+
+
+
+
+>PREDICTED: Rosa chinensis mitogen-activated protein kinase homolog NTF3 (LOC112172384), transcript variant X2, mRNA
+Sequence ID: XM_024309704.2 Length: 1750
+Range 1: 903 to 1197
+
+Score:262 bits(290), Expect:2e-65, 
+Identities:235/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||||||||| |  | ||| |||||||| || |  ||||
+Sbjct  1197  TGTAAGGGTGTTGGAGTGCTTCAGTGACACCGACCCTCTTTGATGGGTCAAAAACAAGCA  1138
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || || ||||| || |||| |||||| |||| |||||| |||| ||| || |  |
+Sbjct  1137  TCTTCTGTAGTAGATCGATGGCCAAAGGATGGGCATCAGGGTATAGACAGGAGAAGGGCG  1078
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| ||| |||| |  ||||| ||  ||||  | |||||||| ||||| |||||||
+Sbjct  1077  TCCCAGGAGAAAATGGCAATGACTTGATGTACTTCTTCGCCTTTGGATTGTCTATAAATT  1018
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| || |||||||| ||||  || || || ||||| |||||||| ||||
+Sbjct  1017  CAATATCCTCCTCCCTCTGGCTGCCAAGGATGTTAATTATAAGTTTAAGTTGGTTGAGAC  958
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || || |||||||| |  |||||||| || |||||||| || ||||| |||||
+Sbjct  957   ATTCTGTCCCAGGGAAGATAGGCTTACGGCCAAGAAGCTCAGCAAAGATGCATCC  903
+
+
+
+
+>PREDICTED: Theobroma cacao mitogen-activated protein kinase homolog NTF3 (LOC18591440), mRNA
+Sequence ID: XM_007017559.2 Length: 2055
+Range 1: 1189 to 1483
+
+Score:262 bits(290), Expect:2e-65, 
+Identities:235/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||||||| |  || || ||||| || |  ||||
+Sbjct  1483  TGTAAGGGTGTTGGAGTGCTTCAGTTACACCAATCCTTTTTGAGGGGTCAAAAAGAAGCA  1424
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| | |||||| |||| |||||| ||||| || ||||||||||| || |  |
+Sbjct  1423  TCTTTTGCAGTAAATCAATTGCCAAAGGATGGGCATTTGGATAAAGACGGGAAAAGGGGG  1364
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||||||| ||| || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1363  TTCCAGGAGAATATGAGAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  1304
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  |||||||| || || |||||||| ||||
+Sbjct  1303  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATAAGCTTAAGTTGGTTGAGAC  1244
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| ||||||||||| |  || || |  || |||||||| || ||||| |||||
+Sbjct  1243  ACTCTGTACCAGGGAAGATGGGTTTCCTGCCAAGAAGCTCTGCAAAGATGCATCC  1189
+
+
+
+
+>PREDICTED: Daucus carota subsp. sativus mitogen-activated protein kinase homolog NTF3 (LOC108224248), transcript variant X1, mRNA
+Sequence ID: XM_017398766.2 Length: 1840
+Range 1: 1072 to 1366
+
+Score:262 bits(290), Expect:2e-65, 
+Identities:235/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| || || ||||| || ||||| |||| ||| | |||||| ||||| || |  ||||
+Sbjct  1366  TGTAAGGATGCTGGAGTGCTTCAGTAACACTAATTCTCTTCGAAGGGTCAAAGACAAGCA  1307
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| ||||| ||||| || |||| |||||| |||||||||||||| || || ||||  |
+Sbjct  1306  TCTTCTGCAGCAGATCTATTGCCATAGGATGGGCATTAGGGTAAAGGCGAGAAAATGGTG  1247
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| | |||||||| || || || ||||||||||| |||||||| || || || ||||
+Sbjct  1246  TGCCAAGAGAATATGGAAGTGATTTGATAAACTTTCTCGCCTTTGGATTATCAATGAATT  1187
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+              |||||| || ||||| |||||||| || | |||||| || ||||| || |||||||| |
+Sbjct  1186  GAATATCTTCTTCTCTCTGGCTGCCCAGAATATTGATTATGAGTTTAAGCTGGTTAAGGC  1127
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || |||||||||| ||| || || || |||||||| || || ||||| ||
+Sbjct  1126  ACTCTGTTCCAGGGAATATTGGTTTCCGCCCAAGAAGCTCAGCAAAAATACAGCC  1072
+
+
+
+
+>PREDICTED: Daucus carota subsp. sativus mitogen-activated protein kinase homolog NTF3 (LOC108224248), transcript variant X2, mRNA
+Sequence ID: XM_064079921.1 Length: 1450
+Range 1: 682 to 976
+
+Score:262 bits(290), Expect:2e-65, 
+Identities:235/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1    TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+            |||| || || ||||| || ||||| |||| ||| | |||||| ||||| || |  ||||
+Sbjct  976  TGTAAGGATGCTGGAGTGCTTCAGTAACACTAATTCTCTTCGAAGGGTCAAAGACAAGCA  917
+
+Query  61   TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+            |||| ||||| ||||| || |||| |||||| |||||||||||||| || || ||||  |
+Sbjct  916  TCTTCTGCAGCAGATCTATTGCCATAGGATGGGCATTAGGGTAAAGGCGAGAAAATGGTG  857
+
+Query  121  TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+            | ||| | |||||||| || || || ||||||||||| |||||||| || || || ||||
+Sbjct  856  TGCCAAGAGAATATGGAAGTGATTTGATAAACTTTCTCGCCTTTGGATTATCAATGAATT  797
+
+Query  181  CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             |||||| || ||||| |||||||| || | |||||| || ||||| || |||||||| |
+Sbjct  796  GAATATCTTCTTCTCTCTGGCTGCCCAGAATATTGATTATGAGTTTAAGCTGGTTAAGGC  737
+
+Query  241  ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+            |||| || |||||||||| ||| || || || |||||||| || || ||||| ||
+Sbjct  736  ACTCTGTTCCAGGGAATATTGGTTTCCGCCCAAGAAGCTCAGCAAAAATACAGCC  682
+
+
+
+
+>PREDICTED: Rosa chinensis mitogen-activated protein kinase homolog NTF3 (LOC112172384), transcript variant X1, mRNA
+Sequence ID: XM_040508989.1 Length: 1829
+Range 1: 982 to 1276
+
+Score:262 bits(290), Expect:2e-65, 
+Identities:235/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||||||||| |  | ||| |||||||| || |  ||||
+Sbjct  1276  TGTAAGGGTGTTGGAGTGCTTCAGTGACACCGACCCTCTTTGATGGGTCAAAAACAAGCA  1217
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || || ||||| || |||| |||||| |||| |||||| |||| ||| || |  |
+Sbjct  1216  TCTTCTGTAGTAGATCGATGGCCAAAGGATGGGCATCAGGGTATAGACAGGAGAAGGGCG  1157
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| ||| |||| |  ||||| ||  ||||  | |||||||| ||||| |||||||
+Sbjct  1156  TCCCAGGAGAAAATGGCAATGACTTGATGTACTTCTTCGCCTTTGGATTGTCTATAAATT  1097
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| || |||||||| ||||  || || || ||||| |||||||| ||||
+Sbjct  1096  CAATATCCTCCTCCCTCTGGCTGCCAAGGATGTTAATTATAAGTTTAAGTTGGTTGAGAC  1037
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || || |||||||| |  |||||||| || |||||||| || ||||| |||||
+Sbjct  1036  ATTCTGTCCCAGGGAAGATAGGCTTACGGCCAAGAAGCTCAGCAAAGATGCATCC  982
+
+
+
+
+>PREDICTED: Tripterygium wilfordii mitogen-activated protein kinase homolog NTF3 (LOC120010424), mRNA
+Sequence ID: XM_038861222.1 Length: 1943
+Range 1: 1105 to 1399
+
+Score:262 bits(290), Expect:2e-65, 
+Identities:235/295(80%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| || |||||||| || || || |||| ||| ||||||||||| || || |  ||||
+Sbjct  1399  TGTAAGGATGTTGGAGTGCTTCTGTCACACTAATCCGCTTCGATGGATCAAAAACAAGCA  1340
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| | |||||| |||| |||||| |||||||||||||||||||| || |  |
+Sbjct  1339  TCTTTTGCAGCAAATCAATTGCCATAGGATGAGCATTAGGGTAAAGACGGGAAAACGGGG  1280
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+               || |  ||||||||||| |  || ||  | ||||||||||||||||| || |||||||
+Sbjct  1279  AACCGGCAGAATATGGGAGTGTTTTGATGTATTTTCTTGCCTTTGGGTTATCAATAAATT  1220
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             | | |||||| || || |||||||| |||| |||||| || || ||||| ||||| ||||
+Sbjct  1219  CGAGATCCTCTTCCCTCTGGCTGCCAAGGATATTGATAATAAGCTTGAGCTGGTTCAGAC  1160
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || ||||| || |  ||||| || || |||||||| || ||||| |||||
+Sbjct  1159  ACTCTGTGCCAGGAAAGATAGGCTTTCGGCCAAGAAGCTCCGCAAAGATGCATCC  1105
+
+
+
+
+>PREDICTED: Diospyros lotus mitogen-activated protein kinase homolog NTF3 (LOC127808721), transcript variant X1, mRNA
+Sequence ID: XM_052347302.1 Length: 1965
+Range 1: 1119 to 1417
+
+Score:260 bits(288), Expect:7e-65, 
+Identities:237/299(79%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| || ||| |||| || ||||| |||| ||| | ||| |||||||| || |  ||||
+Sbjct  1417  TGTAAGGATGTCGGAGTGCTTCAGTAACACTAATTCTCTTTGATGGGTCAAACACAAGCA  1358
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || || |||||||| ||||||||||| ||||| || |||||||| || || |  |
+Sbjct  1357  TCTTCTGAAGCAGATCAATTGCCAGAGGATGGGCATTTGGATAAAGACGAGAAAAGGGGG  1298
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||||||||| || || ||||| || ||||| ||||||||| |||| || |||||||
+Sbjct  1297  TCCCAGGGGAATAAGGTAGTGACTTAATGAACTTCCTTGCCTTTTGGTTATCAATAAATT  1238
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||| |||||| | ||||| || || |  |||||||| || ||||| ||||| ||||
+Sbjct  1237  CAAGATCATCCTCTTTCTGGCTTCCAAGAATGTTGATGATTAGCTTGAGCTGGTTGAGAC  1178
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             |||| ||||| || || |  ||||| || || ||||| || || ||||| |||||| ||
+Sbjct  1177  ACTCTGTACCTGGAAAGATGGGCTTCCGGCCAAGAAGTTCAGCAAAGATGCATCCGACA  1119
+
+
+
+
+>PREDICTED: Diospyros lotus mitogen-activated protein kinase homolog NTF3 (LOC127808721), transcript variant X2, mRNA
+Sequence ID: XM_052347303.1 Length: 1983
+Range 1: 1137 to 1435
+
+Score:260 bits(288), Expect:7e-65, 
+Identities:237/299(79%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| || ||| |||| || ||||| |||| ||| | ||| |||||||| || |  ||||
+Sbjct  1435  TGTAAGGATGTCGGAGTGCTTCAGTAACACTAATTCTCTTTGATGGGTCAAACACAAGCA  1376
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || || |||||||| ||||||||||| ||||| || |||||||| || || |  |
+Sbjct  1375  TCTTCTGAAGCAGATCAATTGCCAGAGGATGGGCATTTGGATAAAGACGAGAAAAGGGGG  1316
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||||||||| || || ||||| || ||||| ||||||||| |||| || |||||||
+Sbjct  1315  TCCCAGGGGAATAAGGTAGTGACTTAATGAACTTCCTTGCCTTTTGGTTATCAATAAATT  1256
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||| |||||| | ||||| || || |  |||||||| || ||||| ||||| ||||
+Sbjct  1255  CAAGATCATCCTCTTTCTGGCTTCCAAGAATGTTGATGATTAGCTTGAGCTGGTTGAGAC  1196
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             |||| ||||| || || |  ||||| || || ||||| || || ||||| |||||| ||
+Sbjct  1195  ACTCTGTACCTGGAAAGATGGGCTTCCGGCCAAGAAGTTCAGCAAAGATGCATCCGACA  1137
+
+
+
+
+>PREDICTED: Tripterygium wilfordii mitogen-activated protein kinase homolog NTF3-like (LOC120000555), transcript variant X1, mRNA
+Sequence ID: XM_038848680.1 Length: 1990
+Range 1: 1167 to 1461
+
+Score:258 bits(285), Expect:8e-64, 
+Identities:234/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| || |||||||| || || || |||| ||| |||||||| || || || |  ||||
+Sbjct  1461  TGTAAGGATGTTGGAGTGCTTCTGTCACACTAATCCGCTTCGACGGATCAAAAACAAGCA  1402
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| | |||||| |||| |||||| |||||||||||||||| ||| || |  |
+Sbjct  1401  TCTTTTGCAGCAAATCAATCGCCATAGGATGGGCATTAGGGTAAAGACCGGAAAACGGGG  1342
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+               || |  ||||||||||| |  || ||  | ||||||||||||||||| || |||||||
+Sbjct  1341  AACCGGCAGAATATGGGAGTGTTTTGATGTAATTTCTTGCCTTTGGGTTATCAATAAATT  1282
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             | | |||||| | ||| |||||||| ||||  |||||||| || ||||| ||||| ||||
+Sbjct  1281  CGAGATCCTCTTGTCTCTGGCTGCCAAGGATGTTGATGATAAGCTTGAGCTGGTTCAGAC  1222
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| ||||||||||| |  ||||| || || ||||| || || ||||| |||||
+Sbjct  1221  ACTCTGTACCAGGGAAGATAGGCTTTCGGCCAAGAAGTTCAGCAAAGATGCATCC  1167
+
+
+
+
+>PREDICTED: Gastrolobium bilobum mitogen-activated protein kinase homolog NTF3 (LOC133295956), transcript variant X2, mRNA
+Sequence ID: XM_061494895.1 Length: 1795
+Range 1: 1016 to 1310
+
+Score:258 bits(285), Expect:8e-64, 
+Identities:234/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             ||||||||||||| || || |||||||||| ||| | ||| | ||| ||||| |  ||||
+Sbjct  1310  TGTATGGGTGTTGAAGCGCTTCAGTGACACTAATCCTCTTTGTTGGATCGAAAACAAGCA  1251
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||  ||  |||||||| ||||  |||||||| |||||||| || ||||| || |  |
+Sbjct  1250  TCTTTGTCAACAGATCAATTGCCAATGGATGCGCGTTAGGGTAGAGTCGGGAGAAGGGGG  1191
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| |||||||| || || || ||| ||||  |||||||||| || || || ||||
+Sbjct  1190  TTCCAGGAGAATATGGAAGTGATTTGATATACTTCTTTGCCTTTGGATTATCAATGAATT  1131
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| ||||| || || ||||  ||||| |||||||| || ||||| ||||
+Sbjct  1130  CAATATCCTCCTCCCTTTGACTACCAAGGATGTTGATAATCAGTTTCAGCTGGTTGAGAC  1071
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1070  ACTCTGAACCAGGGAAAATAGGTTTTCGCCCAAGAAGCTCTGCAAAGATGCATCC  1016
+
+
+
+
+>PREDICTED: Herrania umbratica mitogen-activated protein kinase homolog NTF3 (LOC110416740), mRNA
+Sequence ID: XM_021428805.1 Length: 2055
+Range 1: 1206 to 1500
+
+Score:258 bits(285), Expect:8e-64, 
+Identities:234/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||||||| |  || || ||||| || |  ||||
+Sbjct  1500  TGTAAGGGTGTTGGAGTGCTTCAGTTACACCAATCCTTTTTGAGGGGTCAAAAAGAAGCA  1441
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| | |||||| |||| |||||| ||||| || || |||||||| || |  |
+Sbjct  1440  TCTTTTGCAGTAAATCAATTGCCAAAGGATGGGCATTTGGATAGAGACGGGAAAAGGGGG  1381
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||||||||||| || || ||  | || |||||||| | ||| || |||||||
+Sbjct  1380  TTCCAGGAGAATATGGGAGTGATTTGATGTATTTCCTTGCCTTAGAGTTATCTATAAATT  1321
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  |||||||| || || |||||||| ||||
+Sbjct  1320  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATAAGCTTAAGTTGGTTGAGAC  1261
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| ||||||||||| |  || || |  || |||||||| || ||||| |||||
+Sbjct  1260  ACTCTGTACCAGGGAAGATGGGTTTCCTGCCAAGAAGCTCTGCAAAGATGCATCC  1206
+
+
+
+
+>PREDICTED: Punica granatum mitogen-activated protein kinase homolog NTF3 (LOC116213904), mRNA
+Sequence ID: XM_031549041.1 Length: 1870
+Range 1: 1059 to 1353
+
+Score:258 bits(285), Expect:8e-64, 
+Identities:234/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||||||||| || || ||||| || |||||||| | ||| |  |||||||| |||||||
+Sbjct  1353  TGTATGGGTGCTGAAGGGCCTCGGTCACACCAATCCTCTTTGTCGGGTCGAAAATGAGCA  1294
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || || |  ||||| || |||||||| ||||| ||||| || ||||| || |  |
+Sbjct  1293  TCTTCTGGAGCAAGTCAATTGCTAGAGGATGGGCATTGGGGTAGAGCCGGGAGAAGGGGG  1234
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             |||||||||| || || || ||||| ||  |||| |||||||| ||||| || |||||||
+Sbjct  1233  TCCCAGGGGAGTAAGGCAGGGACTTGATGTACTTCCTTGCCTTCGGGTTATCAATAAATT  1174
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             |||| ||||| || || ||||| || ||||| |||||||| || || |||||||| || |
+Sbjct  1173  CAATGTCCTCTTCCCTCTGGCTTCCTAGGACGTTGATGATGAGCTTTAGTTGGTTTAGGC  1114
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || || || ||||| |  ||||| || ||||| |||||||||||||| || ||
+Sbjct  1113  ATTCTGTGCCTGGGAAAAGGGGCTTTCGTCCGAGGAGCTCGGCGAAGATGCAGCC  1059
+
+
+
+
+>PREDICTED: Tripterygium wilfordii mitogen-activated protein kinase homolog NTF3-like (LOC120000555), transcript variant X2, mRNA
+Sequence ID: XM_038848681.1 Length: 1505
+Range 1: 682 to 976
+
+Score:258 bits(285), Expect:8e-64, 
+Identities:234/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1    TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+            |||| || |||||||| || || || |||| ||| |||||||| || || || |  ||||
+Sbjct  976  TGTAAGGATGTTGGAGTGCTTCTGTCACACTAATCCGCTTCGACGGATCAAAAACAAGCA  917
+
+Query  61   TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+            |||||||||| | |||||| |||| |||||| |||||||||||||||| ||| || |  |
+Sbjct  916  TCTTTTGCAGCAAATCAATCGCCATAGGATGGGCATTAGGGTAAAGACCGGAAAACGGGG  857
+
+Query  121  TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+              || |  ||||||||||| |  || ||  | ||||||||||||||||| || |||||||
+Sbjct  856  AACCGGCAGAATATGGGAGTGTTTTGATGTAATTTCTTGCCTTTGGGTTATCAATAAATT  797
+
+Query  181  CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+            | | |||||| | ||| |||||||| ||||  |||||||| || ||||| ||||| ||||
+Sbjct  796  CGAGATCCTCTTGTCTCTGGCTGCCAAGGATGTTGATGATAAGCTTGAGCTGGTTCAGAC  737
+
+Query  241  ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+            |||| ||||||||||| |  ||||| || || ||||| || || ||||| |||||
+Sbjct  736  ACTCTGTACCAGGGAAGATAGGCTTTCGGCCAAGAAGTTCAGCAAAGATGCATCC  682
+
+
+
+
+>PREDICTED: Gastrolobium bilobum mitogen-activated protein kinase homolog NTF3 (LOC133295956), transcript variant X1, mRNA
+Sequence ID: XM_061494894.1 Length: 1819
+Range 1: 1040 to 1334
+
+Score:258 bits(285), Expect:8e-64, 
+Identities:234/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             ||||||||||||| || || |||||||||| ||| | ||| | ||| ||||| |  ||||
+Sbjct  1334  TGTATGGGTGTTGAAGCGCTTCAGTGACACTAATCCTCTTTGTTGGATCGAAAACAAGCA  1275
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||  ||  |||||||| ||||  |||||||| |||||||| || ||||| || |  |
+Sbjct  1274  TCTTTGTCAACAGATCAATTGCCAATGGATGCGCGTTAGGGTAGAGTCGGGAGAAGGGGG  1215
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| |||||||| || || || ||| ||||  |||||||||| || || || ||||
+Sbjct  1214  TTCCAGGAGAATATGGAAGTGATTTGATATACTTCTTTGCCTTTGGATTATCAATGAATT  1155
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| ||||| || || ||||  ||||| |||||||| || ||||| ||||
+Sbjct  1154  CAATATCCTCCTCCCTTTGACTACCAAGGATGTTGATAATCAGTTTCAGCTGGTTGAGAC  1095
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1094  ACTCTGAACCAGGGAAAATAGGTTTTCGCCCAAGAAGCTCTGCAAAGATGCATCC  1040
+
+
+
+
+>Prunus cerasus x Prunus canescens mitogen-activated protein kinase 6 mRNA, complete cds
+Sequence ID: KT357361.1 Length: 1392
+Range 1: 842 to 1136
+
+Score:253 bits(280), Expect:1e-62, 
+Identities:233/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || |||  |||||  || | ||| ||||||||||| || ||||
+Sbjct  1136  TGTAAGGGTGTTGGAGTGCTTCAAGGACACTGATCCTCTTTGATGGGTCGAAAATAAGCA  1077
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| ||||| || |||| |||||| |||| ||| || ||| |||| || |  |
+Sbjct  1076  TCTTTTGCAGTAGATCGATTGCCAAAGGATGGGCATCAGGATAGAGATGGGAGAAGGGGG  1017
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||| | |||||||| || ||  ||||  ||||  | |||||  ||||||| |||||||
+Sbjct  1016  TCCCAAGAGAATATGGCAGTGATCTTATGTACTTCTTCGCCTTATGGTTGTCTATAAATT  957
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+               | ||||||||| || |||||||| ||||  ||||| || |||||||| ||||| ||||
+Sbjct  956   GGAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTGATAATGAGTTTGAGCTGGTTTAGAC  897
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  896   ACTCTGTACCAGGGAAGATAGGTTTCCGGCCAAGAAGCTCAGCAAAGATGCATCC  842
+
+
+
+
+>PREDICTED: Prunus avium mitogen-activated protein kinase homolog NTF3 (LOC110771532), mRNA
+Sequence ID: XM_021975846.1 Length: 1903
+Range 1: 1121 to 1415
+
+Score:253 bits(280), Expect:1e-62, 
+Identities:233/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || |||  |||||  || | ||| ||||||||||| || ||||
+Sbjct  1415  TGTAAGGGTGTTGGAGTGCTTCAAGGACACTGATCCTCTTTGATGGGTCGAAAATAAGCA  1356
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| ||||| || |||| |||||| |||| ||| || ||| |||| || |  |
+Sbjct  1355  TCTTTTGCAGTAGATCGATTGCCAAAGGATGGGCATCAGGATAGAGATGGGAGAAGGGGG  1296
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||| | |||||||| || ||  ||||  ||||  | |||||  ||||||| |||||||
+Sbjct  1295  TCCCAAGAGAATATGGCAGTGATCTTATGTACTTCTTCGCCTTATGGTTGTCTATAAATT  1236
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+               | ||||||||| || |||||||| ||||  ||||| || |||||||| ||||| ||||
+Sbjct  1235  GGAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTGATAATGAGTTTGAGCTGGTTTAGAC  1176
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1175  ACTCTGTACCAGGGAAGATAGGTTTCCGGCCAAGAAGCTCAGCAAAGATGCATCC  1121
+
+
+
+
+>Prunus dulcis genome assembly, chromosome: 1
+Sequence ID: OZ022197.1 Length: 50520004
+Range 1: 35579239 to 35579533
+
+Score:253 bits(280), Expect:1e-62, 
+Identities:233/295(79%),  Gaps:0/295(0%), Strand: Plus/Plus
+
+Query  1         TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+                 |||| ||||||||||| || |||  |||||  || | ||| ||||||||||| |  ||||
+Sbjct  35579239  TGTAAGGGTGTTGGAGTGCTTCAAGGACACTGATCCTCTTTGATGGGTCGAAAACAAGCA  35579298
+
+Query  61        TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+                 |||||||||| ||||| || |||| |||||| |||| ||| || |||||||| || |  |
+Sbjct  35579299  TCTTTTGCAGTAGATCGATTGCCAAAGGATGGGCATCAGGATAGAGACGGGAGAAGGGGG  35579358
+
+Query  121       TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+                 ||||| | |||||||| || ||  ||||  ||||  | |||||  ||||||| |||||||
+Sbjct  35579359  TCCCAAGAGAATATGGCAGTGATCTTATGTACTTCTTCGCCTTATGGTTGTCTATAAATT  35579418
+
+Query  181       CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+                   | ||||||||| || |||||||| ||||  ||||| || |||||||| ||||| ||||
+Sbjct  35579419  GGAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTGATAATGAGTTTGAGCTGGTTTAGAC  35579478
+
+Query  241       ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+                 |||| ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  35579479  ACTCTGTACCAGGGAAGATAGGTTTCCGGCCAAGAAGCTCAGCAAAGATGCATCC  35579533
+
+
+
+
+>PREDICTED: Prunus dulcis mitogen-activated protein kinase homolog NTF3 (LOC117624134), mRNA
+Sequence ID: XM_034355275.1 Length: 1934
+Range 1: 1123 to 1417
+
+Score:253 bits(280), Expect:1e-62, 
+Identities:233/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || |||  |||||  || | ||| ||||||||||| |  ||||
+Sbjct  1417  TGTAAGGGTGTTGGAGTGCTTCAAGGACACTGATCCTCTTTGATGGGTCGAAAACAAGCA  1358
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| ||||| || |||| |||||| |||| ||| || |||||||| || |  |
+Sbjct  1357  TCTTTTGCAGTAGATCGATTGCCAAAGGATGGGCATCAGGATAGAGACGGGAGAAGGGGG  1298
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||| | |||||||| || ||  ||||  ||||  | |||||  ||||||| |||||||
+Sbjct  1297  TCCCAAGAGAATATGGCAGTGATCTTATGTACTTCTTCGCCTTATGGTTGTCTATAAATT  1238
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+               | ||||||||| || |||||||| ||||  ||||| || |||||||| ||||| ||||
+Sbjct  1237  GGAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTGATAATGAGTTTGAGCTGGTTTAGAC  1178
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1177  ACTCTGTACCAGGGAAGATAGGTTTCCGGCCAAGAAGCTCAGCAAAGATGCATCC  1123
+
+
+
+
+>PREDICTED: Manihot esculenta mitogen-activated protein kinase homolog NTF3 (LOC110615816), mRNA
+Sequence ID: XM_021757956.2 Length: 2054
+Range 1: 1182 to 1477
+
+Score:250 bits(276), Expect:1e-61, 
+Identities:235/297(79%),  Gaps:2/297(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||   || | ||| |||||||| || |  ||||
+Sbjct  1477  TGTAAGGGTGTTGGAGTGCTTCAGTTACAGTTATTCTCTTTGATGGGTCAAAAACAAGCA  1418
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | ||    || |||||||| |||| |||||| |||||||||||||| || || ||||  |
+Sbjct  1417  TTTTACCAAGCAGATCAATTGCCAAAGGATGGGCATTAGGGTAAAGGCGAGAAAATGGGG  1358
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTT-GCCTTTGGGTTGTCGATAAAT  179
+             | ||||| |||||||| || ||||| ||  | |||||| ||||| ||||| || ||||||
+Sbjct  1357  TACCAGGAGAATATGGAAGTGACTTGATGTA-TTTCTTAGCCTTAGGGTTATCAATAAAT  1299
+
+Query  180   TCAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGA  239
+             || | ||||||||| || |||||||| ||||  |||||||| ||||| || ||||| |||
+Sbjct  1298  TCTAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTGATGATAAGTTTAAGCTGGTTCAGA  1239
+
+Query  240   CACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCG  296
+             ||||| || || ||||| |  || || || ||||||||||| || ||||||||||||
+Sbjct  1238  CACTCTGTGCCTGGGAAGATAGGTTTCCGGCCGAGAAGCTCTGCAAAGATACATCCG  1182
+
+
+
+
+>Manihot esculenta mitogen-activated protein kinase 4 mRNA, complete cds
+Sequence ID: KT827558.1 Length: 1119
+Range 1: 660 to 955
+
+Score:250 bits(276), Expect:1e-61, 
+Identities:235/297(79%),  Gaps:2/297(0%), Strand: Plus/Minus
+
+Query  1    TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+            |||| ||||||||||| || ||||| |||   || | ||| |||||||| || |  ||||
+Sbjct  955  TGTAAGGGTGTTGGAGTGCTTCAGTTACAGTTATTCTCTTTGATGGGTCAAAAACAAGCA  896
+
+Query  61   TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+            | ||    || |||||||| |||| |||||| |||||||||||||| || || ||||  |
+Sbjct  895  TTTTACCAAGCAGATCAATTGCCAAAGGATGGGCATTAGGGTAAAGGCGAGAAAATGGGG  836
+
+Query  121  TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTT-GCCTTTGGGTTGTCGATAAAT  179
+            | ||||| |||||||| || ||||| ||  | |||||| ||||| ||||| || ||||||
+Sbjct  835  TACCAGGAGAATATGGAAGTGACTTGATGTA-TTTCTTAGCCTTAGGGTTATCAATAAAT  777
+
+Query  180  TCAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGA  239
+            || | ||||||||| || |||||||| ||||  |||||||| ||||| || ||||| |||
+Sbjct  776  TCTAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTGATGATAAGTTTAAGCTGGTTCAGA  717
+
+Query  240  CACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCG  296
+            ||||| || || ||||| |  || || || ||||||||||| || ||||||||||||
+Sbjct  716  CACTCTGTGCCTGGGAAGATAGGTTTCCGGCCGAGAAGCTCTGCAAAGATACATCCG  660
+
+
+
+
+>PREDICTED: Ziziphus jujuba mitogen-activated protein kinase homolog NTF3 (LOC107420498), transcript variant X2, mRNA
+Sequence ID: XM_016029474.4 Length: 2218
+Range 1: 1367 to 1659
+
+Score:250 bits(276), Expect:1e-61, 
+Identities:231/293(79%),  Gaps:0/293(0%), Strand: Plus/Minus
+
+Query  3     TATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATC  62
+             || |||||||||||||| ||| | ||  | || | ||| || ||||| || |  ||||||
+Sbjct  1659  TAAGGGTGTTGGAGAGCATCACTCACGGCGATCCTCTTTGAAGGGTCAAAAACAAGCATC  1600
+
+Query  63    TTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTC  122
+             |||||||| |||||||| |||| |||||||||||| ||||||||| | || || |  |||
+Sbjct  1599  TTTTGCAGCAGATCAATTGCCAAAGGATGCGCATTGGGGTAAAGATGCGAGAAGGGGGTC  1540
+
+Query  123   CCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCA  182
+             || |||| ||||||||  || || ||  ||||  |||||||||| ||||| |||||||||
+Sbjct  1539  CCTGGGGTATATGGGATTGATTTAATGTACTTCTTTGCCTTTGGATTGTCTATAAATTCA  1480
+
+Query  183   ATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACAC  242
+             | |||||||||||| |||||||| ||||  || || ||||   |||| ||||| ||||||
+Sbjct  1479  AGATCCTCCTCTCTCTGGCTGCCAAGGATGTTAATTATCAACCTGAGCTGGTTGAGACAC  1420
+
+Query  243   TCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             || ||||| || || |  || || || || || ||||| || |||||||||||
+Sbjct  1419  TCTGTACCGGGAAAGATGGGTTTCCGGCCTAGCAGCTCAGCAAAGATACATCC  1367
+
+
+
+
+>PREDICTED: Cannabis sativa mitogen-activated protein kinase homolog NTF3 (LOC115701181), mRNA
+Sequence ID: XM_030628907.2 Length: 2202
+Range 1: 1392 to 1684
+
+Score:250 bits(276), Expect:1e-61, 
+Identities:231/293(79%),  Gaps:0/293(0%), Strand: Plus/Minus
+
+Query  3     TATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATC  62
+             || |||||||| || ||||| || ||||  || ||||| || |||||||| | |||||||
+Sbjct  1684  TAAGGGTGTTGAAGTGCCTCGGTAACACTGATTCGCTTTGACGGGTCGAACACGAGCATC  1625
+
+Query  63    TTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTC  122
+             ||||| || |||||||| |||| |||||| ||||||||||| || ||||| || | ||| 
+Sbjct  1624  TTTTGAAGCAGATCAATTGCCAAAGGATGAGCATTAGGGTACAGGCGGGAAAAGGGAGTT  1565
+
+Query  123   CCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCA  182
+             |||||||||||||| |  || ||||| || ||  |||| ||||| || || |||||||||
+Sbjct  1564  CCAGGGGAATATGGAATTGATTTTATGAATTTCTTTGCTTTTGGATTATCTATAAATTCA  1505
+
+Query  183   ATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACAC  242
+             |  |||||||| || ||  | || || |  || ||||| ||||| || ||||| ||||||
+Sbjct  1504  AACTCCTCCTCCCTCTGATTCCCAAGTATGTTTATGATAAGTTTCAGCTGGTTGAGACAC  1445
+
+Query  243   TCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             || | ||| ||||| |  |||||||| || |||||||| || ||||| |||||
+Sbjct  1444  TCAGAACCTGGGAAGATAGGCTTACGGCCTAGAAGCTCAGCAAAGATGCATCC  1392
+
+
+
+
+>Cannabis sativa cultivar ERBxHO40_23 chromosome X
+Sequence ID: CP158662.1 Length: 84640807
+Range 1: 82270653 to 82270945
+
+Score:250 bits(276), Expect:1e-61, 
+Identities:231/293(79%),  Gaps:0/293(0%), Strand: Plus/Minus
+
+Query  3         TATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATC  62
+                 || |||||||| || ||||| || ||||  || ||||| || |||||||| | |||||||
+Sbjct  82270945  TAAGGGTGTTGAAGTGCCTCGGTAACACTGATTCGCTTTGACGGGTCGAACACGAGCATC  82270886
+
+Query  63        TTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTC  122
+                 ||||| || |||||||| |||| |||||| ||||||||||| || ||||| || | ||| 
+Sbjct  82270885  TTTTGAAGCAGATCAATTGCCAAAGGATGAGCATTAGGGTACAGGCGGGAAAAGGGAGTT  82270826
+
+Query  123       CCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCA  182
+                 |||||||||||||| |  || ||||| || ||  |||| ||||| || || |||||||||
+Sbjct  82270825  CCAGGGGAATATGGAATTGATTTTATGAATTTCTTTGCTTTTGGATTATCTATAAATTCA  82270766
+
+Query  183       ATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACAC  242
+                 |  |||||||| || ||  | || || |  || ||||| ||||| || ||||| ||||||
+Sbjct  82270765  AACTCCTCCTCCCTCTGATTCCCAAGTATGTTTATGATAAGTTTCAGCTGGTTGAGACAC  82270706
+
+Query  243       TCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+                 || | ||| ||||| |  |||||||| || |||||||| || ||||| |||||
+Sbjct  82270705  TCAGAACCTGGGAAGATAGGCTTACGGCCTAGAAGCTCAGCAAAGATGCATCC  82270653
+
+
+
+
+>PREDICTED: Ziziphus jujuba mitogen-activated protein kinase homolog NTF3 (LOC107420498), transcript variant X1, mRNA
+Sequence ID: XM_016029473.4 Length: 2223
+Range 1: 1372 to 1664
+
+Score:250 bits(276), Expect:1e-61, 
+Identities:231/293(79%),  Gaps:0/293(0%), Strand: Plus/Minus
+
+Query  3     TATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATC  62
+             || |||||||||||||| ||| | ||  | || | ||| || ||||| || |  ||||||
+Sbjct  1664  TAAGGGTGTTGGAGAGCATCACTCACGGCGATCCTCTTTGAAGGGTCAAAAACAAGCATC  1605
+
+Query  63    TTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTC  122
+             |||||||| |||||||| |||| |||||||||||| ||||||||| | || || |  |||
+Sbjct  1604  TTTTGCAGCAGATCAATTGCCAAAGGATGCGCATTGGGGTAAAGATGCGAGAAGGGGGTC  1545
+
+Query  123   CCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCA  182
+             || |||| ||||||||  || || ||  ||||  |||||||||| ||||| |||||||||
+Sbjct  1544  CCTGGGGTATATGGGATTGATTTAATGTACTTCTTTGCCTTTGGATTGTCTATAAATTCA  1485
+
+Query  183   ATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACAC  242
+             | |||||||||||| |||||||| ||||  || || ||||   |||| ||||| ||||||
+Sbjct  1484  AGATCCTCCTCTCTCTGGCTGCCAAGGATGTTAATTATCAACCTGAGCTGGTTGAGACAC  1425
+
+Query  243   TCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             || ||||| || || |  || || || || || ||||| || |||||||||||
+Sbjct  1424  TCTGTACCGGGAAAGATGGGTTTCCGGCCTAGCAGCTCAGCAAAGATACATCC  1372
+
+
+
+
+>Cannabis sativa cultivar ERBxHO40_23 chromosome X
+Sequence ID: CP158652.1 Length: 84401000
+Range 1: 2305461 to 2305753
+
+Score:250 bits(276), Expect:1e-61, 
+Identities:231/293(79%),  Gaps:0/293(0%), Strand: Plus/Plus
+
+Query  3        TATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATC  62
+                || |||||||| || ||||| || ||||  || ||||| || |||||||| | |||||||
+Sbjct  2305461  TAAGGGTGTTGAAGTGCCTCGGTAACACTGATTCGCTTTGACGGGTCGAACACGAGCATC  2305520
+
+Query  63       TTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTC  122
+                ||||| || |||||||| |||| |||||| ||||||||||| || ||||| || | ||| 
+Sbjct  2305521  TTTTGAAGCAGATCAATTGCCAAAGGATGAGCATTAGGGTACAGGCGGGAAAAGGGAGTT  2305580
+
+Query  123      CCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCA  182
+                |||||||||||||| |  || ||||| || ||  |||| ||||| || || |||||||||
+Sbjct  2305581  CCAGGGGAATATGGAATTGATTTTATGAATTTCTTTGCTTTTGGATTATCTATAAATTCA  2305640
+
+Query  183      ATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACAC  242
+                |  |||||||| || ||  | || || |  || ||||| ||||| || ||||| ||||||
+Sbjct  2305641  AACTCCTCCTCCCTCTGATTCCCAAGTATGTTTATGATAAGTTTCAGCTGGTTGAGACAC  2305700
+
+Query  243      TCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+                || | ||| ||||| |  |||||||| || |||||||| || ||||| |||||
+Sbjct  2305701  TCAGAACCTGGGAAGATAGGCTTACGGCCTAGAAGCTCAGCAAAGATGCATCC  2305753
+
+
+
+
+>PREDICTED: Camellia sinensis mitogen-activated protein kinase homolog NTF3 (LOC114288639), transcript variant X2, mRNA
+Sequence ID: XM_028232188.1 Length: 1972
+Range 1: 1237 to 1531
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || || || |||| ||| | ||| |||||||| || | |||||
+Sbjct  1531  TGTAAGGGTGTTGGAGTGCTTCGGTAACACTAATCCTCTTTGATGGGTCAAAGACGAGCA  1472
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || ||||||||||| |||| |||||  ||||| || ||||| || || || |  |
+Sbjct  1471  TCTTCTGTAGGAGATCAATTGCCAAAGGATAGGCATTTGGATAAAGCCGAGAAAAAGGTG  1412
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| ||||| || || || || |||||||| ||||| || ||||| || || ||||
+Sbjct  1411  TCCCAGGAGAATAAGGTAGTGATTTAATAAACTTCCTTGCTTTCGGGTTATCAATGAATT  1352
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||| ||||| || ||||| || ||||  || || ||||| ||||||||||| ||||
+Sbjct  1351  CAAGATCATCCTCCCTCTGGCTACCAAGGATGTTAATAATCAGCTTGAGTTGGTTGAGAC  1292
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || ||||| || |  ||||| || || ||||| || || ||||| |||||
+Sbjct  1291  ACTCTGTTCCAGGAAAGATGGGCTTCCGTCCCAGAAGTTCAGCAAAGATGCATCC  1237
+
+
+
+
+>PREDICTED: Gossypium raimondii mitogen-activated protein kinase homolog NTF3 (LOC105793800), mRNA
+Sequence ID: XM_012622649.2 Length: 1936
+Range 1: 1110 to 1404
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||||||| |  || || ||||| || |  ||||
+Sbjct  1404  TGTAAGGGTGTTGGAGTGCTTCAGTTACACCAATCCTTTTTGAAGGGTCAAAAACTAGCA  1345
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | |||||||| | |||||| |||| |||||| ||||| || |||||||  || || |   
+Sbjct  1344  TTTTTTGCAGTAAATCAATTGCCAAAGGATGGGCATTTGGATAAAGACAAGAAAAGGGGA  1285
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| ||||||||||||| || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1284  TTCCATGGGAATATGGGAGTGATTTAATGTAGTTCCTTGCCTTGGGGTTATCTATAAATT  1225
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| ||  | |||||||| || |  ||||||||||| || |||||||| ||||
+Sbjct  1224  CAAGATCCTCTTCCTTCTGGCTGCCAAGTATGTTGATGATCAGCTTAAGTTGGTTGAGAC  1165
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1164  ACTCTGTACCAGGGAAGATGGGTTTTCGGCCAAGAAGCTCCGCAAAGATGCATCC  1110
+
+
+
+
+>PREDICTED: Camellia sinensis mitogen-activated protein kinase homolog NTF3 (LOC114288639), transcript variant X1, mRNA
+Sequence ID: XM_028232187.1 Length: 1950
+Range 1: 1215 to 1509
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || || || |||| ||| | ||| |||||||| || | |||||
+Sbjct  1509  TGTAAGGGTGTTGGAGTGCTTCGGTAACACTAATCCTCTTTGATGGGTCAAAGACGAGCA  1450
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| || ||||||||||| |||| |||||  ||||| || ||||| || || || |  |
+Sbjct  1449  TCTTCTGTAGGAGATCAATTGCCAAAGGATAGGCATTTGGATAAAGCCGAGAAAAAGGTG  1390
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| ||||| || || || || |||||||| ||||| || ||||| || || ||||
+Sbjct  1389  TCCCAGGAGAATAAGGTAGTGATTTAATAAACTTCCTTGCTTTCGGGTTATCAATGAATT  1330
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||| ||||| || ||||| || ||||  || || ||||| ||||||||||| ||||
+Sbjct  1329  CAAGATCATCCTCCCTCTGGCTACCAAGGATGTTAATAATCAGCTTGAGTTGGTTGAGAC  1270
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || ||||| || |  ||||| || || ||||| || || ||||| |||||
+Sbjct  1269  ACTCTGTTCCAGGAAAGATGGGCTTCCGTCCCAGAAGTTCAGCAAAGATGCATCC  1215
+
+
+
+
+>PREDICTED: Abrus precatorius mitogen-activated protein kinase homolog NTF3 (LOC113866375), transcript variant X2, mRNA
+Sequence ID: XM_027501274.1 Length: 2199
+Range 1: 1333 to 1627
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || || ||||||| ||| | ||| | ||| ||||| |  ||||
+Sbjct  1627  TGTAAGGGTGTTGAAGCGCTTCTGTGACACTAATCCTCTTTGTTGGATCGAAAACAAGCA  1568
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | |||  ||| |||||||| ||||  ||||| |||||||| ||||| ||||| || |  |
+Sbjct  1567  TTTTTGCCAGTAGATCAATTGCCAATGGATGTGCATTAGGATAAAGCCGGGAAAAGGGGG  1508
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| |||||||| ||||| || ||| ||||  | |||||||| || || |||||||
+Sbjct  1507  TTCCAGGAGAATATGGAAGAGATTTGATATACTTCTTCGCCTTTGGATTATCAATAAATT  1448
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||| ||||| ||| | || || |||| |||||| |||| ||| |||||||| ||||
+Sbjct  1447  CAATATCTTCCTCCCTTCGACTACCAAGGATATTGATAATCAATTTTAGTTGGTTGAGAC  1388
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1387  ACTCTGAACCAGGGAAAATAGGTTTCCGTCCAAGAAGCTCTGCAAAGATGCATCC  1333
+
+
+
+
+>PREDICTED: Prunus mume mitogen-activated protein kinase homolog NTF3 (LOC103320886), mRNA
+Sequence ID: XM_008222632.2 Length: 1953
+Range 1: 1127 to 1421
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || |||  |||||  || | ||| ||||||||||| |  ||||
+Sbjct  1421  TGTAAGGGTGTTGGAGTGCTTCAAGGACACTTATCCTCTTTGATGGGTCGAAAACAAGCA  1362
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| ||||| || |||| |||||| |||| ||| || |||||||| || |  |
+Sbjct  1361  TCTTTTGCAGTAGATCGATTGCCAAAGGATGGGCATCAGGATAGAGACGGGAGAAGGGTG  1302
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||| | |||||||| || ||  ||||  ||||  | |||||  ||||||| |||||||
+Sbjct  1301  TCCCAAGAGAATATGGCAGTGATCTTATGTACTTCTTCGCCTTATGGTTGTCTATAAATT  1242
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+               | ||||||||| || |||||||| ||||  ||||| || |||||||| ||||| ||||
+Sbjct  1241  GGAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTGATTATGAGTTTGAGCTGGTTTAGAC  1182
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || |||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1181  ACTCTGTGCCAGGGAAGATAGGTTTCCGGCCAAGAAGCTCAGCAAAGATGCATCC  1127
+
+
+
+
+>PREDICTED: Gossypium hirsutum mitogen-activated protein kinase homolog NTF3 (LOC107957941), transcript variant X1, mRNA
+Sequence ID: XM_016893571.2 Length: 1978
+Range 1: 1132 to 1426
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| | ||| || ||||| || |  ||||
+Sbjct  1426  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTCTTTGAAGGGTCAAAAACAAGCA  1367
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  1366  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  1307
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1306  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  1247
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  1246  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  1187
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1186  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  1132
+
+
+
+
+>PREDICTED: Gossypium hirsutum mitogen-activated protein kinase homolog NTF3 (LOC107957941), transcript variant X2, mRNA
+Sequence ID: XM_016893570.2 Length: 2085
+Range 1: 1239 to 1533
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| | ||| || ||||| || |  ||||
+Sbjct  1533  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTCTTTGAAGGGTCAAAAACAAGCA  1474
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  1473  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  1414
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1413  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  1354
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  1353  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  1294
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1293  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  1239
+
+
+
+
+>PREDICTED: Gossypium arboreum mitogen-activated protein kinase homolog NTF3 (LOC108457318), transcript variant X1, mRNA
+Sequence ID: XM_017756310.2 Length: 2047
+Range 1: 1225 to 1519
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| | ||| || ||||| || |  ||||
+Sbjct  1519  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTCTTTGAAGGGTCAAAAACAAGCA  1460
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  1459  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  1400
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1399  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  1340
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  1339  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  1280
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1279  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  1225
+
+
+
+
+>PREDICTED: Lupinus angustifolius mitogen-activated protein kinase homolog NTF3 (LOC109343167), transcript variant X2, mRNA
+Sequence ID: XM_019581340.1 Length: 1696
+Range 1: 931 to 1225
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || || ||||||| ||| | ||| ||||| || || |  ||||
+Sbjct  1225  TGTAAGGGTGTTGAAGTGCTTCGGTGACACTAATCCTCTTTGATGGATCAAAAACAAGCA  1166
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             ||||   ||| |||||||| ||||  ||||| ||||| |||||||| ||||  || |   
+Sbjct  1165  TCTTCGCCAGTAGATCAATGGCCAATGGATGAGCATTTGGGTAAAGTCGGGGGAAAGGGA  1106
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| |||||||| || || || ||  ||||  |||||||||| || || |||||||
+Sbjct  1105  TTCCAGGAGAATATGGAAGTGATTTGATGTACTTCTTTGCCTTTGGATTATCAATAAATT  1046
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| || |||||||| |||||||  ||||| |||||||| || ||||||||||
+Sbjct  1045  CAAGATCCTCTTCCCTTTGGCTACCGAGGATGTTGATAATCAGTTTTAGCTGGTTAAGAC  986
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| |||||||| |||||
+Sbjct  985   ACTCTGAACCAGGGAAAATAGGTTTTCGTCCCAGAAGCTCCGCGAAGATGCATCC  931
+
+
+
+
+>PREDICTED: Lupinus angustifolius mitogen-activated protein kinase homolog NTF3 (LOC109343167), transcript variant X1, mRNA
+Sequence ID: XM_019581339.1 Length: 1716
+Range 1: 951 to 1245
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || || ||||||| ||| | ||| ||||| || || |  ||||
+Sbjct  1245  TGTAAGGGTGTTGAAGTGCTTCGGTGACACTAATCCTCTTTGATGGATCAAAAACAAGCA  1186
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             ||||   ||| |||||||| ||||  ||||| ||||| |||||||| ||||  || |   
+Sbjct  1185  TCTTCGCCAGTAGATCAATGGCCAATGGATGAGCATTTGGGTAAAGTCGGGGGAAAGGGA  1126
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| |||||||| || || || ||  ||||  |||||||||| || || |||||||
+Sbjct  1125  TTCCAGGAGAATATGGAAGTGATTTGATGTACTTCTTTGCCTTTGGATTATCAATAAATT  1066
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| || |||||||| |||||||  ||||| |||||||| || ||||||||||
+Sbjct  1065  CAAGATCCTCTTCCCTTTGGCTACCGAGGATGTTGATAATCAGTTTTAGCTGGTTAAGAC  1006
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| |||||||| |||||
+Sbjct  1005  ACTCTGAACCAGGGAAAATAGGTTTTCGTCCCAGAAGCTCCGCGAAGATGCATCC  951
+
+
+
+
+>PREDICTED: Gossypium hirsutum mitogen-activated protein kinase homolog NTF3 (LOC107910200), mRNA
+Sequence ID: XM_016837981.2 Length: 2057
+Range 1: 1234 to 1528
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||||||| |  || || ||||| || |  ||||
+Sbjct  1528  TGTAAGGGTGTTGGAGTGCTTCAGTTACACCAATCCTTTTTGAAGGGTCAAAAACTAGCA  1469
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | |||||||| | |||||| |||| |||||| ||||| || |||||||  || || |   
+Sbjct  1468  TTTTTTGCAGTAAATCAATTGCCAAAGGATGGGCATTTGGATAAAGACAAGAAAAGGGGA  1409
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| ||||||||||||| || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1408  TTCCATGGGAATATGGGAGTGATTTAATGTAGTTCCTTGCCTTGGGGTTATCTATAAATT  1349
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| ||  | |||||||| || |  ||||||||||| || |||||||| ||||
+Sbjct  1348  CAAGATCCTCTTCCTTCTGGCTGCCAAGTATGTTGATGATCAGCTTAAGTTGGTTGAGAC  1289
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1288  ACTCTGTACCAGGGAAGATGGGTTTTCGGCCAAGAAGCTCCGCAAAGATGCATCC  1234
+
+
+
+
+>PREDICTED: Lupinus angustifolius mitogen-activated protein kinase homolog NTF3 (LOC109343167), transcript variant X4, mRNA
+Sequence ID: XM_019581342.1 Length: 1435
+Range 1: 670 to 964
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1    TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+            |||| |||||||| || || || ||||||| ||| | ||| ||||| || || |  ||||
+Sbjct  964  TGTAAGGGTGTTGAAGTGCTTCGGTGACACTAATCCTCTTTGATGGATCAAAAACAAGCA  905
+
+Query  61   TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+            ||||   ||| |||||||| ||||  ||||| ||||| |||||||| ||||  || |   
+Sbjct  904  TCTTCGCCAGTAGATCAATGGCCAATGGATGAGCATTTGGGTAAAGTCGGGGGAAAGGGA  845
+
+Query  121  TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+            | ||||| |||||||| || || || ||  ||||  |||||||||| || || |||||||
+Sbjct  844  TTCCAGGAGAATATGGAAGTGATTTGATGTACTTCTTTGCCTTTGGATTATCAATAAATT  785
+
+Query  181  CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+            ||| |||||| || |||||||| |||||||  ||||| |||||||| || ||||||||||
+Sbjct  784  CAAGATCCTCTTCCCTTTGGCTACCGAGGATGTTGATAATCAGTTTTAGCTGGTTAAGAC  725
+
+Query  241  ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+            |||| | ||||||||| |  || || || || |||||||| |||||||| |||||
+Sbjct  724  ACTCTGAACCAGGGAAAATAGGTTTTCGTCCCAGAAGCTCCGCGAAGATGCATCC  670
+
+
+
+
+>PREDICTED: Gossypium arboreum mitogen-activated protein kinase homolog NTF3 (LOC108457318), transcript variant X2, mRNA
+Sequence ID: XM_017756311.2 Length: 2053
+Range 1: 1231 to 1525
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| | ||| || ||||| || |  ||||
+Sbjct  1525  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTCTTTGAAGGGTCAAAAACAAGCA  1466
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  1465  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  1406
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1405  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  1346
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  1345  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  1286
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1285  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  1231
+
+
+
+
+>PREDICTED: Abrus precatorius mitogen-activated protein kinase homolog NTF3 (LOC113866375), transcript variant X1, mRNA
+Sequence ID: XM_027501273.1 Length: 1843
+Range 1: 979 to 1273
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || || ||||||| ||| | ||| | ||| ||||| |  ||||
+Sbjct  1273  TGTAAGGGTGTTGAAGCGCTTCTGTGACACTAATCCTCTTTGTTGGATCGAAAACAAGCA  1214
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | |||  ||| |||||||| ||||  ||||| |||||||| ||||| ||||| || |  |
+Sbjct  1213  TTTTTGCCAGTAGATCAATTGCCAATGGATGTGCATTAGGATAAAGCCGGGAAAAGGGGG  1154
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| |||||||| ||||| || ||| ||||  | |||||||| || || |||||||
+Sbjct  1153  TTCCAGGAGAATATGGAAGAGATTTGATATACTTCTTCGCCTTTGGATTATCAATAAATT  1094
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||| ||||| ||| | || || |||| |||||| |||| ||| |||||||| ||||
+Sbjct  1093  CAATATCTTCCTCCCTTCGACTACCAAGGATATTGATAATCAATTTTAGTTGGTTGAGAC  1034
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1033  ACTCTGAACCAGGGAAAATAGGTTTCCGTCCAAGAAGCTCTGCAAAGATGCATCC  979
+
+
+
+
+>PREDICTED: Lupinus angustifolius mitogen-activated protein kinase homolog NTF3 (LOC109343167), transcript variant X3, mRNA
+Sequence ID: XM_019581341.1 Length: 1706
+Range 1: 941 to 1235
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || || ||||||| ||| | ||| ||||| || || |  ||||
+Sbjct  1235  TGTAAGGGTGTTGAAGTGCTTCGGTGACACTAATCCTCTTTGATGGATCAAAAACAAGCA  1176
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             ||||   ||| |||||||| ||||  ||||| ||||| |||||||| ||||  || |   
+Sbjct  1175  TCTTCGCCAGTAGATCAATGGCCAATGGATGAGCATTTGGGTAAAGTCGGGGGAAAGGGA  1116
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| |||||||| || || || ||  ||||  |||||||||| || || |||||||
+Sbjct  1115  TTCCAGGAGAATATGGAAGTGATTTGATGTACTTCTTTGCCTTTGGATTATCAATAAATT  1056
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| || |||||||| |||||||  ||||| |||||||| || ||||||||||
+Sbjct  1055  CAAGATCCTCTTCCCTTTGGCTACCGAGGATGTTGATAATCAGTTTTAGCTGGTTAAGAC  996
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| |||||||| |||||
+Sbjct  995   ACTCTGAACCAGGGAAAATAGGTTTTCGTCCCAGAAGCTCCGCGAAGATGCATCC  941
+
+
+
+
+>PREDICTED: Prunus persica mitogen-activated protein kinase homolog NTF3 (LOC18790031), mRNA
+Sequence ID: XM_007225711.2 Length: 1977
+Range 1: 1122 to 1416
+
+Score:249 bits(275), Expect:4e-61, 
+Identities:232/295(79%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || |||  |||||  || | ||| ||||||||||| |  ||||
+Sbjct  1416  TGTAAGGGTGTTGGAGTGCTTCAAGGACACTGATCCTCTTTGATGGGTCGAAAACAAGCA  1357
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| ||||| || |||| |||||| |||| ||| || ||| |||| || |  |
+Sbjct  1356  TCTTTTGCAGTAGATCGATTGCCAAAGGATGGGCATCAGGATAGAGATGGGAGAAGGGGG  1297
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||| | |||||||| || ||  ||||  ||||  | |||||  ||||||| |||||||
+Sbjct  1296  TCCCAAGAGAATATGGCAGTGATCTTATGTACTTCTTCGCCTTATGGTTGTCTATAAATT  1237
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+               | ||||||||| || |||||||| ||||  ||||| || |||||||| ||||| ||||
+Sbjct  1236  GGAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTGATAATGAGTTTGAGCTGGTTTAGAC  1177
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1176  ACTCTGTACCAGGGAAGATAGGTTTCCGGCCAAGAAGCTCAGCAAAGATGCATCC  1122
+
+
+
+
+>PREDICTED: Quercus lobata mitogen-activated protein kinase homolog NTF3 (LOC115974385), transcript variant X1, mRNA
+Sequence ID: XM_031094722.1 Length: 1805
+Range 1: 987 to 1285
+
+Score:247 bits(273), Expect:1e-60, 
+Identities:234/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| ||||| || || ||||  || | ||| ||||| || ||||  ||||
+Sbjct  1285  TGTAAGGGTGTTGCAGAGCTTCTGTAACACTTATCCTCTTTGATGGATCAAATACAAGCA  1226
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | |||||||| |||||||||||||| ||||| ||||| || ||||||||||| || |  |
+Sbjct  1225  TTTTTTGCAGAAGATCAATAGCCAGGGGATGGGCATTGGGATAAAGACGGGAAAAGGGGG  1166
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| || ||||| || | ||| ||  |  |  |||||||||| ||||| |||||||
+Sbjct  1165  TCCCAGGAGAGTATGGAAGTGCCTTAATGTATCTCTTTGCCTTTGGATTGTCTATAAATT  1106
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| ||||| ||||| || ||||  |||||||||||||| ||||| || ||||
+Sbjct  1105  CAAGATCCTCATCTCTCTGGCTACCAAGGATGTTGATGATCAGTTTAAGTTGATTGAGAC  1046
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             | || || ||||| || | ||  || || || |||||||| || || || || ||| ||
+Sbjct  1045  ATTCTGTGCCAGGAAAGATTGATTTTCGGCCAAGAAGCTCAGCAAAAATGCAGCCGACA  987
+
+
+
+
+>PREDICTED: Quercus lobata mitogen-activated protein kinase homolog NTF3 (LOC115974385), transcript variant X2, mRNA
+Sequence ID: XM_031094723.1 Length: 1823
+Range 1: 1005 to 1303
+
+Score:247 bits(273), Expect:1e-60, 
+Identities:234/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| ||||| || || ||||  || | ||| ||||| || ||||  ||||
+Sbjct  1303  TGTAAGGGTGTTGCAGAGCTTCTGTAACACTTATCCTCTTTGATGGATCAAATACAAGCA  1244
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | |||||||| |||||||||||||| ||||| ||||| || ||||||||||| || |  |
+Sbjct  1243  TTTTTTGCAGAAGATCAATAGCCAGGGGATGGGCATTGGGATAAAGACGGGAAAAGGGGG  1184
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| || ||||| || | ||| ||  |  |  |||||||||| ||||| |||||||
+Sbjct  1183  TCCCAGGAGAGTATGGAAGTGCCTTAATGTATCTCTTTGCCTTTGGATTGTCTATAAATT  1124
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| ||||| ||||| || ||||  |||||||||||||| ||||| || ||||
+Sbjct  1123  CAAGATCCTCATCTCTCTGGCTACCAAGGATGTTGATGATCAGTTTAAGTTGATTGAGAC  1064
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             | || || ||||| || | ||  || || || |||||||| || || || || ||| ||
+Sbjct  1063  ATTCTGTGCCAGGAAAGATTGATTTTCGGCCAAGAAGCTCAGCAAAAATGCAGCCGACA  1005
+
+
+
+
+>Ziziphus jujuba isolate TW-2024b chromosome 06
+Sequence ID: CP157408.1 Length: 32802658
+Range 1: 9013038 to 9013330
+
+Score:245 bits(271), Expect:5e-60, 
+Identities:230/293(78%),  Gaps:0/293(0%), Strand: Plus/Minus
+
+Query  3        TATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATC  62
+                || |||||||||||||| ||| | ||  | || | ||| || ||||| || |  ||||||
+Sbjct  9013330  TAAGGGTGTTGGAGAGCATCACTCACGGCGATCCTCTTTGAAGGGTCAAAAACAAGCATC  9013271
+
+Query  63       TTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTC  122
+                |||||||  |||||||| |||| |||||||||||| ||||||||| | || || |  |||
+Sbjct  9013270  TTTTGCAACAGATCAATTGCCAAAGGATGCGCATTGGGGTAAAGATGCGAGAAGGGGGTC  9013211
+
+Query  123      CCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCA  182
+                || |||| ||||||||  || || ||  ||||  |||||||||| ||||| |||||||||
+Sbjct  9013210  CCTGGGGTATATGGGATTGATTTAATGTACTTCTTTGCCTTTGGATTGTCTATAAATTCA  9013151
+
+Query  183      ATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACAC  242
+                | |||||||||||| |||||||| ||||  || || ||||   |||| ||||| ||||||
+Sbjct  9013150  AGATCCTCCTCTCTCTGGCTGCCAAGGATGTTAATTATCAACCTGAGCTGGTTGAGACAC  9013091
+
+Query  243      TCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+                || ||||| || || |  || || || || || ||||| || |||||||||||
+Sbjct  9013090  TCTGTACCGGGAAAGATGGGTTTCCGGCCTAGCAGCTCAGCAAAGATACATCC  9013038
+
+
+
+
+>PREDICTED: Vigna unguiculata mitogen-activated protein kinase homolog NTF3 (LOC114164035), mRNA
+Sequence ID: XM_028048496.1 Length: 1828
+Range 1: 1014 to 1303
+
+Score:244 bits(270), Expect:5e-60, 
+Identities:228/290(79%),  Gaps:0/290(0%), Strand: Plus/Minus
+
+Query  6     GGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATCTTT  65
+             |||||||| || || ||||||||||  || | ||| | ||| ||||| |  |||||||||
+Sbjct  1303  GGGTGTTGAAGCGCTTCAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCATCTTT  1244
+
+Query  66    TGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTCCCA  125
+             | ||| |||||||| ||||||||||| |||||||| ||||| |  ||||| |  || |||
+Sbjct  1243  TCCAGAAGATCAATTGCCAGAGGATGTGCATTAGGATAAAGTCTCGATAAGGGGGTTCCA  1184
+
+Query  126   GGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCAATA  185
+             || ||| | || || ||||| ||| ||||| |||||||||| ||||| || || ||||| 
+Sbjct  1183  GGAGAAGAAGGAAGTGACTTGATATACTTTTTTGCCTTTGGATTGTCAATGAACTCAATG  1124
+
+Query  186   TCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACACTCG  245
+             |||||||| || || || || |||  ||||||||||| ||| || ||||| |||||||| 
+Sbjct  1123  TCCTCCTCCCTCTGACTACCAAGGGTATTGATGATCAATTTCAGCTGGTTGAGACACTCT  1064
+
+Query  246   GTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | |||||| || |  || || || || |||||||| || ||||| |||||
+Sbjct  1063  GAACCAGGAAAAATCGGTTTTCGGCCAAGAAGCTCAGCAAAGATGCATCC  1014
+
+
+
+
+>PREDICTED: Gossypium hirsutum mitogen-activated protein kinase homolog NTF3-like (LOC107905456), transcript variant X1, mRNA
+Sequence ID: XM_016832113.2 Length: 2071
+Range 1: 1222 to 1516
+
+Score:244 bits(270), Expect:5e-60, 
+Identities:231/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| |  || || ||||| || |  ||||
+Sbjct  1516  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTTTTTGAAGGGTCAAAAACAAGCA  1457
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  1456  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  1397
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1396  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  1337
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  1336  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  1277
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1276  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  1222
+
+
+
+
+>PREDICTED: Gossypium hirsutum mitogen-activated protein kinase homolog NTF3-like (LOC107905456), transcript variant X2, mRNA
+Sequence ID: XM_016832114.2 Length: 2073
+Range 1: 1224 to 1518
+
+Score:244 bits(270), Expect:5e-60, 
+Identities:231/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| |  || || ||||| || |  ||||
+Sbjct  1518  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTTTTTGAAGGGTCAAAAACAAGCA  1459
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  1458  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  1399
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1398  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  1339
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  1338  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  1279
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1278  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  1224
+
+
+
+
+>Gossypium hirsutum mitogen-activated protein kinase (MAPK) mRNA, complete cds
+Sequence ID: DQ132852.1 Length: 1932
+Range 1: 1058 to 1352
+
+Score:244 bits(270), Expect:5e-60, 
+Identities:231/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| |  || || ||||| || |  ||||
+Sbjct  1352  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTTTTTGAAGGGTCAAAAACAAGCA  1293
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  1292  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  1233
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || |||||||| ||||| || |||||||
+Sbjct  1232  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  1173
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  1172  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  1113
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1112  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  1058
+
+
+
+
+>PREDICTED: Apium graveolens mitogen-activated protein kinase homolog NTF3 (LOC141684260), mRNA
+Sequence ID: XM_074489135.1 Length: 1778
+Range 1: 1045 to 1339
+
+Score:244 bits(270), Expect:5e-60, 
+Identities:231/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||| ||||| || || || |||| ||| | ||| || ||||| || |  ||||
+Sbjct  1339  TGTAAGGGTGCTGGAGTGCTTCCGTAACACTAATTCTCTTTGAAGGGTCAAAGACAAGCA  1280
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||| ||||| ||||| || |||| |||||| |||| |||||| ||||| || ||||  |
+Sbjct  1279  TCTTCTGCAGCAGATCTATTGCCATAGGATGGGCATGAGGGTAGAGACGAGACAATGGTG  1220
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| | |||||||| || || |||||||||||||| |||||||| || || || || |
+Sbjct  1219  TGCCAAGAGAATATGGAAGTGATTTTATAAACTTTCTCGCCTTTGGATTATCAATGAACT  1160
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+              |||||| || ||||| || ||||| ||||  ||||| || ||||| || ||||| || |
+Sbjct  1159  GAATATCATCTTCTCTCTGACTGCCCAGGATGTTGATTATGAGTTTAAGCTGGTTTAGGC  1100
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| || |||||||||| ||| || || || |||||||| || || ||||| ||
+Sbjct  1099  ACTCTGTTCCAGGGAATATTGGTTTTCGTCCAAGAAGCTCAGCAAAAATACAGCC  1045
+
+
+
+
+>PREDICTED: Vigna angularis mitogen-activated protein kinase homolog 1 (LOC108342930), mRNA
+Sequence ID: XM_017580838.2 Length: 1872
+Range 1: 1051 to 1345
+
+Score:244 bits(270), Expect:5e-60, 
+Identities:231/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || ||||||||||  || | ||| | ||| ||||| |  ||||
+Sbjct  1345  TGTAAGGGTGTTGAAGCGCTTCAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCA  1286
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||  ||| |||||||| |||| |||||| |||||||| ||||| || || || |  |
+Sbjct  1285  TCTTTGCCAGAAGATCAATTGCCAAAGGATGTGCATTAGGATAAAGTCGCGAAAAGGGGG  1226
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||| | || || || || ||| ||||  |||||||||| || ||||| || |
+Sbjct  1225  TTCCAGGAGAAGAAGGAAGTGATTTGATATACTTCTTTGCCTTTGGATTATCGATGAACT  1166
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             | || |||||||| ||||| || || |||| ||||||||||| ||| || ||||| ||||
+Sbjct  1165  CGATGTCCTCCTCCCTTTGACTACCAAGGATATTGATGATCAATTTCAGCTGGTTGAGAC  1106
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || ||||| |||||||| || ||||| |||||
+Sbjct  1105  ACTCTGAACCAGGGAAAATCGGTTTTCGACCAAGAAGCTCAGCAAAGATGCATCC  1051
+
+
+
+
+>Gossypium hirsutum mitogen-activated protein kinase (MAPK) gene, complete cds
+Sequence ID: FJ966890.1 Length: 3023
+Range 1: 2171 to 2465
+
+Score:244 bits(270), Expect:5e-60, 
+Identities:231/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| |  || || ||||| || |  ||||
+Sbjct  2465  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTTTTTGAAGGGTCAAAAACAAGCA  2406
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  2405  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  2346
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || |||||||| ||||| || |||||||
+Sbjct  2345  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  2286
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  2285  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  2226
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  2225  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  2171
+
+
+
+
+>PREDICTED: Vigna umbellata mitogen-activated protein kinase homolog 1 (LOC124834218), mRNA
+Sequence ID: XM_047308868.1 Length: 1869
+Range 1: 1048 to 1342
+
+Score:244 bits(270), Expect:5e-60, 
+Identities:231/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || ||||||||||  || | ||| | ||| ||||| |  ||||
+Sbjct  1342  TGTAAGGGTGTTGAAGCGCTTCAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCA  1283
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||  ||| |||||||| |||| |||||| |||||||| ||||| || || || |  |
+Sbjct  1282  TCTTTGCCAGAAGATCAATTGCCAAAGGATGTGCATTAGGATAAAGTCGCGAAAAGGGGG  1223
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||| | || || || || ||| ||||  |||||||||| || ||||| || |
+Sbjct  1222  TTCCAGGAGAAGAAGGAAGTGATTTGATATACTTCTTTGCCTTTGGATTATCGATGAACT  1163
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             | || |||||||| ||||| || || |||| ||||||||||| ||| || ||||| ||||
+Sbjct  1162  CGATGTCCTCCTCCCTTTGACTACCAAGGATATTGATGATCAATTTCAGCTGGTTGAGAC  1103
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || ||||| |||||||| || ||||| |||||
+Sbjct  1102  ACTCTGAACCAGGGAAAATCGGTTTTCGACCAAGAAGCTCAGCAAAGATGCATCC  1048
+
+
+
+
+>Gossypium hirsutum mitogen-activated protein kinase homolog NTF3-like (LOC107905456), mRNA
+Sequence ID: NM_001326952.1 Length: 1181
+>Gossypium hirsutum cultivar TM-1 mitogen-activated protein kinase 14 (MPK14) mRNA, complete cds
+Sequence ID: KM190117.1 Length: 1181 
+Range 1: 668 to 962
+
+Score:244 bits(270), Expect:5e-60, 
+Identities:231/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1    TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+            |||| ||||||||||| || ||||| |||| ||| |  || || ||||| || |  ||||
+Sbjct  962  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTTTTTGAAGGGTCAAAAACAAGCA  903
+
+Query  61   TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+            |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  902  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  843
+
+Query  121  TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+            | ||| |||||||||| || || || ||  | || |||||||| ||||| || |||||||
+Sbjct  842  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTTGCCTTAGGGTTATCTATAAATT  783
+
+Query  181  CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+            ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  782  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  723
+
+Query  241  ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+            | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  722  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  668
+
+
+
+
+>PREDICTED: Manihot esculenta mitogen-activated protein kinase homolog NTF3 (LOC110606614), transcript variant X1, mRNA
+Sequence ID: XM_021745504.2 Length: 1936
+Range 1: 1163 to 1457
+
+Score:243 bits(269), Expect:2e-59, 
+Identities:233/296(79%),  Gaps:2/296(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||| ||||| || ||||| |||   || | ||| || ||||| || |  ||||
+Sbjct  1457  TGTAAGGGTGCTGGAGTGCTTCAGTAACAGTTATTCTCTTTGACGGGTCAAAAACAAGCA  1398
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | || || || || ||||| ||   |||||| |||||||||||||| || || |||| ||
+Sbjct  1397  TTTTCTGAAGCAGGTCAATTGCGGAAGGATGGGCATTAGGGTAAAGGCGAGAAAATGGAG  1338
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTT-GCCTTTGGGTTGTCGATAAAT  179
+             | |||||||||||||| || ||||| ||  | |||||| ||||| ||||| || ||||||
+Sbjct  1337  TACCAGGGGAATATGGAAGTGACTTAATGTA-TTTCTTAGCCTTAGGGTTATCAATAAAT  1279
+
+Query  180   TCAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGA  239
+             |||| |||| ||||||| |||||||||||||  |||||||| ||||| || ||||| |||
+Sbjct  1278  TCAACATCCACCTCTCTCTGGCTGCCGAGGATGTTGATGATAAGTTTAAGCTGGTTGAGA  1219
+
+Query  240   CACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             ||||| || || || || |  || || || || |||||||| || |||||||||||
+Sbjct  1218  CACTCTGTGCCTGGAAAGACAGGTTTCCGGCCAAGAAGCTCAGCAAAGATACATCC  1163
+
+
+
+
+>PREDICTED: Manihot esculenta mitogen-activated protein kinase homolog NTF3 (LOC110606614), transcript variant X2, mRNA
+Sequence ID: XM_021745505.2 Length: 1918
+Range 1: 1145 to 1439
+
+Score:243 bits(269), Expect:2e-59, 
+Identities:233/296(79%),  Gaps:2/296(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||| ||||| || ||||| |||   || | ||| || ||||| || |  ||||
+Sbjct  1439  TGTAAGGGTGCTGGAGTGCTTCAGTAACAGTTATTCTCTTTGACGGGTCAAAAACAAGCA  1380
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | || || || || ||||| ||   |||||| |||||||||||||| || || |||| ||
+Sbjct  1379  TTTTCTGAAGCAGGTCAATTGCGGAAGGATGGGCATTAGGGTAAAGGCGAGAAAATGGAG  1320
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTT-GCCTTTGGGTTGTCGATAAAT  179
+             | |||||||||||||| || ||||| ||  | |||||| ||||| ||||| || ||||||
+Sbjct  1319  TACCAGGGGAATATGGAAGTGACTTAATGTA-TTTCTTAGCCTTAGGGTTATCAATAAAT  1261
+
+Query  180   TCAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGA  239
+             |||| |||| ||||||| |||||||||||||  |||||||| ||||| || ||||| |||
+Sbjct  1260  TCAACATCCACCTCTCTCTGGCTGCCGAGGATGTTGATGATAAGTTTAAGCTGGTTGAGA  1201
+
+Query  240   CACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             ||||| || || || || |  || || || || |||||||| || |||||||||||
+Sbjct  1200  CACTCTGTGCCTGGAAAGACAGGTTTCCGGCCAAGAAGCTCAGCAAAGATACATCC  1145
+
+
+
+
+>Manihot esculenta mitogen-activated protein kinase 6 mRNA, complete cds
+Sequence ID: KT827560.1 Length: 1119
+Range 1: 661 to 955
+
+Score:243 bits(269), Expect:2e-59, 
+Identities:233/296(79%),  Gaps:2/296(0%), Strand: Plus/Minus
+
+Query  1    TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+            |||| ||||| ||||| || ||||| |||   || | ||| || ||||| || |  ||||
+Sbjct  955  TGTAAGGGTGCTGGAGTGCTTCAGTAACAGTTATTCTCTTTGACGGGTCAAAAACAAGCA  896
+
+Query  61   TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+            | || || || || ||||| ||   |||||| |||||||||||||| || || |||| ||
+Sbjct  895  TTTTCTGAAGCAGGTCAATTGCGGAAGGATGGGCATTAGGGTAAAGGCGAGAAAATGGAG  836
+
+Query  121  TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTT-GCCTTTGGGTTGTCGATAAAT  179
+            | |||||||||||||| || ||||| ||  | |||||| ||||| ||||| || ||||||
+Sbjct  835  TACCAGGGGAATATGGAAGTGACTTAATGTA-TTTCTTAGCCTTAGGGTTATCAATAAAT  777
+
+Query  180  TCAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGA  239
+            |||| |||| ||||||| |||||||||||||  |||||||| ||||| || ||||| |||
+Sbjct  776  TCAACATCCACCTCTCTCTGGCTGCCGAGGATGTTGATGATAAGTTTAAGCTGGTTGAGA  717
+
+Query  240  CACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+            ||||| || || || || |  || || || || |||||||| || |||||||||||
+Sbjct  716  CACTCTGTGCCTGGAAAGACAGGTTTCCGGCCAAGAAGCTCAGCAAAGATACATCC  661
+
+
+
+
+>PREDICTED: Ricinus communis mitogen-activated protein kinase homolog NTF3 (LOC8275771), mRNA
+Sequence ID: XM_015720516.3 Length: 2117
+Range 1: 1283 to 1577
+
+Score:243 bits(269), Expect:2e-59, 
+Identities:233/296(79%),  Gaps:2/296(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| || |||||||| || ||||| |||   || | ||| ||||| || || |  ||||
+Sbjct  1577  TGTAAGGATGTTGGAGTGCTTCAGTAACAGTTATTCTCTTTGATGGATCAAAAACAAGCA  1518
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | ||   ||| | |||||| ||||  ||||| |||||||| ||||| || || || | | 
+Sbjct  1517  TTTTCAACAGTAAATCAATTGCCAAGGGATGAGCATTAGGATAAAGGCGAGAAAAGGGAC  1458
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTG-CCTTTGGGTTGTCGATAAAT  179
+             | |||||||||||||| |||||||| ||  | ||||||| |||| |||||||| ||||||
+Sbjct  1457  TGCCAGGGGAATATGGAAGAGACTTGATGTA-TTTCTTGGCCTTAGGGTTGTCAATAAAT  1399
+
+Query  180   TCAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGA  239
+             |||| ||||||||| || |||||||| ||||  |||||||| ||||| || |||||||||
+Sbjct  1398  TCAAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTGATGATAAGTTTAAGCTGGTTAAGA  1339
+
+Query  240   CACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             ||||| || || ||||| |  ||||| || || || ||||| || |||||||||||
+Sbjct  1338  CACTCTGTTCCGGGGAAGATAGGCTTCCGGCCAAGCAGCTCTGCAAAGATACATCC  1283
+
+
+
+
+>PREDICTED: Sesamum indicum mitogen-activated protein kinase homolog NTF3 (LOC105166093), transcript variant X2, mRNA
+Sequence ID: XM_011085322.2 Length: 1824
+Range 1: 1064 to 1362
+
+Score:242 bits(268), Expect:2e-59, 
+Identities:233/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||| || || || ||||| |||||||| | ||| || ||||| || | |||||
+Sbjct  1362  TGTAAGGGTGCTGAAGTGCTTCAGTTACACCAATCCTCTTTGACGGGTCAAAGACGAGCA  1303
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||| ||  |||||||| || |||||||| ||||  ||||| || ||||| || || |
+Sbjct  1302  TCTTTTTCAACAGATCAATCGCTAGAGGATGGGCATGCGGGTATAGTCGGGAAAAGGCGG  1243
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | |||||||| ||||| |||||||  ||  ||||||||||||| |||||||| |||||||
+Sbjct  1242  TTCCAGGGGAGTATGGAAGAGACTGAATGTACTTTCTTGCCTTCGGGTTGTCTATAAATT  1183
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||| || || ||| | || || ||||  || |  || | ||| || ||||||| ||
+Sbjct  1182  CAAGATCATCTTCCCTTCGACTACCAAGGATGTTCACAATTAATTTAAGCTGGTTAAAAC  1123
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             |||| |||||||| || | |||||| | ||| || || || |||||||| || ||| ||
+Sbjct  1122  ACTCTGTACCAGGAAAAATTGGCTTCCTACCAAGTAGTTCCGCGAAGATGCAACCGACA  1064
+
+
+
+
+>PREDICTED: Quercus suber mitogen-activated protein kinase homolog NTF3 (LOC112012310), transcript variant X2, mRNA
+Sequence ID: XM_024044704.2 Length: 1816
+Range 1: 997 to 1295
+
+Score:242 bits(268), Expect:2e-59, 
+Identities:233/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| ||||| || || ||||  || | ||| ||||| || ||||  ||||
+Sbjct  1295  TGTAAGGGTGTTGCAGAGCTTCTGTAACACTTATCCTCTTTGATGGATCAAATACAAGCA  1236
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | |||||||| ||||||||||||||  |||| ||||| || ||||||||||| || || |
+Sbjct  1235  TTTTTTGCAGAAGATCAATAGCCAGGTGATGGGCATTGGGATAAAGACGGGAAAAGGCGG  1176
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| || || || || ||||| ||  |  |  |||| ||||| ||||| |||||||
+Sbjct  1175  TCCCAGGAGAGTACGGAAGTGACTTAATGTATCTCTTTGCTTTTGGATTGTCTATAAATT  1116
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| ||||| |||||||| ||||  |||||||||||| | ||||| || ||||
+Sbjct  1115  CAAGATCCTCATCTCTCTGGCTGCCAAGGATGTTGATGATCAGTCTAAGTTGATTGAGAC  1056
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             | || || ||||| || | ||  || || || |||||||| || || || || ||| ||
+Sbjct  1055  ATTCTGTGCCAGGAAAGATTGATTTTCGGCCAAGAAGCTCAGCAAAAATGCAGCCGACA  997
+
+
+
+
+>PREDICTED: Quercus suber mitogen-activated protein kinase homolog NTF3 (LOC112012310), transcript variant X1, mRNA
+Sequence ID: XM_024044703.2 Length: 1797
+Range 1: 978 to 1276
+
+Score:242 bits(268), Expect:2e-59, 
+Identities:233/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| ||||| || || ||||  || | ||| ||||| || ||||  ||||
+Sbjct  1276  TGTAAGGGTGTTGCAGAGCTTCTGTAACACTTATCCTCTTTGATGGATCAAATACAAGCA  1217
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | |||||||| ||||||||||||||  |||| ||||| || ||||||||||| || || |
+Sbjct  1216  TTTTTTGCAGAAGATCAATAGCCAGGTGATGGGCATTGGGATAAAGACGGGAAAAGGCGG  1157
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| || || || || ||||| ||  |  |  |||| ||||| ||||| |||||||
+Sbjct  1156  TCCCAGGAGAGTACGGAAGTGACTTAATGTATCTCTTTGCTTTTGGATTGTCTATAAATT  1097
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| ||||| |||||||| ||||  |||||||||||| | ||||| || ||||
+Sbjct  1096  CAAGATCCTCATCTCTCTGGCTGCCAAGGATGTTGATGATCAGTCTAAGTTGATTGAGAC  1037
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             | || || ||||| || | ||  || || || |||||||| || || || || ||| ||
+Sbjct  1036  ATTCTGTGCCAGGAAAGATTGATTTTCGGCCAAGAAGCTCAGCAAAAATGCAGCCGACA  978
+
+
+
+
+>PREDICTED: Sesamum indicum mitogen-activated protein kinase homolog NTF3 (LOC105166093), transcript variant X1, mRNA
+Sequence ID: XM_011085320.2 Length: 1827
+Range 1: 1067 to 1365
+
+Score:242 bits(268), Expect:2e-59, 
+Identities:233/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||| || || || ||||| |||||||| | ||| || ||||| || | |||||
+Sbjct  1365  TGTAAGGGTGCTGAAGTGCTTCAGTTACACCAATCCTCTTTGACGGGTCAAAGACGAGCA  1306
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||| ||  |||||||| || |||||||| ||||  ||||| || ||||| || || |
+Sbjct  1305  TCTTTTTCAACAGATCAATCGCTAGAGGATGGGCATGCGGGTATAGTCGGGAAAAGGCGG  1246
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | |||||||| ||||| |||||||  ||  ||||||||||||| |||||||| |||||||
+Sbjct  1245  TTCCAGGGGAGTATGGAAGAGACTGAATGTACTTTCTTGCCTTCGGGTTGTCTATAAATT  1186
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| ||| || || ||| | || || ||||  || |  || | ||| || ||||||| ||
+Sbjct  1185  CAAGATCATCTTCCCTTCGACTACCAAGGATGTTCACAATTAATTTAAGCTGGTTAAAAC  1126
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             |||| |||||||| || | |||||| | ||| || || || |||||||| || ||| ||
+Sbjct  1125  ACTCTGTACCAGGAAAAATTGGCTTCCTACCAAGTAGTTCCGCGAAGATGCAACCGACA  1067
+
+
+
+
+>PREDICTED: Camellia sinensis mitogen-activated protein kinase homolog NTF3-like (LOC114282844), mRNA
+Sequence ID: XM_028225597.1 Length: 2018
+Range 1: 1195 to 1493
+
+Score:242 bits(268), Expect:2e-59, 
+Identities:233/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || ||||| |||||||| | ||| | ||| || || |  ||||
+Sbjct  1493  TGTAAGGGTGTTGTAGTGCTTCAGTAACACCAATCCTCTTTGTTGGATCAAAGACAAGCA  1434
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             ||||||| || |||||||| |||| |||||| ||||| ||||||||||  || || |  |
+Sbjct  1433  TCTTTTGTAGCAGATCAATTGCCAAAGGATGGGCATTTGGGTAAAGACAAGAAAAGGGTG  1374
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| ||| | || || || || ||| |||| || ||||||||||| || || ||||
+Sbjct  1373  TCCCAGGAGAACAAGGTAGCGATTTAATATACTTCCTCGCCTTTGGGTTATCAATGAATT  1314
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             |||| || |||||||| |||||||| ||||  || || ||||| || || ||||| ||||
+Sbjct  1313  CAATGTCATCCTCTCTCTGGCTGCCAAGGATGTTAATAATCAGCTTAAGCTGGTTGAGAC  1254
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             |||| ||||| || || |  || || ||||| || || || || ||||| |||||| ||
+Sbjct  1253  ACTCCGTACCTGGAAAGACGGGTTTCCGACCAAGGAGTTCAGCAAAGATGCATCCGACA  1195
+
+
+
+
+>PREDICTED: Cajanus cajan mitogen-activated protein kinase homolog NTF3 (LOC109802231), mRNA
+Sequence ID: XM_020363502.2 Length: 1811
+Range 1: 999 to 1288
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:227/290(78%),  Gaps:0/290(0%), Strand: Plus/Minus
+
+Query  6     GGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATCTTT  65
+             ||||| || || || |||||||||| ||| | ||| |  || ||||| |  |||||||||
+Sbjct  1288  GGGTGCTGAAGCGCTTCAGTGACACTAATCCTCTTTGTCGGATCGAAAACAAGCATCTTT  1229
+
+Query  66    TGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTCCCA  125
+               ||| |||||||| ||||  ||||||||||| || ||||| || || || |  || |||
+Sbjct  1228  GCCAGAAGATCAATTGCCAATGGATGCGCATTGGGATAAAGTCGAGAAAAGGGGGTTCCA  1169
+
+Query  126   GGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCAATA  185
+             || ||||| || || || || ||| ||||  ||||||||||||| || || |||||||||
+Sbjct  1168  GGAGAATAAGGAAGTGATTTGATATACTTCTTTGCCTTTGGGTTATCAATGAATTCAATA  1109
+
+Query  186   TCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACACTCG  245
+             |||||||| ||||| || || |||| |||||| |||| ||| || ||||| |||||||| 
+Sbjct  1108  TCCTCCTCCCTTTGACTACCAAGGATATTGATAATCAATTTCAGCTGGTTGAGACACTCT  1049
+
+Query  246   GTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | ||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1048  GAACCAGGGAAAATAGGTTTTCGTCCAAGAAGCTCCGCAAAGATGCATCC  999
+
+
+
+
+>PREDICTED: Gossypium raimondii mitogen-activated protein kinase homolog NTF3 (LOC105769029), transcript variant X1, mRNA
+Sequence ID: XM_012589390.2 Length: 1961
+Range 1: 1106 to 1400
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| |  || || ||||| || |  ||||
+Sbjct  1400  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTTTTTGAAGGGTCAAAAACAAGCA  1341
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  1340  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  1281
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || || ||||| ||||| || |||||||
+Sbjct  1280  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTAGCCTTAGGGTTATCTATAAATT  1221
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  1220  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  1161
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1160  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  1106
+
+
+
+
+>PREDICTED: Glycine soja mitogen-activated protein kinase homolog NTF3-like (LOC114414636), transcript variant X1, mRNA
+Sequence ID: XM_028378972.1 Length: 1816
+Range 1: 998 to 1292
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || | ||||||||  || | ||| | ||| ||||| |  ||||
+Sbjct  1292  TGTAAGGGTGTTGAAGTGCTTGAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCA  1233
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||  ||| |||||||| ||||  |||||||||||||| |||||  | || |  |  |
+Sbjct  1232  TCTTTGCCAGAAGATCAATTGCCAATGGATGCGCATTAGGATAAAGTTGCGAAAGGGGGG  1173
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||||| || || || || ||| ||||  ||||||||||||| || || ||||
+Sbjct  1172  TTCCAGGAGAATAAGGAAGTGATTTGATATACTTCTTTGCCTTTGGGTTATCAATGAATT  1113
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| ||||| || || |||| |||||| ||||  || || ||||| ||||
+Sbjct  1112  CAATATCCTCCTCCCTTTGACTACCAAGGATATTGATAATCAACTTCAGCTGGTTGAGAC  1053
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| || |||||||||||
+Sbjct  1052  ACTCTGAACCAGGGAAAATCGGTTTTCGGCCAAGAAGCTCTGCAAAGATACATCC  998
+
+
+
+
+>PREDICTED: Glycine max mitogen-activated protein kinase homolog NTF3 (LOC100811862), transcript variant X2, mRNA
+Sequence ID: XM_006581134.4 Length: 1867
+Range 1: 1136 to 1430
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || | ||||||||  || | ||| | ||| ||||| |  ||||
+Sbjct  1430  TGTAAGGGTGTTGAAGTGCTTGAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCA  1371
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||  ||| |||||||| ||||  |||||||||||||| |||||  | || |  |  |
+Sbjct  1370  TCTTTGCCAGAAGATCAATTGCCAATGGATGCGCATTAGGATAAAGTTGCGAAAGGGGGG  1311
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||||| || || || || ||| ||||  ||||||||||||| || || ||||
+Sbjct  1310  TTCCAGGAGAATAAGGAAGTGATTTGATATACTTCTTTGCCTTTGGGTTATCAATGAATT  1251
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| ||||| || || |||| |||||| ||||  || || ||||| ||||
+Sbjct  1250  CAATATCCTCCTCCCTTTGACTACCAAGGATATTGATAATCAACTTCAGCTGGTTGAGAC  1191
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| || |||||||||||
+Sbjct  1190  ACTCTGAACCAGGGAAAATCGGTTTTCGGCCAAGAAGCTCTGCAAAGATACATCC  1136
+
+
+
+
+>PREDICTED: Malus domestica mitogen-activated protein kinase homolog NTF3 (LOC103440304), mRNA
+Sequence ID: XM_008378978.4 Length: 1745
+Range 1: 1028 to 1322
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||||||||||||||| || |||||||| | ||| | ||| ||||| || || |  ||||
+Sbjct  1322  TGTATGGGTGTTGGAGTGCTTCAGTGACGCTAATCCTCTTTGATGGATCAAAAACAAGCA  1263
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| |||||||| || |||||||| |||| ||||||||| |||| ||| |  |
+Sbjct  1262  TCTTTTGCAGTAGATCAATTGCTAGAGGATGAGCATCAGGGTAAAGGCGGGTTAAGGGGG  1203
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||  | ||| | || || || |||||  | ||  ||||||| || ||||| |||||||
+Sbjct  1202  TCCCCAGAGAAAAGGGCAGCGATTTTATGTATTTCGTTGCCTTAGGATTGTCTATAAATT  1143
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+               | ||||||||| || |||||||| ||||  || || || |||||||| ||||| || |
+Sbjct  1142  GGAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTAATTATGAGTTTGAGCTGGTTGAGGC  1083
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| || ||
+Sbjct  1082  ATTCTGTACCAGGGAAGATAGGTTTCCGGCCAAGAAGCTCAGCAAAGATGCACCC  1028
+
+
+
+
+>PREDICTED: Gossypium raimondii mitogen-activated protein kinase homolog NTF3 (LOC105769029), transcript variant X2, mRNA
+Sequence ID: XM_012589391.2 Length: 1966
+Range 1: 1111 to 1405
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||| ||| |  || || ||||| || |  ||||
+Sbjct  1405  TGTAAGGGTGTTGGAGTGCTTCAGTTACACTAATCCTTTTTGAAGGGTCAAAAACAAGCA  1346
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||  | |||||| |||| |||||| ||||| || |||||| |||| || |   
+Sbjct  1345  TCTTTTGCAACAAATCAATTGCCAAAGGATGGGCATTCGGATAAAGATGGGAAAAGGGGC  1286
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| |||||||||| || || || ||  | || || ||||| ||||| || |||||||
+Sbjct  1285  TTCCAAGGGAATATGGAAGTGATTTGATGTATTTCCTAGCCTTAGGGTTATCTATAAATT  1226
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||||||  | |||||||| ||||  ||||||||||| || ||||| || ||||
+Sbjct  1225  CAAGATCCTCCTCCTTCTGGCTGCCAAGGATGTTGATGATCAGCTTAAGTTGATTGAGAC  1166
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  1165  ATTCTGTACCAGGGAAGATGGGTTTCCGGCCAAGAAGCTCCGCAAAGATGCATCC  1111
+
+
+
+
+>PREDICTED: Vigna radiata var. radiata mitogen-activated protein kinase homolog NTF3 (LOC106762470), transcript variant X1, mRNA
+Sequence ID: XM_014646405.2 Length: 1511
+Range 1: 1056 to 1350
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || ||||||||||  || | ||| | ||| ||||| |  ||||
+Sbjct  1350  TGTAAGGGTGTTGAAGCGCTTCAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCA  1291
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||   || |||||||| |||| |||||| |||||||| ||||| || || || |  |
+Sbjct  1290  TCTTTGCTAGAAGATCAATTGCCAAAGGATGTGCATTAGGATAAAGTCGCGAAAAGGGGG  1231
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||| | || || || || ||| ||||| |||||||||| || || || || |
+Sbjct  1230  TTCCAGGAGAAGAAGGAAGTGATTTGATATACTTTTTTGCCTTTGGATTATCAATGAACT  1171
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             | || |||||||| ||||| || || |||| ||||||||||| ||| || ||||| ||||
+Sbjct  1170  CGATGTCCTCCTCCCTTTGACTACCAAGGATATTGATGATCAATTTCAGCTGGTTGAGAC  1111
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || ||||| |||||||| || ||||| |||||
+Sbjct  1110  ACTCTGAACCAGGGAAAATCGGTTTTCGACCAAGAAGCTCAGCAAAGATGCATCC  1056
+
+
+
+
+>Glycine max cDNA, clone: GMFL01-33-P06
+Sequence ID: AK286667.1 Length: 1621
+Range 1: 907 to 1201
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || | ||||||||  || | ||| | ||| ||||| |  ||||
+Sbjct  1201  TGTAAGGGTGTTGAAGTGCTTGAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCA  1142
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||  ||| |||||||| ||||  |||||||||||||| |||||  | || |  |  |
+Sbjct  1141  TCTTTGCCAGAAGATCAATTGCCAATGGATGCGCATTAGGATAAAGTTGCGAAAGGGGGG  1082
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||||| || || || || ||| ||||  ||||||||||||| || || ||||
+Sbjct  1081  TTCCAGGAGAATAAGGAAGTGATTTGATATACTTCTTTGCCTTTGGGTTATCAATGAATT  1022
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| ||||| || || |||| |||||| ||||  || || ||||| ||||
+Sbjct  1021  CAATATCCTCCTCCCTTTGACTACCAAGGATATTGATAATCAACTTCAGCTGGTTGAGAC  962
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| || |||||||||||
+Sbjct  961   ACTCTGAACCAGGGAAAATCGGTTTTCGGCCAAGAAGCTCTGCAAAGATACATCC  907
+
+
+
+
+>PREDICTED: Vigna radiata var. radiata mitogen-activated protein kinase homolog NTF3 (LOC106762470), transcript variant X2, mRNA
+Sequence ID: XM_014646406.2 Length: 1482
+Range 1: 661 to 955
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1    TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+            |||| |||||||| || || ||||||||||  || | ||| | ||| ||||| |  ||||
+Sbjct  955  TGTAAGGGTGTTGAAGCGCTTCAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCA  896
+
+Query  61   TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+            |||||   || |||||||| |||| |||||| |||||||| ||||| || || || |  |
+Sbjct  895  TCTTTGCTAGAAGATCAATTGCCAAAGGATGTGCATTAGGATAAAGTCGCGAAAAGGGGG  836
+
+Query  121  TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+            | ||||| ||| | || || || || ||| ||||| |||||||||| || || || || |
+Sbjct  835  TTCCAGGAGAAGAAGGAAGTGATTTGATATACTTTTTTGCCTTTGGATTATCAATGAACT  776
+
+Query  181  CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+            | || |||||||| ||||| || || |||| ||||||||||| ||| || ||||| ||||
+Sbjct  775  CGATGTCCTCCTCCCTTTGACTACCAAGGATATTGATGATCAATTTCAGCTGGTTGAGAC  716
+
+Query  241  ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+            |||| | ||||||||| |  || || ||||| |||||||| || ||||| |||||
+Sbjct  715  ACTCTGAACCAGGGAAAATCGGTTTTCGACCAAGAAGCTCAGCAAAGATGCATCC  661
+
+
+
+
+>PREDICTED: Glycine max mitogen-activated protein kinase homolog NTF3 (LOC100811862), transcript variant X1, mRNA
+Sequence ID: XM_003527933.5 Length: 1735
+Range 1: 1004 to 1298
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || | ||||||||  || | ||| | ||| ||||| |  ||||
+Sbjct  1298  TGTAAGGGTGTTGAAGTGCTTGAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCA  1239
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||  ||| |||||||| ||||  |||||||||||||| |||||  | || |  |  |
+Sbjct  1238  TCTTTGCCAGAAGATCAATTGCCAATGGATGCGCATTAGGATAAAGTTGCGAAAGGGGGG  1179
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||||| || || || || ||| ||||  ||||||||||||| || || ||||
+Sbjct  1178  TTCCAGGAGAATAAGGAAGTGATTTGATATACTTCTTTGCCTTTGGGTTATCAATGAATT  1119
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| ||||| || || |||| |||||| ||||  || || ||||| ||||
+Sbjct  1118  CAATATCCTCCTCCCTTTGACTACCAAGGATATTGATAATCAACTTCAGCTGGTTGAGAC  1059
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| || |||||||||||
+Sbjct  1058  ACTCTGAACCAGGGAAAATCGGTTTTCGGCCAAGAAGCTCTGCAAAGATACATCC  1004
+
+
+
+
+>PREDICTED: Pyrus x bretschneideri mitogen-activated protein kinase homolog NTF3 (LOC125479259), mRNA
+Sequence ID: XM_048588415.1 Length: 1544
+Range 1: 834 to 1128
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||||||||||||||| || |||||||| | ||| | ||| |||||||| || |  ||||
+Sbjct  1128  TGTATGGGTGTTGGAGTGCTTCAGTGACGCTAATCCTCTTTGATGGGTCAAAAACAAGCA  1069
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||||||| |||||||| || |||||||| |||| ||||||||| ||||  || |  |
+Sbjct  1068  TCTTTTGCAGTAGATCAATTGCTAGAGGATGAGCATCAGGGTAAAGGCGGGTAAAGGGGG  1009
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             |||| || ||| | || || || |||||  | ||  | ||||| || ||||| |||||||
+Sbjct  1008  TCCCCGGAGAAAAGGGCAGCGATTTTATGTATTTCGTCGCCTTAGGATTGTCTATAAATT  949
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+               | ||||||||| || |||||||| ||||  || || || |||||||| ||||| || |
+Sbjct  948   GGAGATCCTCCTCCCTCTGGCTGCCAAGGATGTTAATTATGAGTTTGAGCTGGTTGAGGC  889
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             | || ||||||||||| |  || || || || |||||||| || ||||| || ||
+Sbjct  888   ATTCTGTACCAGGGAAGATAGGTTTCCGGCCAAGAAGCTCAGCAAAGATGCACCC  834
+
+
+
+
+>PREDICTED: Glycine soja mitogen-activated protein kinase homolog NTF3-like (LOC114414636), transcript variant X2, mRNA
+Sequence ID: XM_028378973.1 Length: 1944
+Range 1: 1126 to 1420
+
+Score:240 bits(265), Expect:2e-58, 
+Identities:230/295(78%),  Gaps:0/295(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || | ||||||||  || | ||| | ||| ||||| |  ||||
+Sbjct  1420  TGTAAGGGTGTTGAAGTGCTTGAGTGACACTGATCCTCTTTGTTGGATCGAAAACAAGCA  1361
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||||  ||| |||||||| ||||  |||||||||||||| |||||  | || |  |  |
+Sbjct  1360  TCTTTGCCAGAAGATCAATTGCCAATGGATGCGCATTAGGATAAAGTTGCGAAAGGGGGG  1301
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||||| ||||| || || || || ||| ||||  ||||||||||||| || || ||||
+Sbjct  1300  TTCCAGGAGAATAAGGAAGTGATTTGATATACTTCTTTGCCTTTGGGTTATCAATGAATT  1241
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||||||||||||| ||||| || || |||| |||||| ||||  || || ||||| ||||
+Sbjct  1240  CAATATCCTCCTCCCTTTGACTACCAAGGATATTGATAATCAACTTCAGCTGGTTGAGAC  1181
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             |||| | ||||||||| |  || || || || |||||||| || |||||||||||
+Sbjct  1180  ACTCTGAACCAGGGAAAATCGGTTTTCGGCCAAGAAGCTCTGCAAAGATACATCC  1126
+
+
+
+
+>PREDICTED: Hevea brasiliensis mitogen-activated protein kinase homolog NTF3 (LOC110632446), mRNA
+Sequence ID: XM_021780682.2 Length: 1928
+Range 1: 1109 to 1403
+
+Score:239 bits(264), Expect:2e-58, 
+Identities:232/296(78%),  Gaps:2/296(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| ||||||||||| || ||||| |||   || | ||| ||||| || || |  ||||
+Sbjct  1403  TGTAAGGGTGTTGGAGTGCTTCAGTAACAGTTATTCTCTTTGATGGATCAAAAACAAGCA  1344
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | ||    || ||||||||||||  |||||| ||||||||||||||  | || ||||  |
+Sbjct  1343  TTTTCCCAAGCAGATCAATAGCCGAAGGATGAGCATTAGGGTAAAGGTGAGAAAATGGGG  1284
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTT-GCCTTTGGGTTGTCGATAAAT  179
+             | |||||||||||||| || ||||| ||  | |||||| ||||| || || || || |||
+Sbjct  1283  TACCAGGGGAATATGGAAGTGACTTAATGTA-TTTCTTAGCCTTAGGATTATCAATGAAT  1225
+
+Query  180   TCAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGA  239
+             |||| ||||||| | || |||||||| ||||  |||||||| ||||| |||||||| |||
+Sbjct  1224  TCAAGATCCTCCACCCTCTGGCTGCCAAGGATGTTGATGATAAGTTTAAGTTGGTTGAGA  1165
+
+Query  240   CACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             ||||| || || ||||| | ||| || || || |||||||| || |||||||||||
+Sbjct  1164  CACTCTGTGCCTGGGAAGATTGGTTTCCGGCCAAGAAGCTCTGCAAAGATACATCC  1109
+
+
+
+
+>PREDICTED: Daucus carota subsp. sativus mitogen-activated protein kinase homolog NTF3 (LOC108219677), mRNA
+Sequence ID: XM_017393173.2 Length: 1653
+Range 1: 917 to 1211
+
+Score:239 bits(264), Expect:2e-58, 
+Identities:232/296(78%),  Gaps:2/296(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| || || ||||| |||| ||| | ||| |  |||||||| |  ||||
+Sbjct  1211  TGTAAGGGTGTTGTAGTGCATCAGTTACACTAATTCTCTTTGCAGGGTCGAAAACAAGCA  1152
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGA-CGGGATAATGCA  119
+             |||| || || |||||||| || |  ||||| ||||  || || ||  ||||| ||||  
+Sbjct  1151  TCTTCTGGAGTAGATCAATTGCTAATGGATGGGCATGGGGATACAGGTCGGGA-AATGGG  1093
+
+Query  120   GTCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAAT  179
+             || ||| |||||||||| || |||||||| || ||||| |||||| | ||||| || |||
+Sbjct  1092  GTTCCAAGGGAATATGGAAGTGACTTTATGAAATTTCTAGCCTTTCGATTGTCAATGAAT  1033
+
+Query  180   TCAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGA  239
+             |||||||| |  || || |||||||| || |  ||||| |||||||||||||||||||||
+Sbjct  1032  TCAATATCGTTTTCACTCTGGCTGCCAAGAATGTTGATTATCAGTTTGAGTTGGTTAAGA  973
+
+Query  240   CACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             ||||| |||||||| ||||  || || || ||||||||||| || || || || ||
+Sbjct  972   CACTCTGTACCAGGAAATAGGGGTTTGCGCCCGAGAAGCTCTGCAAATATGCACCC  917
+
+
+
+
+>PREDICTED: Durio zibethinus mitogen-activated protein kinase homolog NTF3 (LOC111312746), transcript variant X1, mRNA
+Sequence ID: XM_022913321.1 Length: 2164
+Range 1: 1198 to 1496
+
+Score:238 bits(263), Expect:8e-58, 
+Identities:232/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| || |||||||| || ||||| |||||||| |  || || ||||| || |  ||||
+Sbjct  1496  TGTAAGGATGTTGGAGTGCTTCAGTTACACCAATCCTTTTTGAAGGGTCAAAAACAAGCA  1437
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||  ||||| | |||||| |||| |||||| ||||| || |||||| |||| |  |  |
+Sbjct  1436  TCTGCTGCAGTAAATCAATTGCCAAAGGATGGGCATTTGGATAAAGATGGGAAAGGGGGG  1377
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| | ||||||||||| || || ||  | || || || || ||||| || |||||||
+Sbjct  1376  TTCCATGAGAATATGGGAGTGATTTGATGTATTTCCTGGCTTTGGGGTTATCTATAAATT  1317
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+              || |||||||||  | |||||||| ||||| ||||||||||| || |||||||| ||||
+Sbjct  1316  GAAGATCCTCCTCCTTCTGGCTGCCAAGGACGTTGATGATCAGCTTAAGTTGGTTGAGAC  1257
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             |||| ||||||||||| |  || || || || ||||| || || ||||| |||||| ||
+Sbjct  1256  ACTCTGTACCAGGGAAGATGGGTTTTCGGCCAAGAAGTTCTGCAAAGATGCATCCGACA  1198
+
+
+
+
+>PREDICTED: Quercus robur mitogen-activated protein kinase homolog NTF3 (LOC126712299), transcript variant X2, mRNA
+Sequence ID: XM_050411580.1 Length: 1496
+Range 1: 678 to 976
+
+Score:238 bits(263), Expect:8e-58, 
+Identities:232/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1    TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+            |||| |||||||| ||||| || || ||||  || | ||| ||||| || ||||  ||||
+Sbjct  976  TGTAAGGGTGTTGCAGAGCTTCTGTAACACTTATCCTCTTTGATGGATCAAATACAAGCA  917
+
+Query  61   TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+            | |||||||| |||||||||||||| ||||| ||||| || ||||||||||| || |  |
+Sbjct  916  TTTTTTGCAGAAGATCAATAGCCAGGGGATGGGCATTGGGATAAAGACGGGAAAAGGGGG  857
+
+Query  121  TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+            ||||||| || ||||| ||   ||| ||  |  |  |||| ||||| ||||| |||||||
+Sbjct  856  TCCCAGGAGAGTATGGAAGTACCTTAATGTATCTCTTTGCTTTTGGATTGTCTATAAATT  797
+
+Query  181  CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+            ||| |||||| ||||| ||||| || ||||  |||||||||||||| ||||| || ||||
+Sbjct  796  CAAGATCCTCATCTCTCTGGCTACCAAGGATGTTGATGATCAGTTTAAGTTGATTGAGAC  737
+
+Query  241  ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+            | || || ||||| || | ||  || || || |||||||| || || || || ||| ||
+Sbjct  736  ATTCTGTGCCAGGAAAGATTGATTTTCGGCCAAGAAGCTCAGCAAAAATGCAGCCGACA  678
+
+
+
+
+>PREDICTED: Durio zibethinus mitogen-activated protein kinase homolog NTF3 (LOC111312746), transcript variant X2, mRNA
+Sequence ID: XM_022913322.1 Length: 2169
+Range 1: 1203 to 1501
+
+Score:238 bits(263), Expect:8e-58, 
+Identities:232/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| || |||||||| || ||||| |||||||| |  || || ||||| || |  ||||
+Sbjct  1501  TGTAAGGATGTTGGAGTGCTTCAGTTACACCAATCCTTTTTGAAGGGTCAAAAACAAGCA  1442
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             |||  ||||| | |||||| |||| |||||| ||||| || |||||| |||| |  |  |
+Sbjct  1441  TCTGCTGCAGTAAATCAATTGCCAAAGGATGGGCATTTGGATAAAGATGGGAAAGGGGGG  1382
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | ||| | ||||||||||| || || ||  | || || || || ||||| || |||||||
+Sbjct  1381  TTCCATGAGAATATGGGAGTGATTTGATGTATTTCCTGGCTTTGGGGTTATCTATAAATT  1322
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+              || |||||||||  | |||||||| ||||| ||||||||||| || |||||||| ||||
+Sbjct  1321  GAAGATCCTCCTCCTTCTGGCTGCCAAGGACGTTGATGATCAGCTTAAGTTGGTTGAGAC  1262
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             |||| ||||||||||| |  || || || || ||||| || || ||||| |||||| ||
+Sbjct  1261  ACTCTGTACCAGGGAAGATGGGTTTTCGGCCAAGAAGTTCTGCAAAGATGCATCCGACA  1203
+
+
+
+
+>PREDICTED: Quercus robur mitogen-activated protein kinase homolog NTF3 (LOC126712299), transcript variant X1, mRNA
+Sequence ID: XM_050411579.1 Length: 1814
+Range 1: 996 to 1294
+
+Score:238 bits(263), Expect:8e-58, 
+Identities:232/299(78%),  Gaps:0/299(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             |||| |||||||| ||||| || || ||||  || | ||| ||||| || ||||  ||||
+Sbjct  1294  TGTAAGGGTGTTGCAGAGCTTCTGTAACACTTATCCTCTTTGATGGATCAAATACAAGCA  1235
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             | |||||||| |||||||||||||| ||||| ||||| || ||||||||||| || |  |
+Sbjct  1234  TTTTTTGCAGAAGATCAATAGCCAGGGGATGGGCATTGGGATAAAGACGGGAAAAGGGGG  1175
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             ||||||| || ||||| ||   ||| ||  |  |  |||| ||||| ||||| |||||||
+Sbjct  1174  TCCCAGGAGAGTATGGAAGTACCTTAATGTATCTCTTTGCTTTTGGATTGTCTATAAATT  1115
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             ||| |||||| ||||| ||||| || ||||  |||||||||||||| ||||| || ||||
+Sbjct  1114  CAAGATCCTCATCTCTCTGGCTACCAAGGATGTTGATGATCAGTTTAAGTTGATTGAGAC  1055
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCGCCA  299
+             | || || ||||| || | ||  || || || |||||||| || || || || ||| ||
+Sbjct  1054  ATTCTGTGCCAGGAAAGATTGATTTTCGGCCAAGAAGCTCAGCAAAAATGCAGCCGACA  996
+
+
+
+
+>PREDICTED: Silene latifolia mitogen-activated protein kinase homolog NTF3 (LOC141605316), mRNA
+Sequence ID: XM_074424025.1 Length: 1814
+Range 1: 1114 to 1409
+
+Score:237 bits(262), Expect:8e-58, 
+Identities:230/296(78%),  Gaps:0/296(0%), Strand: Plus/Minus
+
+Query  1     TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+             ||||||| ||||| || || ||||| |||| ||| | ||| | ||| ||||| |  ||||
+Sbjct  1409  TGTATGGATGTTGAAGTGCTTCAGTAACACTAATTCTCTTTGTTGGATCGAAAACTAGCA  1350
+
+Query  61    TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+             ||||||||| |||||| |||||||  || || |||   |||||||||||||| || |  |
+Sbjct  1349  TCTTTTGCAAGAGATCGATAGCCAAGGGGTGGGCAGCTGGGTAAAGACGGGACAAAGAGG  1290
+
+Query  121   TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+             | |||   ||||| || || ||  |||| ||| |  | || |||||||||||||||||||
+Sbjct  1289  TGCCAACAGAATAAGGTAGTGATCTTATGAACCTCTTGGCTTTTGGGTTGTCGATAAATT  1230
+
+Query  181   CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+             | | |||  | ||||||||||| || || |  |||||||| ||||| |  ||||||||||
+Sbjct  1229  CGAGATCGGCATCTCTTTGGCTCCCAAGAATGTTGATGATTAGTTTCAACTGGTTAAGAC  1170
+
+Query  241   ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCCG  296
+             ||||||| || |||||||| || ||||| || ||||||||||| || || || |||
+Sbjct  1169  ACTCGGTTCCCGGGAATAAGGGTTTACGGCCAAGAAGCTCGGCAAAAATGCACCCG  1114
+
+
+
+
+>Humulus lupulus mitogen-activated protein kinase 1 (MPK1) mRNA, complete cds
+Sequence ID: MG736291.1 Length: 2119
+Range 1: 1222 to 1514
+
+Score:236 bits(261), Expect:3e-57, 
+Identities:228/293(78%),  Gaps:0/293(0%), Strand: Plus/Minus
+
+Query  3     TATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATC  62
+             || ||||||||||| |||||||| ||||  || ||||| || || || || |  ||||||
+Sbjct  1514  TAAGGGTGTTGGAGTGCCTCAGTAACACTGATCCGCTTTGACGGATCAAAAACAAGCATC  1455
+
+Query  63    TTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTC  122
+             |||||||| |||||||| |||| |||||| ||||| ||||| || ||||| || | ||| 
+Sbjct  1454  TTTTGCAGCAGATCAATTGCCAAAGGATGAGCATTGGGGTACAGGCGGGAAAAGGGAGTT  1395
+
+Query  123   CCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCA  182
+             ||||||||||| || |  ||  | || ||  |  |||| ||||| ||||| |||||||||
+Sbjct  1394  CCAGGGGAATAAGGAATTGATCTAATGAATCTCTTTGCTTTTGGATTGTCTATAAATTCA  1335
+
+Query  183   ATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACAC  242
+             |  |||||||| || ||  | || || |  || ||||||||||| || ||||| ||||||
+Sbjct  1334  AACTCCTCCTCCCTCTGATTCCCAAGTATGTTTATGATCAGTTTCAGCTGGTTGAGACAC  1275
+
+Query  243   TCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             || | ||| ||||| |  ||||| || || ||||||||||| ||||| |||||
+Sbjct  1274  TCAGAACCTGGGAAGATAGGCTTCCGGCCTAGAAGCTCGGCAAAGATGCATCC  1222
+
+
+
+
+>Gossypium hirsutum cultivar TM-1 mitogen-activated protein kinase 5 (MPK5) mRNA, complete cds
+Sequence ID: KM190109.1 Length: 1131
+Range 1: 676 to 964
+
+Score:236 bits(261), Expect:3e-57, 
+Identities:229/295(78%),  Gaps:6/295(2%), Strand: Plus/Minus
+
+Query  1    TGTATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCA  60
+            |||| ||||||||||| || ||||| |||||||| |  || || ||||| || |  ||||
+Sbjct  964  TGTAAGGGTGTTGGAGTGCTTCAGTTACACCAATCCTTTTTGAAGGGTCAAAAACTAGCA  905
+
+Query  61   TCTTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAG  120
+            | |||||||| | |||||| |||| |||||| ||||| || |||||||  || || |   
+Sbjct  904  TTTTTTGCAGTAAATCAATTGCCAAAGGATGGGCATTTGGATAAAGACAAGAAAAGGGGA  845
+
+Query  121  TCCCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATT  180
+            | ||| ||||||||||||| || || ||  | || |||||||| ||||| || |||||||
+Sbjct  844  TTCCATGGGAATATGGGAGTGATTTAATGTAGTTCCTTGCCTTGGGGTTATCTATAAATT  785
+
+Query  181  CAATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGAC  240
+            ||| |||||      | |||||||| || |  ||||||||||| || |||||||| ||||
+Sbjct  784  CAAGATCCT------TCTGGCTGCCAAGTATGTTGATGATCAGCTTAAGTTGGTTGAGAC  731
+
+Query  241  ACTCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+            |||| ||||||||||| |  || || || || |||||||| || ||||| |||||
+Sbjct  730  ACTCTGTACCAGGGAAGATGGGTTTTCGGCCAAGAAGCTCCGCAAAGATGCATCC  676
+
+
+
+
+>PREDICTED: Humulus lupulus mitogen-activated protein kinase homolog NTF3 (LOC133807422), mRNA
+Sequence ID: XM_062245745.1 Length: 2004
+Range 1: 1217 to 1509
+
+Score:236 bits(261), Expect:3e-57, 
+Identities:228/293(78%),  Gaps:0/293(0%), Strand: Plus/Minus
+
+Query  3     TATGGGTGTTGGAGAGCCTCAGTGACACCAATGCGCTTCGATGGGTCGAATATGAGCATC  62
+             || ||||||||||| |||||||| ||||  || ||||| || || || || |  ||||||
+Sbjct  1509  TAAGGGTGTTGGAGTGCCTCAGTAACACTGATCCGCTTTGACGGATCAAAAACAAGCATC  1450
+
+Query  63    TTTTGCAGGAGATCAATAGCCAGAGGATGCGCATTAGGGTAAAGACGGGATAATGCAGTC  122
+             |||||||| |||||||| |||| |||||| ||||| ||||| || ||||| || | ||| 
+Sbjct  1449  TTTTGCAGCAGATCAATTGCCAAAGGATGAGCATTGGGGTACAGGCGGGAAAAGGGAGTT  1390
+
+Query  123   CCAGGGGAATATGGGAGAGACTTTATAAACTTTCTTGCCTTTGGGTTGTCGATAAATTCA  182
+             ||||||||||| || |  ||  | || ||  |  |||| ||||| ||||| |||||||||
+Sbjct  1389  CCAGGGGAATAAGGAATTGATCTAATGAATCTCTTTGCTTTTGGATTGTCTATAAATTCA  1330
+
+Query  183   ATATCCTCCTCTCTTTGGCTGCCGAGGACATTGATGATCAGTTTGAGTTGGTTAAGACAC  242
+             |  |||||||| || ||  | || || |  || ||||||||||| || ||||| ||||||
+Sbjct  1329  AACTCCTCCTCCCTCTGATTCCCAAGTATGTTTATGATCAGTTTCAGCTGGTTGAGACAC  1270
+
+Query  243   TCGGTACCAGGGAATAATGGCTTACGACCGAGAAGCTCGGCGAAGATACATCC  295
+             || | ||| ||||| |  ||||| || || ||||||||||| ||||| |||||
+Sbjct  1269  TCAGAACCTGGGAAGATAGGCTTCCGGCCTAGAAGCTCGGCAAAGATGCATCC  1217
+
+
+
+
+
+
+
+		
+
+

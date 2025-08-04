@@ -1,0 +1,2141 @@
+RID: 8F3ART3S015	
+Job Title:Nucleotide Sequence				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_6588871 Length: 402
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Veronica longifolia genome assembly, chromosome: 13               Veronica lon... NA              165317     153    153   34%   3e-32 84.67  28305344   OZ276476.1       
+Veronica longifolia genome assembly, chromosome: 13               Veronica lon... NA              165317     144    200   55%   2e-29 83.21  28846208   OZ274280.1       
+PREDICTED: Salvia splendens squalene monooxygenase SE1-like...    Salvia splen... NA              180675     139    215   47%   7e-28 86.84  1795       XM_042158949.1   
+PREDICTED: Sesamum indicum squalene monooxygenase-like...         Sesamum indicum sesame          4182       134    134   28%   9e-27 85.96  1925       XM_011090309.2   
+PREDICTED: Salvia splendens squalene monooxygenase SE1-like...    Salvia splen... NA              180675     134    210   47%   9e-27 85.96  1818       XM_042162504.1   
+PREDICTED: Salvia hispanica squalene monooxygenase SE1-like...    Salvia hispa... NA              49212      130    206   47%   4e-25 85.09  1777       XM_048098509.1   
+PREDICTED: Olea europaea var. sylvestris squalene...              Olea europae... NA              158386     126    126   28%   5e-24 84.82  1855       XM_023040902.1   
+PREDICTED: Henckelia pumila squalene epoxidase 3-like...          Henckelia pu... NA              405737     122    122   28%   6e-23 83.93  1972       XM_073268305.1   
+PREDICTED: Andrographis paniculata squalene epoxidase 3-like...   Andrographis... NA              175694     121    183   47%   2e-22 83.33  1635       XM_051290992.1   
+PREDICTED: Salvia miltiorrhiza squalene epoxidase 3-like...       Salvia milti... NA              226208     117    194   47%   2e-21 83.04  2053       XM_057927233.1   
+PREDICTED: Olea europaea var. sylvestris squalene...              Olea europae... NA              158386     113    169   46%   3e-20 82.14  2003       XM_023004543.1   
+PREDICTED: Primulina eburnea squalene epoxidase 3-like...         Primulina eb... NA              1245227    113    177   40%   3e-20 82.14  1980       XM_073174367.1   
+PREDICTED: Primulina huaijiensis squalene epoxidase 3-like...     Primulina hu... NA              1492673    113    175   44%   3e-20 82.14  1990       XM_073451450.1   
+Vitis vinifera contig VV78X262435.3, whole genome shotgun...      Vitis vinifera  wine grape      29760      105    105   29%   4e-18 79.66  28801      AM452515.1       
+Diospyros lotus DNA, including marker region for the astringen... Diospyros lotus NA              55363      104    104   29%   1e-17 79.49  2183704    AP018356.1       
+PREDICTED: Mercurialis annua squalene monooxygenase SE1-like...   Mercurialis ... annual mercury  3986       103    103   28%   5e-17 79.82  2090       XM_050356761.2   
+PREDICTED: Vitis vinifera squalene monooxygenase SE1...           Vitis vinifera  wine grape      29760      102    102   26%   5e-17 81.13  1934       XM_002271492.5   
+PREDICTED: Vitis riparia squalene monooxygenase SE1-like...       Vitis riparia   riverbank grape 96939      102    102   26%   5e-17 81.13  2048       XM_034825450.1   
+Ziziphus jujuba isolate TW-2024b chromosome 09                    Ziziphus jujuba common jujube   326968     101    198   29%   2e-16 78.81  31333659   CP157411.1       
+PREDICTED: Diospyros lotus squalene monooxygenase SE1-like...     Diospyros lotus NA              55363      98.7   98.7  28%   6e-16 78.95  2042       XM_052347758.1   
+PREDICTED: Ziziphus jujuba squalene monooxygenase SE1...          Ziziphus jujuba common jujube   326968     97.8   97.8  26%   2e-15 80.19  2051       XM_016037854.4   
+PREDICTED: Hibiscus syriacus squalene epoxidase 3-like...         Hibiscus syr... NA              106335     96.9   96.9  21%   2e-15 85.54  1888       XM_039140868.1   
+PREDICTED: Hibiscus syriacus squalene monooxygenase SE1-like...   Hibiscus syr... NA              106335     95.1   95.1  29%   8e-15 77.78  1749       XM_039142146.1   
+Panax vietnamensis squalene epoxidase 3 (SE3) gene, complete cds  Panax vietna... NA              106132     95.1   95.1  34%   8e-15 75.18  3003       MW258696.1       
+PREDICTED: Spinacia oleracea squalene epoxidase 3...              Spinacia ole... spinach         3562       95.1   95.1  27%   8e-15 79.44  2238       XM_022009178.2   
+PREDICTED: Olea europaea var. sylvestris squalene...              Olea europae... NA              158386     94.2   94.2  28%   3e-14 78.07  2068       XM_023029077.1   
+PREDICTED: Hibiscus syriacus squalene monooxygenase SE1-like...   Hibiscus syr... NA              106335     94.2   94.2  23%   3e-14 81.91  1849       XM_039207042.1   
+PREDICTED: Silene latifolia squalene monooxygenase SE1-like...    Silene latif... NA              37657      94.2   94.2  28%   3e-14 78.07  2288       XM_074452783.1   
+Azadirachta indica squalene monooxygenase 3 (MOF3) mRNA,...       Azadirachta ... NA              124943     94.2   94.2  23%   3e-14 81.91  1830       JX997151.1       
+Urochloa humidicola genome assembly, chromosome: 3C_hap1          Urochloa hum... NA              240451     92.4   92.4  29%   9e-14 77.12  63005516   OZ277601.1       
+Urochloa humidicola genome assembly, chromosome: 3B_hap2          Urochloa hum... NA              240451     92.4   92.4  29%   9e-14 77.12  68939801   OZ277598.1       
+PREDICTED: Theobroma cacao squalene monooxygenase (LOC18607298... Theobroma cacao cacao           3641       90.6   90.6  29%   3e-13 76.92  1978       XM_018116507.1   
+PREDICTED: Herrania umbratica squalene monooxygenase-like...      Herrania umb... NA              108875     90.6   90.6  29%   3e-13 76.92  3248       XM_021444476.1   
+PREDICTED: Punica granatum squalene monooxygenase SE1-like...     Punica granatum pomegranate     22663      89.7   89.7  28%   3e-13 77.19  2603       XM_031520317.1   
+Bupleurum chinense squalene epoxidase (SE1) mRNA, complete cds    Bupleurum ch... NA              52451      89.7   89.7  28%   3e-13 77.19  1636       OM988069.1       
+PREDICTED: Quercus lobata squalene monooxygenase SE1-like...      Quercus lobata  NA              97700      89.7   89.7  28%   3e-13 77.19  1993       XM_031088170.1   
+PREDICTED: Juglans regia squalene monooxygenase SE1-like...       Juglans regia   Persian walnut  51240      89.7   89.7  28%   3e-13 77.19  2045       XM_018954553.2   
+Malus domestica cultivar Golden Delicious chromosome 10           Malus domestica apple           3750       89.7   89.7  26%   3e-13 78.85  43359126   CP168774.1       
+PREDICTED: Juglans microcarpa x Juglans regia squalene...         Juglans micr... NA              2249226    89.7   89.7  28%   3e-13 77.19  2031       XM_041155699.1   
+PREDICTED: Quercus robur squalene monooxygenase SE1-like...       Quercus robur   English oak     38942      89.7   89.7  28%   3e-13 77.19  1994       XM_050404545.1   
+PREDICTED: Punica granatum squalene monooxygenase SE1-like...     Punica granatum pomegranate     22663      89.7   89.7  28%   3e-13 77.19  2314       XM_031526727.1   
+PREDICTED: Ziziphus jujuba squalene monooxygenase SE1-like...     Ziziphus jujuba common jujube   326968     88.7   88.7  26%   1e-12 78.30  1851       XM_060820164.1   
+PREDICTED: Malus domestica squalene monooxygenase SE2-like...     Malus domestica apple           3750       88.7   88.7  26%   1e-12 78.30  1742       XM_029102176.2   
+Calluna vulgaris genome assembly, chromosome: 2                   Calluna vulg... heather flower  13385      88.7   88.7  30%   1e-12 76.03  64462077   OZ224583.1       
+PREDICTED: Malus sylvestris squalene monooxygenase SE2-like...    Malus sylves... European cra... 3752       88.7   88.7  26%   1e-12 78.30  1733       XM_050292137.1   
+Calluna vulgaris genome assembly, chromosome: 2                   Calluna vulg... heather flower  13385      88.7   88.7  30%   1e-12 76.03  67033611   OZ228605.1       
+Urochloa humidicola genome assembly, chromosome: 3A_hap1          Urochloa hum... NA              240451     87.8   87.8  29%   1e-12 76.27  74209992   OZ277595.1       
+Centella asiatica squalene epoxidase mRNA, complete cds           Centella asi... NA              48106      87.8   87.8  28%   1e-12 76.99  1584       MF480551.1       
+Urochloa humidicola genome assembly, chromosome: 3A_hap2          Urochloa hum... NA              240451     87.8   87.8  29%   1e-12 76.27  78364732   OZ277596.1       
+Malus domestica cultivar Golden Delicious chromosome 05           Malus domestica apple           3750       87.8   228   41%   1e-12 76.27  45767126   CP168769.1       
+PREDICTED: Gastrolobium bilobum squalene monooxygenase SE1-lik... Gastrolobium... NA              150636     86.9   86.9  29%   4e-12 76.52  1748       XM_061480414.1   
+PREDICTED: Durio zibethinus squalene epoxidase 3-like...          Durio zibeth... NA              66656      86.9   86.9  25%   4e-12 79.00  1946       XM_022896324.1   
+PREDICTED: Ricinus communis squalene monooxygenase SE1...         Ricinus comm... castor bean     3988       86.0   86.0  29%   4e-12 76.07  2389       XM_002530564.4   
+Alisma plantago-aquatica subsp. orientale squalene epoxidase 1... Alisma plant... NA              262913     85.1   85.1  27%   1e-11 77.06  2157       KU856661.1       
+PREDICTED: Cynara cardunculus var. scolymus squalene...           Cynara cardu... NA              59895      85.1   85.1  28%   1e-11 76.32  1908       XM_025123678.1   
+PREDICTED: Carya illinoinensis squalene monooxygenase SE1-like... Carya illino... NA              32201      85.1   85.1  28%   1e-11 76.32  1970       XM_043122265.1   
+PREDICTED: Quercus suber squalene monooxygenase SE1...            Quercus suber   NA              58331      85.1   85.1  28%   1e-11 76.32  1994       XM_024022019.2   
+PREDICTED: Tripterygium wilfordii squalene monooxygenase...       Tripterygium... NA              458696     85.1   85.1  28%   1e-11 76.32  1798       XM_038825458.1   
+Tripterygium wilfordii squalene epoxidase 7 (SE7) mRNA, comple... Tripterygium... NA              458696     85.1   85.1  28%   1e-11 76.32  1584       MK541922.1       
+PREDICTED: Alnus glutinosa squalene monooxygenase SE1-like...     Alnus glutinosa NA              3517       85.1   85.1  28%   1e-11 76.32  2009       XM_062320798.1   
+PREDICTED: Pistacia vera squalene monooxygenase SE1-like...       Pistacia vera   NA              55513      84.2   84.2  23%   1e-11 80.22  1603       XM_031395512.1   
+PREDICTED: Pistacia vera squalene monooxygenase SE1-like...       Pistacia vera   NA              55513      84.2   84.2  23%   1e-11 80.22  2088       XM_031395490.1   
+PREDICTED: Mangifera indica squalene monooxygenase SE1-like...    Mangifera in... mango           29780      84.2   84.2  23%   1e-11 80.22  2045       XM_044650093.1   
+PREDICTED: Abrus precatorius squalene monooxygenase-like...       Abrus precat... Indian licorice 3816       84.2   84.2  26%   1e-11 77.36  1819       XM_027490386.1   
+PREDICTED: Ricinus communis squalene monooxygenase SE1...         Ricinus comm... castor bean     3988       84.2   84.2  25%   1e-11 78.22  2201       XM_015726259.3   
+Spirodela intermedia genome assembly, chromosome: 1               Spirodela in... NA              51605      83.3   83.3  24%   5e-11 78.57  11046452   LR743588.1       
+PREDICTED: Curcuma longa squalene monooxygenase SE1-like...       Curcuma longa   turmeric        136217     82.4   82.4  26%   5e-11 77.14  1880       XM_074727827.1   
+PREDICTED: Henckelia pumila squalene monooxygenase SE1-like...    Henckelia pu... NA              405737     82.4   82.4  25%   5e-11 78.00  2022       XM_073268580.1   
+PREDICTED: Rhododendron vialii squalene monooxygenase SE1-like... Rhododendron... NA              182163     81.5   81.5  23%   2e-10 79.35  2097       XM_058361136.1   
+PREDICTED: Beta vulgaris subsp. vulgaris squalene epoxidase 3...  Beta vulgari... NA              3555       81.5   81.5  27%   2e-10 76.64  2186       XM_010681375.4   
+PREDICTED: Zingiber officinale squalene monooxygenase SE1-like... Zingiber off... NA              94328      81.5   81.5  29%   2e-10 75.21  1906       XM_042523891.1   
+PREDICTED: Pyrus communis squalene monooxygenase SE1-like...      Pyrus communis  pear            23211      81.5   81.5  23%   2e-10 79.35  2345       XM_068464090.1   
+PREDICTED: Chenopodium quinoa squalene monooxygenase-like...      Chenopodium ... quinoa          63459      81.5   136   46%   2e-10 75.89  2367       XM_021862289.1   
+Cannabis sativa cultivar ERBxHO40_23 chromosome X                 Cannabis sativa NA              3483       81.5   81.5  29%   2e-10 75.21  84640807   CP158662.1       
+PREDICTED: Malus domestica squalene monooxygenase SE1-like...     Malus domestica apple           3750       81.5   81.5  23%   2e-10 79.35  2075       XM_029102178.2   
+PREDICTED: Zingiber officinale squalene monooxygenase SE1-like... Zingiber off... NA              94328      81.5   81.5  29%   2e-10 75.21  1881       XM_042529812.1   
+PREDICTED: Zingiber officinale squalene monooxygenase SE1-like... Zingiber off... NA              94328      81.5   81.5  29%   2e-10 75.21  1899       XM_042529811.1   
+Cannabis sativa cultivar ERBxHO40_23 chromosome X                 Cannabis sativa NA              3483       81.5   81.5  29%   2e-10 75.21  84401000   CP158652.1       
+PREDICTED: Cornus florida squalene epoxidase 3-like...            Cornus florida  NA              4283       81.5   81.5  29%   2e-10 75.21  2213       XM_059785250.1   
+PREDICTED: Zingiber officinale squalene monooxygenase SE1-like... Zingiber off... NA              94328      81.5   81.5  29%   2e-10 75.21  1888       XM_042523892.1   
+Euphorbia lathyris squalene epoxidase (SQE) gene, complete cds    Euphorbia la... NA              212925     81.5   81.5  29%   2e-10 75.21  4717       MG755201.1       
+PREDICTED: Punica granatum squalene epoxidase 3-like...           Punica granatum pomegranate     22663      81.5   81.5  23%   2e-10 79.35  2269       XM_031543405.1   
+PREDICTED: Pistacia vera squalene monooxygenase SE1-like...       Pistacia vera   NA              55513      80.6   80.6  22%   2e-10 79.78  1626       XM_031408548.1   
+PREDICTED: Nicotiana tomentosiformis squalene monooxygenase...    Nicotiana to... NA              4098       80.6   80.6  28%   2e-10 75.44  1655       XM_033657996.2   
+PREDICTED: Nicotiana sylvestris squalene epoxidase 3-like...      Nicotiana sy... wood tobacco    4096       80.6   80.6  28%   2e-10 75.44  2102       XM_009775577.2   
+PREDICTED: Pyrus x bretschneideri squalene monooxygenase...       Pyrus x bret... Chinese whit... 225117     80.6   80.6  27%   2e-10 76.15  1729       XM_009380320.3   
+PREDICTED: Coffea eugenioides squalene monooxygenase-like...      Coffea eugen... NA              49369      80.6   80.6  23%   2e-10 78.72  2002       XM_027323292.1   
+PREDICTED: Nicotiana tabacum squalene monooxygenase SE1-like...   Nicotiana ta... common tobacco  4097       80.6   80.6  28%   2e-10 75.44  2112       XM_016659403.2   
+PREDICTED: Coffea eugenioides squalene monooxygenase-like...      Coffea eugen... NA              49369      80.6   80.6  23%   2e-10 78.72  2102       XM_027323291.1   
+PREDICTED: Nicotiana tabacum squalene monooxygenase SE1-like...   Nicotiana ta... common tobacco  4097       80.6   80.6  28%   2e-10 75.44  1906       XM_075248589.1   
+PREDICTED: Nicotiana tabacum squalene monooxygenase SE1-like...   Nicotiana ta... common tobacco  4097       80.6   80.6  28%   2e-10 75.44  2178       XM_016608105.2   
+Jatropha curcas squalene monooxygenase (SQE), mRNA                Jatropha curcas NA              180498     80.6   80.6  28%   2e-10 75.44  1779       NM_001308727.1   
+PREDICTED: Nicotiana tomentosiformis squalene monooxygenase...    Nicotiana to... NA              4098       80.6   80.6  28%   2e-10 75.44  1934       XM_009611256.4   
+PREDICTED: Coffea arabica squalene epoxidase 3 (LOC113702056),... Coffea arabica  coffee          13443      80.6   80.6  23%   2e-10 78.72  2189       XM_027223006.2   
+PREDICTED: Nicotiana sylvestris squalene epoxidase 3-like...      Nicotiana sy... wood tobacco    4096       80.6   80.6  28%   2e-10 75.44  1885       XM_009775578.2   
+PREDICTED: Pyrus communis squalene monooxygenase SE2-like...      Pyrus communis  pear            23211      79.7   79.7  26%   6e-10 76.42  1741       XM_068465379.1   
+PREDICTED: Prosopis cineraria squalene monooxygenase SE1-like...  Prosopis cin... NA              364024     79.7   79.7  26%   6e-10 76.42  2283       XR_008591785.1   
+PREDICTED: Prosopis cineraria squalene monooxygenase SE1-like...  Prosopis cin... NA              364024     79.7   79.7  26%   6e-10 76.42  1900       XM_054944614.1   
+PREDICTED: Prosopis cineraria squalene monooxygenase SE1-like...  Prosopis cin... NA              364024     79.7   79.7  26%   6e-10 76.42  2051       XM_054936968.1   
+PREDICTED: Malus domestica uncharacterized lncRNA...              Malus domestica apple           3750       79.7   79.7  26%   6e-10 76.42  389        XR_011581364.1   
+
+
+Alignments:
+
+>Veronica longifolia genome assembly, chromosome: 13
+Sequence ID: OZ276476.1 Length: 28305344
+Range 1: 24273471 to 24273607
+
+Score:153 bits(169), Expect:3e-32, 
+Identities:116/137(85%),  Gaps:0/137(0%), Strand: Plus/Minus
+
+Query  136       TTTATTGAATTTGATTGATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGC  195
+                 ||||||  |||||| ||| |||| ||  | |||||||||||||| || ||||| || |||
+Sbjct  24273607  TTTATTACATTTGAATGACAGGATGGGAGGATAGTGCAAGTGATTGAAAGGGATTTAAGC  24273548
+
+Query  196       CAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAA  255
+                 ||||| |||||||| || ||||||||||| |||||||||||||| || ||| ||| ||| 
+Sbjct  24273547  CAACCAGACAGAATCGTTGGTGAGCTGCTTCAACCAGGAGGCTATCTCAAATTAGCCGAG  24273488
+
+Query  256       TTGGGAATGGAAGGTAA  272
+                 |||||||||||||||||
+Sbjct  24273487  TTGGGAATGGAAGGTAA  24273471
+
+
+
+
+>Veronica longifolia genome assembly, chromosome: 13
+Sequence ID: OZ274280.1 Length: 28846208
+Range 1: 3889369 to 3889505
+
+Score:144 bits(159), Expect:2e-29, 
+Identities:114/137(83%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  136      TTTATTGAATTTGATTGATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGC  195
+                ||||||  |||||| ||| |||| ||  | |||||||||||||| || ||||| || |||
+Sbjct  3889369  TTTATTACATTTGAATGACAGGATGGGAGGATAGTGCAAGTGATTGAAAGGGATTTAAGC  3889428
+
+Query  196      CAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAA  255
+                ||||| |||||||| || || ||||| || |||||||||||||| || ||| ||| ||| 
+Sbjct  3889429  CAACCAGACAGAATCGTTGGCGAGCTACTTCAACCAGGAGGCTATCTCAAATTAGCCGAG  3889488
+
+Query  256      TTGGGAATGGAAGGTAA  272
+                |||||||||||||||||
+Sbjct  3889489  TTGGGAATGGAAGGTAA  3889505
+
+
+
+
+Range 2: 3889160 to 3889244
+
+Score:55.4 bits(60), Expect:0.007, 
+Identities:63/85(74%),  Gaps:0/85(0%), Strand: Plus/Plus
+
+Query  1        GCAGGAGTGATGGAGCGCCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCAC  60
+                |||| |  |||||| | || |||||| | || ||||| || |||||||||||  |  |  
+Sbjct  3889160  GCAGAACGGATGGACCACCAGATGTTGTGATTGTTGGGGCAGGTGTAGCTGGAGCATCCT  3889219
+
+Query  61       TGGCCTACTCCTTAGCAAAGGTGTG  85
+                | || ||||| || || ||||||||
+Sbjct  3889220  TAGCTTACTCTTTGGCTAAGGTGTG  3889244
+
+
+
+
+>PREDICTED: Salvia splendens squalene monooxygenase SE1-like (LOC121762922), mRNA
+Sequence ID: XM_042158949.1 Length: 1795
+Range 1: 305 to 418
+
+Score:139 bits(153), Expect:7e-28, 
+Identities:99/114(87%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || || |  ||||  ||||||||||||||||||||||| || || |||||||| |
+Sbjct  305  AGGATGGGCGCACGGTGCTGGTGATCGAGAGGGACTTGAGCCAGCCAGATAGAATAGTTG  364
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            ||||||| || ||||||||||||||||| |||||||| ||||||||||||||||
+Sbjct  365  GTGAGCTTCTTCAACCAGGAGGCTACCTCAAACTAGTTGAATTGGGAATGGAAG  418
+
+
+
+
+Range 2: 234 to 307
+
+Score:76.1 bits(83), Expect:7e-09, 
+Identities:61/74(82%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  8    TGATGGAGCGCCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTGGCCTA  67
+            ||||||  |||| |||||| |||| |||||||| |||||||||||||| ||| | || ||
+Sbjct  234  TGATGGGCCGCCGGATGTTGTCATTGTTGGTGCCGGTGTAGCTGGTTCAGCATTAGCTTA  293
+
+Query  68   CTCCTTAGCAAAGG  81
+            | | || |||||||
+Sbjct  294  CACTTTGGCAAAGG  307
+
+
+
+
+>PREDICTED: Sesamum indicum squalene monooxygenase-like (LOC105169793), mRNA
+Sequence ID: XM_011090309.2 Length: 1925
+Range 1: 304 to 417
+
+Score:134 bits(148), Expect:9e-27, 
+Identities:98/114(86%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            ||||||| ||||||||||||||||| |||||||| || |||||||| || ||||| || |
+Sbjct  304  AGGACGGGCGAATAGTGCAAGTGATTGAGAGGGATTTAAGCCAACCTGATAGAATTGTTG  363
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            ||||||| || || |||||||||||||| ||| |||| || ||||| |||||||
+Sbjct  364  GTGAGCTACTACAGCCAGGAGGCTACCTCAAATTAGTGGAGTTGGGGATGGAAG  417
+
+
+
+
+>PREDICTED: Salvia splendens squalene monooxygenase SE1-like (LOC121766152), mRNA
+Sequence ID: XM_042162504.1 Length: 1818
+Range 1: 323 to 436
+
+Score:134 bits(148), Expect:9e-27, 
+Identities:98/114(86%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||  | ||||  || |||||||||||||||||||| || || |||||||| |
+Sbjct  323  AGGATGGGCGCGTTGTGCTGGTAATCGAGAGGGACTTGAGCCAGCCAGATAGAATAGTTG  382
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            ||||||| || ||||||||||||||||| |||||||| ||||||||||||||||
+Sbjct  383  GTGAGCTTCTTCAACCAGGAGGCTACCTCAAACTAGTTGAATTGGGAATGGAAG  436
+
+
+
+
+Range 2: 252 to 325
+
+Score:76.1 bits(83), Expect:7e-09, 
+Identities:61/74(82%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  8    TGATGGAGCGCCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTGGCCTA  67
+            ||||||  | || || |||||||| |||||||| |||||||||||||| ||||| || ||
+Sbjct  252  TGATGGCCCCCCAGACGTTATCATTGTTGGTGCCGGTGTAGCTGGTTCAGCACTTGCTTA  311
+
+Query  68   CTCCTTAGCAAAGG  81
+            | | || |||||||
+Sbjct  312  CACTTTGGCAAAGG  325
+
+
+
+
+>PREDICTED: Salvia hispanica squalene monooxygenase SE1-like (LOC125200755), mRNA
+Sequence ID: XM_048098509.1 Length: 1777
+Range 1: 293 to 406
+
+Score:130 bits(143), Expect:4e-25, 
+Identities:97/114(85%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || || |  ||||  |||||||||||||| |||||||| || || |||||||| |
+Sbjct  293  AGGATGGGCGCACGGTGCTGGTGATCGAGAGGGATTTGAGCCAGCCAGATAGAATAGTTG  352
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            ||||||| || ||||||||||||||||| || ||||| ||||||||||||||||
+Sbjct  353  GTGAGCTTCTTCAACCAGGAGGCTACCTCAAGCTAGTTGAATTGGGAATGGAAG  406
+
+
+
+
+Range 2: 222 to 295
+
+Score:76.1 bits(83), Expect:7e-09, 
+Identities:61/74(82%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  8    TGATGGAGCGCCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTGGCCTA  67
+            ||||||  | || |||||| |||| |||||||| |||||||||||||| ||||| || ||
+Sbjct  222  TGATGGCCCCCCGGATGTTGTCATTGTTGGTGCCGGTGTAGCTGGTTCAGCACTAGCTTA  281
+
+Query  68   CTCCTTAGCAAAGG  81
+            | | || |||||||
+Sbjct  282  CACTTTGGCAAAGG  295
+
+
+
+
+>PREDICTED: Olea europaea var. sylvestris squalene monooxygenase-like (LOC111410519), mRNA
+Sequence ID: XM_023040902.1 Length: 1855
+Range 1: 280 to 391
+
+Score:126 bits(139), Expect:5e-24, 
+Identities:95/112(85%),  Gaps:0/112(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   |||||||||||| ||||||||||| | |||||| || ||||| || |
+Sbjct  280  AGGATGGGCGTCGAGTGCAAGTGATAGAGAGGGACTTAACCCAACCTGATAGAATTGTTG  339
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGA  266
+            ||||| |||| ||||||||||||||||| ||| ||||||| |||||||||||
+Sbjct  340  GTGAGTTGCTACAACCAGGAGGCTACCTCAAATTAGTCGAGTTGGGAATGGA  391
+
+
+
+
+>PREDICTED: Henckelia pumila squalene epoxidase 3-like (LOC140864253), mRNA
+Sequence ID: XM_073268305.1 Length: 1972
+Range 1: 313 to 424
+
+Score:122 bits(134), Expect:6e-23, 
+Identities:94/112(84%),  Gaps:0/112(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||||  || |||||||||||||||||  | |||||||| ||||||||||| |
+Sbjct  313  AGGATGGGCGAAAGGTTCAAGTGATCGAGAGGGATCTAAGCCAACCTGACAGAATAGTAG  372
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGA  266
+            | |||||  |||||||||||||||| || ||| |||| ||| ||||||||||
+Sbjct  373  GCGAGCTATTGCAACCAGGAGGCTATCTCAAATTAGTGGAACTGGGAATGGA  424
+
+
+
+
+>PREDICTED: Andrographis paniculata squalene epoxidase 3-like (LOC127262341), mRNA
+Sequence ID: XM_051290992.1 Length: 1635
+Range 1: 263 to 376
+
+Score:121 bits(133), Expect:2e-22, 
+Identities:95/114(83%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || || || || |||||||| |||||||| || ||||| |||||||| || || |
+Sbjct  263  AGGATGGGCGCATCGTTCAAGTGATTGAGAGGGATTTAAGCCAGCCCGACAGGATTGTTG  322
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | ||||||||||| || ||||||||||| ||||| || || |||||||||||||
+Sbjct  323  GCGAGCTGCTGCAGCCGGGAGGCTACCTCAAACTGGTTGAGTTGGGAATGGAAG  376
+
+
+
+
+Range 2: 192 to 265
+
+Score:62.6 bits(68), Expect:5e-05, 
+Identities:58/74(78%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  8    TGATGGAGCGCCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTGGCCTA  67
+            ||||||  | || |||||  || | || || |||||||| ||||||||||| || |||||
+Sbjct  192  TGATGGGCCACCGGATGTGGTCGTTGTCGGCGCTGGTGTGGCTGGTTCCGCCCTCGCCTA  251
+
+Query  68   CTCCTTAGCAAAGG  81
+            ||| || || ||||
+Sbjct  252  CTCTTTGGCCAAGG  265
+
+
+
+
+>PREDICTED: Salvia miltiorrhiza squalene epoxidase 3-like (LOC131001055), mRNA
+Sequence ID: XM_057927233.1 Length: 2053
+Range 1: 565 to 676
+
+Score:117 bits(129), Expect:2e-21, 
+Identities:93/112(83%),  Gaps:0/112(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||  | ||||  |||||||||||||| ||||| || || || || || || |
+Sbjct  565  AGGATGGGCGCGTGGTGCTGGTGATCGAGAGGGATTTGAGGCAGCCAGATAGGATTGTTG  624
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGA  266
+            | ||||| || ||||||||||||||||| |||||||||||||||||||||||
+Sbjct  625  GCGAGCTTCTTCAACCAGGAGGCTACCTCAAACTAGTCGAATTGGGAATGGA  676
+
+
+
+
+Range 2: 489 to 567
+
+Score:77.0 bits(84), Expect:2e-09, 
+Identities:65/79(82%),  Gaps:1/79(1%), Strand: Plus/Plus
+
+Query  4    GGAG-TGATGGAGCGCCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTG  62
+            |||| ||||||  | || |||||| | || |||||||| |||||||||||||| ||||||
+Sbjct  489  GGAGCTGATGGGCCACCGGATGTTGTGATTGTTGGTGCCGGTGTAGCTGGTTCAGCACTG  548
+
+Query  63   GCCTACTCCTTAGCAAAGG  81
+            || ||| | || |||||||
+Sbjct  549  GCTTACACTTTGGCAAAGG  567
+
+
+
+
+>PREDICTED: Olea europaea var. sylvestris squalene monooxygenase-like (LOC111380881), mRNA
+Sequence ID: XM_023004543.1 Length: 2003
+Range 1: 399 to 510
+
+Score:113 bits(124), Expect:3e-20, 
+Identities:92/112(82%),  Gaps:0/112(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   ||| || ||||| ||||||||||| | |||||| || ||||| || |
+Sbjct  399  AGGATGGGCGCCGAGTACATGTGATTGAGAGGGACTTAACCCAACCTGATAGAATTGTTG  458
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGA  266
+            | ||| | || ||||||||||||||||| ||||||||||| |||||||||||
+Sbjct  459  GCGAGTTACTACAACCAGGAGGCTACCTCAAACTAGTCGAGTTGGGAATGGA  510
+
+
+
+
+Range 2: 329 to 401
+
+Score:56.3 bits(61), Expect:0.007, 
+Identities:56/73(77%),  Gaps:0/73(0%), Strand: Plus/Plus
+
+Query  9    GATGGAGCGCCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTGGCCTAC  68
+            |||||||   | |||||| || | ||||| ||||||||||| |||||  || |||| |||
+Sbjct  329  GATGGAGGAACAGATGTTGTCGTTGTTGGAGCTGGTGTAGCCGGTTCTACATTGGCTTAC  388
+
+Query  69   TCCTTAGCAAAGG  81
+            ||  | || ||||
+Sbjct  389  TCTCTGGCCAAGG  401
+
+
+
+
+>PREDICTED: Primulina eburnea squalene epoxidase 3-like (LOC140815245), mRNA
+Sequence ID: XM_073174367.1 Length: 1980
+Range 1: 325 to 436
+
+Score:113 bits(124), Expect:3e-20, 
+Identities:92/112(82%),  Gaps:0/112(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||   || |||||||| ||||||||  | |||||||| ||||||||||| |
+Sbjct  325  AGGATGGGCGACAGGTTCAAGTGATTGAGAGGGATCTAAGCCAACCTGACAGAATAGTTG  384
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGA  266
+            ||||||| || |||||||||||||| || ||  |||| ||| ||||||||||
+Sbjct  385  GTGAGCTCCTACAACCAGGAGGCTATCTGAAGTTAGTGGAACTGGGAATGGA  436
+
+
+
+
+Range 2: 264 to 313
+
+Score:64.4 bits(70), Expect:1e-05, 
+Identities:44/50(88%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  18   CCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTGGCCTA  67
+            || |||||| ||||||||||||| |||||||||||||| ||||| || ||
+Sbjct  264  CCGGATGTTGTCATCGTTGGTGCGGGTGTAGCTGGTTCTGCACTTGCTTA  313
+
+
+
+
+>PREDICTED: Primulina huaijiensis squalene epoxidase 3-like (LOC140984200), mRNA
+Sequence ID: XM_073451450.1 Length: 1990
+Range 1: 327 to 438
+
+Score:113 bits(124), Expect:3e-20, 
+Identities:92/112(82%),  Gaps:0/112(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||   || |||||||| ||||||||  | |||||||| ||||||||||| |
+Sbjct  327  AGGATGGGCGACAGGTTCAAGTGATTGAGAGGGATCTAAGCCAACCTGACAGAATAGTTG  386
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGA  266
+            ||||||| || |||||||||||||| || ||  |||| ||| ||||||||||
+Sbjct  387  GTGAGCTCCTACAACCAGGAGGCTATCTGAAGTTAGTGGAACTGGGAATGGA  438
+
+
+
+
+Range 2: 252 to 315
+
+Score:62.6 bits(68), Expect:5e-05, 
+Identities:52/64(81%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  4    GGAGTGATGGAGCGCCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTGG  63
+            ||| ||| ||  | || |||||| ||||||||||||| |||||||||||||| || || |
+Sbjct  252  GGACTGACGGGCCACCGGATGTTGTCATCGTTGGTGCGGGTGTAGCTGGTTCTGCGCTTG  311
+
+Query  64   CCTA  67
+            | ||
+Sbjct  312  CTTA  315
+
+
+
+
+>Vitis vinifera contig VV78X262435.3, whole genome shotgun sequence
+Sequence ID: AM452515.1 Length: 28801
+Range 1: 3747 to 3864
+
+Score:105 bits(116), Expect:4e-18, 
+Identities:94/118(80%),  Gaps:0/118(0%), Strand: Plus/Plus
+
+Query  155   AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+             |||| || |||| ||| || ||||| || || ||||||||||| || |||||||| ||||
+Sbjct  3747  AGGATGGGCGAAGAGTTCATGTGATTGAAAGAGACTTGAGCCAGCCTGACAGAATTGTGG  3806
+
+Query  215   GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+             |||| ||||| |||||||||||||| || ||| |  | || |||||  | || |||||
+Sbjct  3807  GTGAACTGCTACAACCAGGAGGCTATCTAAAATTGATTGAGTTGGGTCTTGAGGGTAA  3864
+
+
+
+
+>Diospyros lotus DNA, including marker region for the astringency trait, contig: Dlotus,pooledBAC,ASTSctg1-2, strain: Kunsenshi Male
+Sequence ID: AP018356.1 Length: 2183704
+Range 1: 1162145 to 1162261
+
+Score:104 bits(114), Expect:1e-17, 
+Identities:93/117(79%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  155      AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                |||| || |||   || || ||||| |||||||||||||   | ||  || |||| || |
+Sbjct  1162145  AGGATGGGCGACAGGTTCATGTGATTGAGAGGGACTTGACTGAGCCTCACCGAATTGTCG  1162204
+
+Query  215      GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTA  271
+                |||||||||| |||||||| |||||||| ||| || | ||||||||| |||||||||
+Sbjct  1162205  GTGAGCTGCTACAACCAGGCGGCTACCTGAAATTAATTGAATTGGGACTGGAAGGTA  1162261
+
+
+
+
+>PREDICTED: Mercurialis annua squalene monooxygenase SE1-like (LOC126664393), mRNA
+Sequence ID: XM_050356761.2 Length: 2090
+Range 1: 474 to 587
+
+Score:103 bits(113), Expect:5e-17, 
+Identities:91/114(80%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || || | |||||| || || || || ||||||| | |||| |||||||| || |
+Sbjct  474  AGGATGGCCGTAAAGTGCATGTTATTGAAAGAGACTTGACCGAACCTGACAGAATTGTTG  533
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            ||||  |||| ||||||||||||||||| ||  |||| ||||||||| | ||||
+Sbjct  534  GTGAATTGCTACAACCAGGAGGCTACCTAAAGTTAGTTGAATTGGGACTTGAAG  587
+
+
+
+
+>PREDICTED: Vitis vinifera squalene monooxygenase SE1 (LOC100265235), mRNA
+Sequence ID: XM_002271492.5 Length: 1934
+Range 1: 350 to 455
+
+Score:102 bits(112), Expect:5e-17, 
+Identities:86/106(81%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||| ||| || ||||| || || ||||||||||| || |||||||| ||||
+Sbjct  350  AGGATGGGCGAAGAGTTCATGTGATTGAAAGAGACTTGAGCCAGCCTGACAGAATTGTGG  409
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            |||| ||||| |||||||||||||| || ||| |  | || |||||
+Sbjct  410  GTGAACTGCTACAACCAGGAGGCTATCTAAAATTGATTGAGTTGGG  455
+
+
+
+
+>PREDICTED: Vitis riparia squalene monooxygenase SE1-like (LOC117911199), mRNA
+Sequence ID: XM_034825450.1 Length: 2048
+Range 1: 351 to 456
+
+Score:102 bits(112), Expect:5e-17, 
+Identities:86/106(81%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||| ||| || ||||| || || ||||||||||| || |||||||| ||||
+Sbjct  351  AGGATGGGCGAAGAGTTCATGTGATTGAAAGAGACTTGAGCCAGCCTGACAGAATTGTGG  410
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            |||| ||||| |||||||||||||| || ||| |  | || |||||
+Sbjct  411  GTGAACTGCTACAACCAGGAGGCTATCTAAAATTGATTGAGTTGGG  456
+
+
+
+
+>Ziziphus jujuba isolate TW-2024b chromosome 09
+Sequence ID: CP157411.1 Length: 31333659
+Range 1: 23713773 to 23713890
+
+Score:101 bits(111), Expect:2e-16, 
+Identities:93/118(79%),  Gaps:0/118(0%), Strand: Plus/Plus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| || |||  ||| ||||||||||| || ||||||| | | ||||||||||| || |
+Sbjct  23713773  AGGATGGACGACGAGTACAAGTGATCGAAAGAGACTTGAACGAGCCCGACAGAATTGTTG  23713832
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+                 |||| || ||||||||||||||||| || ||| |  | || |||||  | || |||||
+Sbjct  23713833  GTGAACTTCTGCAACCAGGAGGCTATCTCAAATTGATTGAGTTGGGTCTAGAGGGTAA  23713890
+
+
+
+
+Range 2: 23689034 to 23689151
+
+Score:96.9 bits(106), Expect:2e-15, 
+Identities:92/118(78%),  Gaps:0/118(0%), Strand: Plus/Plus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| || |||  | | ||||||||||| || ||||||| | | ||||||||||| || |
+Sbjct  23689034  AGGATGGACGACGAATACAAGTGATCGAAAGAGACTTGAACGAGCCCGACAGAATTGTTG  23689093
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+                 |||| || ||||||||||||||||| || ||| |  | || |||||  | || |||||
+Sbjct  23689094  GTGAACTTCTGCAACCAGGAGGCTATCTCAAATTGATTGAGTTGGGTCTAGAGGGTAA  23689151
+
+
+
+
+>PREDICTED: Diospyros lotus squalene monooxygenase SE1-like (LOC127808988), mRNA
+Sequence ID: XM_052347758.1 Length: 2042
+Range 1: 410 to 523
+
+Score:98.7 bits(108), Expect:6e-16, 
+Identities:90/114(79%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||   || || ||||| |||||||||||||   | ||  || |||| || |
+Sbjct  410  AGGATGGGCGACAGGTTCATGTGATTGAGAGGGACTTGACTGAGCCTCACCGAATTGTCG  469
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| |||||||| |||||||| ||| || | ||||||||| ||||||
+Sbjct  470  GTGAGCTGCTACAACCAGGCGGCTACCTGAAATTAATTGAATTGGGACTGGAAG  523
+
+
+
+
+>PREDICTED: Ziziphus jujuba squalene monooxygenase SE1 (LOC107427482), mRNA
+Sequence ID: XM_016037854.4 Length: 2051
+Range 1: 403 to 508
+
+Score:97.8 bits(107), Expect:2e-15, 
+Identities:85/106(80%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||  ||| ||||||||||| || ||||||| | | ||||||||||| || |
+Sbjct  403  AGGATGGACGACGAGTACAAGTGATCGAAAGAGACTTGAACGAGCCCGACAGAATTGTTG  462
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            |||| || ||||||||||||||||| || ||| |  | || |||||
+Sbjct  463  GTGAACTTCTGCAACCAGGAGGCTATCTCAAATTGATTGAGTTGGG  508
+
+
+
+
+>PREDICTED: Hibiscus syriacus squalene epoxidase 3-like (LOC120121530), mRNA
+Sequence ID: XM_039140868.1 Length: 1888
+Range 1: 421 to 503
+
+Score:96.9 bits(106), Expect:2e-15, 
+Identities:71/83(86%),  Gaps:0/83(0%), Strand: Plus/Plus
+
+Query  178  ATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGAGGC  237
+            ||||| ||||||||||   ||||||||||||| || ||||| |||||||| |||||||| 
+Sbjct  421  ATCGAAAGGGACTTGACAGAACCCGACAGAATTGTTGGTGAACTGCTGCAGCCAGGAGGA  480
+
+Query  238  TACCTTAAACTAGTCGAATTGGG  260
+            ||||| ||||| || ||||||||
+Sbjct  481  TACCTGAAACTGGTTGAATTGGG  503
+
+
+
+
+>PREDICTED: Hibiscus syriacus squalene monooxygenase SE1-like (LOC120123211), mRNA
+Sequence ID: XM_039142146.1 Length: 1749
+Range 1: 306 to 422
+
+Score:95.1 bits(104), Expect:8e-15, 
+Identities:91/117(78%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || ||||||| ||   |||||  |||||||||||||||||||   | || ||||| || |
+Sbjct  306  GAAAGGACGGACGGCGAGTGCGTGTGATCGAGAGGGACTTGAATGAGCCTGACAGGATCG  365
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | |||||||| ||||||||||| || || |||||  |  | ||||||||| | ||||
+Sbjct  366  TTGGTGAGCTTCTGCAACCAGGGGGATATCTTAAGTTGATTGAATTGGGACTTGAAG  422
+
+
+
+
+>Panax vietnamensis squalene epoxidase 3 (SE3) gene, complete cds
+Sequence ID: MW258696.1 Length: 3003
+Range 1: 920 to 1056
+
+Score:95.1 bits(104), Expect:8e-15, 
+Identities:103/137(75%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  136   TTTATTGAATTTGATTGATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGC  195
+             ||| |||||||| | | | |||| || || | ||| || || || ||||||||||| |  
+Sbjct  920   TTTTTTGAATTTTAATTACAGGATGGCCGGAGAGTTCATGTAATTGAGAGGGACTTAACT  979
+
+Query  196   CAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAA  255
+              | |  |||||||| || ||||| || |||||||||||||||||| | ||| |  | |||
+Sbjct  980   GAGCAAGACAGAATTGTAGGTGAACTTCTGCAACCAGGAGGCTACTTGAAATTGATTGAA  1039
+
+Query  256   TTGGGAATGGAAGGTAA  272
+             |||||  | || |||||
+Sbjct  1040  TTGGGGCTAGAGGGTAA  1056
+
+
+
+
+>PREDICTED: Spinacia oleracea squalene epoxidase 3 (LOC110803651), mRNA
+Sequence ID: XM_022009178.2 Length: 2238
+Range 1: 622 to 728
+
+Score:95.1 bits(104), Expect:8e-15, 
+Identities:85/107(79%),  Gaps:0/107(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| ||||||   || || ||||| || || ||||| ||  |||||||||||||||| |
+Sbjct  622  AGGATGGTCGACGTGTTCACGTGATTGAAAGAGACTTAAGTGAACCCGACAGAATAGTTG  681
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGA  261
+            ||||||| || || |||||||| ||| | ||| |  |||||||||||
+Sbjct  682  GTGAGCTTCTACAGCCAGGAGGATACTTGAAATTGATCGAATTGGGA  728
+
+
+
+
+>PREDICTED: Olea europaea var. sylvestris squalene monooxygenase-like (LOC111401374), mRNA
+Sequence ID: XM_023029077.1 Length: 2068
+Range 1: 420 to 533
+
+Score:94.2 bits(103), Expect:3e-14, 
+Identities:89/114(78%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || || |  ||||| ||||| || ||||||||||   | ||||||||||| || |
+Sbjct  420  AGGATGGACGCAGGGTGCATGTGATTGAAAGGGACTTGAAAGAGCCCGACAGAATTGTCG  479
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | || || || ||||||||||||||||| |||||| | || || ||| | ||||
+Sbjct  480  GAGAACTTCTACAACCAGGAGGCTACCTCAAACTAATTGAGTTAGGACTTGAAG  533
+
+
+
+
+>PREDICTED: Hibiscus syriacus squalene monooxygenase SE1-like (LOC120207608), mRNA
+Sequence ID: XM_039207042.1 Length: 1849
+Range 1: 331 to 424
+
+Score:94.2 bits(103), Expect:3e-14, 
+Identities:77/94(82%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  175  GTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGA  234
+            ||||||||||||||||||| | | || ||||| || || || ||||| ||||||||||| 
+Sbjct  331  GTGATCGAGAGGGACTTGAACGAGCCTGACAGGATTGTTGGCGAGCTTCTGCAACCAGGG  390
+
+Query  235  GGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            || || |||||| || | ||||||||| | ||||
+Sbjct  391  GGATATCTTAAATTAATTGAATTGGGACTCGAAG  424
+
+
+
+
+>PREDICTED: Silene latifolia squalene monooxygenase SE1-like (LOC141643579), mRNA
+Sequence ID: XM_074452783.1 Length: 2288
+Range 1: 529 to 642
+
+Score:94.2 bits(103), Expect:3e-14, 
+Identities:89/114(78%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| ||||||  ||| || ||||| ||||||||||||||  | || ||||| || || |
+Sbjct  529  AGGATGGTCGACGAGTCCACGTGATTGAGAGGGACTTGAGTGAGCCTGACAGGATTGTTG  588
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| ||||| ||||||||||| ||||| ||| |  | ||| ||||  | ||||
+Sbjct  589  GTGAACTGCTACAACCAGGAGGTTACCTGAAATTGATGGAACTGGGCCTTGAAG  642
+
+
+
+
+>Azadirachta indica squalene monooxygenase 3 (MOF3) mRNA, complete cds
+Sequence ID: JX997151.1 Length: 1830
+Range 1: 311 to 404
+
+Score:94.2 bits(103), Expect:3e-14, 
+Identities:77/94(82%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  175  GTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGA  234
+            ||||| || || ||||||||||| || |||||||| || ||||||||||| ||||| |||
+Sbjct  311  GTGATTGAAAGAGACTTGAGCCAGCCTGACAGAATTGTTGGTGAGCTGCTACAACCTGGA  370
+
+Query  235  GGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            || ||  | || ||||| ||||||||  ||||||
+Sbjct  371  GGATATTTAAAGCTAGTAGAATTGGGTCTGGAAG  404
+
+
+
+
+>Urochloa humidicola genome assembly, chromosome: 3C_hap1
+Sequence ID: OZ277601.1 Length: 63005516
+Range 1: 55805238 to 55805355
+
+Score:92.4 bits(101), Expect:9e-14, 
+Identities:91/118(77%),  Gaps:0/118(0%), Strand: Plus/Minus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| |||||    ||||| || || ||||| ||  |||   |||| |||||||| ||||
+Sbjct  55805355  AGGATGGTCGTCGGGTGCATGTTATTGAGAGAGATCTGACAGAACCTGACAGAATTGTGG  55805296
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+                 |||||||| ||||||| ||||| ||| | ||| || |||| |||||  | ||||||||
+Sbjct  55805295  GTGAGCTGTTGCAACCTGGAGGTTACTTGAAATTAATCGAGTTGGGCCTCGAAGGTAA  55805238
+
+
+
+
+>Urochloa humidicola genome assembly, chromosome: 3B_hap2
+Sequence ID: OZ277598.1 Length: 68939801
+Range 1: 61680556 to 61680673
+
+Score:92.4 bits(101), Expect:9e-14, 
+Identities:91/118(77%),  Gaps:0/118(0%), Strand: Plus/Minus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| |||||    ||||| || || ||||| ||  |||   |||| |||||||| ||||
+Sbjct  61680673  AGGATGGTCGTCGGGTGCATGTTATTGAGAGAGATCTGACAGAACCTGACAGAATTGTGG  61680614
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+                 |||||||| ||||||| ||||| ||| | ||| || |||| |||||  | ||||||||
+Sbjct  61680613  GTGAGCTGTTGCAACCTGGAGGTTACTTGAAATTAATCGAGTTGGGCCTCGAAGGTAA  61680556
+
+
+
+
+>PREDICTED: Theobroma cacao squalene monooxygenase (LOC18607298), mRNA
+Sequence ID: XM_018116507.1 Length: 1978
+Range 1: 393 to 509
+
+Score:90.6 bits(99), Expect:3e-13, 
+Identities:90/117(77%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || ||||||| ||   |||||| ||||| ||||| ||||| ||  | || |||||||| |
+Sbjct  393  GAAAGGACGGACGCCGAGTGCATGTGATAGAGAGAGACTTAAGTGAGCCTGACAGAATTG  452
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | ||||| || || |||||||| |||||||||||  || | || |||||  | ||||
+Sbjct  453  TTGGTGAACTTCTACAACCAGGGGGCTACCTTAAGTTAATTGAGTTGGGTCTTGAAG  509
+
+
+
+
+>PREDICTED: Herrania umbratica squalene monooxygenase-like (LOC110428611), transcript variant X2, mRNA
+Sequence ID: XM_021444476.1 Length: 3248
+Range 1: 1738 to 1854
+
+Score:90.6 bits(99), Expect:3e-13, 
+Identities:90/117(77%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  152   GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+             || ||||||| ||   |||||| ||||| ||||| ||||| ||  | || |||||||| |
+Sbjct  1738  GAAAGGACGGACGCCGAGTGCATGTGATTGAGAGAGACTTAAGTGAGCCTGACAGAATTG  1797
+
+Query  212   TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+             | ||||| || || || ||||| |||||||||||  || | ||||||||  | ||||
+Sbjct  1798  TTGGTGAACTTCTACAGCCAGGGGGCTACCTTAAGTTAATTGAATTGGGTCTTGAAG  1854
+
+
+
+
+>PREDICTED: Punica granatum squalene monooxygenase SE1-like (LOC116191952), mRNA
+Sequence ID: XM_031520317.1 Length: 2603
+Range 1: 958 to 1071
+
+Score:89.7 bits(98), Expect:3e-13, 
+Identities:88/114(77%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155   AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+             |||| || | || ||||||  || |||| || ||| ||  | | |||||||||||||| |
+Sbjct  958   AGGATGGGCAAAGAGTGCATCTGCTCGAAAGAGACCTGTCCGAGCCCGACAGAATAGTTG  1017
+
+Query  215   GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+             | ||||| |||||||| ||||| || || ||| ||||||| |||||  | ||||
+Sbjct  1018  GCGAGCTTCTGCAACCTGGAGGGTATCTCAAATTAGTCGAGTTGGGTCTTGAAG  1071
+
+
+
+
+>Bupleurum chinense squalene epoxidase (SE1) mRNA, complete cds
+Sequence ID: OM988069.1 Length: 1636
+Range 1: 277 to 390
+
+Score:89.7 bits(98), Expect:3e-13, 
+Identities:88/114(77%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| ||||| | ||| || ||||| ||||||||||| | | |||| ||  | || || |
+Sbjct  277  AGGAAGGTCGCAGAGTTCATGTGATTGAGAGGGACTTAAACGAACCTGATCGTATTGTTG  336
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| |||||||| || ||  | ||| || ||||||||||  | ||||
+Sbjct  337  GTGAGCTGCTACAACCAGGCGGATATTTGAAATTAATCGAATTGGGTCTTGAAG  390
+
+
+
+
+>PREDICTED: Quercus lobata squalene monooxygenase SE1-like (LOC115968696), mRNA
+Sequence ID: XM_031088170.1 Length: 1993
+Range 1: 393 to 506
+
+Score:89.7 bits(98), Expect:3e-13, 
+Identities:88/114(77%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   |||||| ||||| || || ||||||||  |||| |||||||| || |
+Sbjct  393  AGGAAGGACGTCAAGTGCATGTGATTGAAAGAGACTTGAGTGAACCTGACAGAATTGTTG  452
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| |||||||| |||||  | |||||  | || |||||  | ||||
+Sbjct  453  GTGAGCTGCTACAACCAGGCGGCTATTTGAAACTGATTGAGTTGGGTCTTGAAG  506
+
+
+
+
+>PREDICTED: Juglans regia squalene monooxygenase SE1-like (LOC108983035), mRNA
+Sequence ID: XM_018954553.2 Length: 2045
+Range 1: 356 to 469
+
+Score:89.7 bits(98), Expect:3e-13, 
+Identities:88/114(77%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            ||||||| ||   ||||||  |||| || || |||||||   | ||||||||||| || |
+Sbjct  356  AGGACGGACGTCGAGTGCATTTGATTGAAAGAGACTTGACTGAGCCCGACAGAATTGTTG  415
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| || ||||| ||||| || ||||| || || |||||  | ||||
+Sbjct  416  GTGAGCTGCTACAGCCAGGGGGCTATCTGAAACTGGTTGAGTTGGGTCTTGAAG  469
+
+
+
+
+>Malus domestica cultivar Golden Delicious chromosome 10
+Sequence ID: CP168774.1 Length: 43359126
+Range 1: 21005419 to 21005522
+
+Score:89.7 bits(98), Expect:3e-13, 
+Identities:82/104(79%),  Gaps:0/104(0%), Strand: Plus/Minus
+
+Query  169       GTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAA  228
+                 || || |||||||| || ||||||||  | ||||||||||| || ||||||||| |||| 
+Sbjct  21005522  GTACACGTGATCGAAAGAGACTTGAGTGAGCCCGACAGAATTGTTGGTGAGCTGTTGCAG  21005463
+
+Query  229       CCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+                 || |||||||| || ||| |  | || |||||  | ||||||||
+Sbjct  21005462  CCTGGAGGCTATCTCAAATTGATTGAGTTGGGTCTTGAAGGTAA  21005419
+
+
+
+
+>PREDICTED: Juglans microcarpa x Juglans regia squalene monooxygenase SE1-like (LOC121255399), mRNA
+Sequence ID: XM_041155699.1 Length: 2031
+Range 1: 353 to 466
+
+Score:89.7 bits(98), Expect:3e-13, 
+Identities:88/114(77%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            ||||||| ||   ||||||  |||| || || |||||||   | ||||||||||| || |
+Sbjct  353  AGGACGGACGTCGAGTGCATTTGATTGAAAGAGACTTGACTGAGCCCGACAGAATTGTTG  412
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| || ||||| ||||| || ||||| || || |||||  | ||||
+Sbjct  413  GTGAGCTGCTACAGCCAGGGGGCTATCTGAAACTGGTTGAGTTGGGTCTTGAAG  466
+
+
+
+
+>PREDICTED: Quercus robur squalene monooxygenase SE1-like (LOC126705494), mRNA
+Sequence ID: XM_050404545.1 Length: 1994
+Range 1: 404 to 517
+
+Score:89.7 bits(98), Expect:3e-13, 
+Identities:88/114(77%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   |||||| ||||| || || ||||||||  |||| |||||||| || |
+Sbjct  404  AGGAAGGACGTCAAGTGCATGTGATTGAAAGAGACTTGAGTGAACCTGACAGAATTGTTG  463
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| |||||||| |||||  | |||||  | || |||||  | ||||
+Sbjct  464  GTGAGCTGCTACAACCAGGCGGCTATTTGAAACTGATTGAGTTGGGTCTTGAAG  517
+
+
+
+
+>PREDICTED: Punica granatum squalene monooxygenase SE1-like (LOC116196818), mRNA
+Sequence ID: XM_031526727.1 Length: 2314
+Range 1: 671 to 784
+
+Score:89.7 bits(98), Expect:3e-13, 
+Identities:88/114(77%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || | || ||||||  || |||| || ||| ||  | | |||||||||||||| |
+Sbjct  671  AGGATGGGCAAAGAGTGCATCTGCTCGAAAGAGACCTGTCCGAGCCCGACAGAATAGTTG  730
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | ||||| |||||||| ||||| || || ||| ||||||| |||||  | ||||
+Sbjct  731  GCGAGCTTCTGCAACCTGGAGGGTATCTCAAATTAGTCGAGTTGGGTCTTGAAG  784
+
+
+
+
+>PREDICTED: Ziziphus jujuba squalene monooxygenase SE1-like (LOC112492770), mRNA
+Sequence ID: XM_060820164.1 Length: 1851
+Range 1: 426 to 531
+
+Score:88.7 bits(97), Expect:1e-12, 
+Identities:83/106(78%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||  ||| ||||| ||||| || ||| ||| | | ||||||||||| || |
+Sbjct  426  AGGATGGACGACGAGTACAAGTAATCGAAAGAGACCTGAACGAGCCCGACAGAATTGTTG  485
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            |||| || ||||||||||||||||| || ||| |  | || |||||
+Sbjct  486  GTGAACTTCTGCAACCAGGAGGCTATCTCAAATTGATTGAGTTGGG  531
+
+
+
+
+>PREDICTED: Malus domestica squalene monooxygenase SE2-like (LOC103409320), mRNA
+Sequence ID: XM_029102176.2 Length: 1742
+Range 1: 286 to 391
+
+Score:88.7 bits(97), Expect:1e-12, 
+Identities:83/106(78%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   |||||| |||||||| |||||||||||  | || |||||||| || |
+Sbjct  286  AGGATGGGCGCCGAGTGCATGTGATCGAAAGGGACTTGAGTGAGCCAGACAGAATCGTCG  345
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            | ||||||||||||||||| || || || | | |||| || || ||
+Sbjct  346  GCGAGCTGCTGCAACCAGGGGGATATCTCAGATTAGTTGAGTTAGG  391
+
+
+
+
+>Calluna vulgaris genome assembly, chromosome: 2
+Sequence ID: OZ224583.1 Length: 64462077
+Range 1: 8673573 to 8673693
+
+Score:88.7 bits(97), Expect:1e-12, 
+Identities:92/121(76%),  Gaps:0/121(0%), Strand: Plus/Minus
+
+Query  155      AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                |||| || || |  ||||| ||||| || || |||||||   |||| ||||||||||| |
+Sbjct  8673693  AGGATGGGCGCAGGGTGCACGTGATAGAAAGAGACTTGACTGAACCAGACAGAATAGTCG  8673634
+
+Query  215      GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAACA  274
+                |||| || || || ||||||||||| || ||| || | || |||||  | || ||||| |
+Sbjct  8673633  GTGAACTTCTCCAGCCAGGAGGCTATCTCAAATTAATGGAGTTGGGCCTAGAGGGTAAGA  8673574
+
+Query  275      A  275
+                |
+Sbjct  8673573  A  8673573
+
+
+
+
+>PREDICTED: Malus sylvestris squalene monooxygenase SE2-like (LOC126623291), mRNA
+Sequence ID: XM_050292137.1 Length: 1733
+Range 1: 277 to 382
+
+Score:88.7 bits(97), Expect:1e-12, 
+Identities:83/106(78%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   |||||| |||||||| |||||||||||  | || |||||||| || |
+Sbjct  277  AGGATGGGCGCCGAGTGCATGTGATCGAAAGGGACTTGAGTGAGCCAGACAGAATCGTCG  336
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            | ||||||||||||||||| || || || | | |||| || || ||
+Sbjct  337  GCGAGCTGCTGCAACCAGGGGGATATCTCAGATTAGTTGAGTTAGG  382
+
+
+
+
+>Calluna vulgaris genome assembly, chromosome: 2
+Sequence ID: OZ228605.1 Length: 67033611
+Range 1: 7487837 to 7487957
+
+Score:88.7 bits(97), Expect:1e-12, 
+Identities:92/121(76%),  Gaps:0/121(0%), Strand: Plus/Minus
+
+Query  155      AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                |||| || || |  ||||| ||||| || || |||||||   |||| ||||||||||| |
+Sbjct  7487957  AGGATGGGCGCAGGGTGCACGTGATAGAAAGAGACTTGACTGAACCAGACAGAATAGTCG  7487898
+
+Query  215      GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAACA  274
+                |||| || || || ||||||||||| || ||| || | || |||||  | || ||||| |
+Sbjct  7487897  GTGAACTTCTCCAGCCAGGAGGCTATCTCAAATTAATGGAGTTGGGCCTAGAGGGTAAGA  7487838
+
+Query  275      A  275
+                |
+Sbjct  7487837  A  7487837
+
+
+
+
+>Urochloa humidicola genome assembly, chromosome: 3A_hap1
+Sequence ID: OZ277595.1 Length: 74209992
+Range 1: 66510615 to 66510732
+
+Score:87.8 bits(96), Expect:1e-12, 
+Identities:90/118(76%),  Gaps:0/118(0%), Strand: Plus/Minus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| |||||    ||||| || || ||||| || ||||   |||| |||||||| ||||
+Sbjct  66510732  AGGATGGTCGCCGGGTGCATGTTATTGAGAGAGATTTGACAGAACCTGACAGAATTGTGG  66510673
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+                 |||||||| ||||||| ||||| ||| | ||| || | || |||||  |  |||||||
+Sbjct  66510672  GTGAGCTGTTGCAACCTGGAGGTTACTTGAAATTAATGGAGTTGGGCCTCCAAGGTAA  66510615
+
+
+
+
+>Centella asiatica squalene epoxidase mRNA, complete cds
+Sequence ID: MF480551.1 Length: 1584
+Range 1: 240 to 352
+
+Score:87.8 bits(96), Expect:1e-12, 
+Identities:87/113(77%),  Gaps:0/113(0%), Strand: Plus/Plus
+
+Query  156  GGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGG  215
+            ||| || || | ||| || || ||||| || |||||||   | |  ||||||||||| ||
+Sbjct  240  GGATGGCCGGAAAGTTCATGTAATCGAAAGAGACTTGACAGAGCAAGACAGAATAGTTGG  299
+
+Query  216  TGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            ||| || || ||||| ||||||||| | |||||||||||||| ||  | ||||
+Sbjct  300  TGAACTTCTACAACCTGGAGGCTACTTAAAACTAGTCGAATTAGGCCTAGAAG  352
+
+
+
+
+>Urochloa humidicola genome assembly, chromosome: 3A_hap2
+Sequence ID: OZ277596.1 Length: 78364732
+Range 1: 70471357 to 70471474
+
+Score:87.8 bits(96), Expect:1e-12, 
+Identities:90/118(76%),  Gaps:0/118(0%), Strand: Plus/Minus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| |||||    ||||| || || ||||| || ||||   |||| |||||||| ||||
+Sbjct  70471474  AGGATGGTCGCCGGGTGCATGTTATTGAGAGAGATTTGACAGAACCTGACAGAATTGTGG  70471415
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+                 |||||||| ||||||| ||||| ||| | ||| || | || |||||  |  |||||||
+Sbjct  70471414  GTGAGCTGTTGCAACCTGGAGGTTACTTGAAATTAATGGAGTTGGGCCTCCAAGGTAA  70471357
+
+
+
+
+>Malus domestica cultivar Golden Delicious chromosome 05
+Sequence ID: CP168769.1 Length: 45767126
+Range 1: 22320793 to 22320910
+
+Score:87.8 bits(96), Expect:1e-12, 
+Identities:90/118(76%),  Gaps:0/118(0%), Strand: Plus/Minus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| || ||   |||||| ||||| || |||||||||||  | || |||||||| || |
+Sbjct  22320910  AGGATGGGCGCCGAGTGCATGTGATTGAAAGGGACTTGAGTGAGCCAGACAGAATCGTCG  22320851
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+                 | ||||||||||||||||| || || || | | |||| || || ||  | || |||||
+Sbjct  22320850  GCGAGCTGCTGCAACCAGGGGGATATCTCAGATTAGTTGAGTTAGGCCTTGAGGGTAA  22320793
+
+
+
+
+Range 2: 22294701 to 22294806
+
+Score:79.7 bits(87), Expect:6e-10, 
+Identities:81/106(76%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| || ||   |||||| ||| | || |||||||||||  | || |||||||| || |
+Sbjct  22294806  AGGATGGGCGCCGAGTGCATGTGGTTGAAAGGGACTTGAGTGAGCCAGACAGAATCGTCG  22294747
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+                 | ||||||||||||||||| || || || | | |||| || || ||
+Sbjct  22294746  GCGAGCTGCTGCAACCAGGGGGATATCTCAGATTAGTTGAGTTAGG  22294701
+
+
+
+
+Range 3: 22305304 to 22305351
+
+Score:60.8 bits(66), Expect:2e-04, 
+Identities:42/48(88%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  21        GATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTGGCCTAC  68
+                 ||||||||||| || ||||||||||| |||||||| ||||| || |||
+Sbjct  22305351  GATGTTATCATTGTGGGTGCTGGTGTTGCTGGTTCGGCACTAGCTTAC  22305304
+
+
+
+
+>PREDICTED: Gastrolobium bilobum squalene monooxygenase SE1-like (LOC133283546), mRNA
+Sequence ID: XM_061480414.1 Length: 1748
+Range 1: 236 to 350
+
+Score:86.9 bits(95), Expect:4e-12, 
+Identities:88/115(77%),  Gaps:0/115(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || |||| || ||   |||||| || || ||||||||||||||  |||| || || || |
+Sbjct  236  GAAAGGATGGACGGCAAGTGCATGTTATTGAGAGGGACTTGAGTGAACCTGATAGGATTG  295
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGA  266
+            |||||||  |||| ||||| ||||||||||| ||  || | || ||||| || ||
+Sbjct  296  TGGGTGAATTGCTACAACCTGGAGGCTACCTGAAGTTACTTGAGTTGGGTATTGA  350
+
+
+
+
+>PREDICTED: Durio zibethinus squalene epoxidase 3-like (LOC111300707), mRNA
+Sequence ID: XM_022896324.1 Length: 1946
+Range 1: 493 to 592
+
+Score:86.9 bits(95), Expect:4e-12, 
+Identities:79/100(79%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  169  GTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAA  228
+            || || ||||| || || ||| |||   ||||||||||||| || || ||  ||||||| 
+Sbjct  493  GTTCATGTGATAGAAAGAGACCTGACAGAACCCGACAGAATTGTTGGGGAAATGCTGCAG  552
+
+Query  229  CCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||| ||||||||| |||| ||||||||  | ||||
+Sbjct  553  CCAGGAGGATACCTTAAATTAGTTGAATTGGGCCTTGAAG  592
+
+
+
+
+>PREDICTED: Ricinus communis squalene monooxygenase SE1 (LOC8267674), transcript variant X1, mRNA
+Sequence ID: XM_002530564.4 Length: 2389
+Range 1: 804 to 920
+
+Score:86.0 bits(94), Expect:4e-12, 
+Identities:89/117(76%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || |||| ||  | | ||| || ||||| || |||||||| |   | || ||||||||||
+Sbjct  804  GAAAGGATGGAAGGAGAGTTCATGTGATAGAAAGGGACTTAACAGAGCCTGACAGAATAG  863
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | ||||||||||| |||||||| || || || ||| || | ||||||||  | ||||
+Sbjct  864  TCGGTGAGCTGCTCCAACCAGGCGGATATCTGAAATTAATTGAATTGGGTCTTGAAG  920
+
+
+
+
+>Alisma plantago-aquatica subsp. orientale squalene epoxidase 1 (SE1) mRNA, complete cds
+Sequence ID: KU856661.1 Length: 2157
+Range 1: 527 to 635
+
+Score:85.1 bits(93), Expect:1e-11, 
+Identities:84/109(77%),  Gaps:0/109(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || ||||||| ||   |||||  || |||||||||||| | | | | |||||||| || |
+Sbjct  527  GAAAGGACGGCCGCCGAGTGCGCGTCATCGAGAGGGACCTCACCGAGCCCGACAGGATCG  586
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            | || |||||||| || || ||||| ||||| || ||  ||||||||||
+Sbjct  587  TCGGGGAGCTGCTTCAGCCGGGAGGATACCTCAAGCTCATCGAATTGGG  635
+
+
+
+
+>PREDICTED: Cynara cardunculus var. scolymus squalene monooxygenase-like (LOC112516564), mRNA
+Sequence ID: XM_025123678.1 Length: 1908
+Range 1: 365 to 478
+
+Score:85.1 bits(93), Expect:1e-11, 
+Identities:87/114(76%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            ||||||||||   |||||| ||||| || ||||||||||   | || ||  ||||||| |
+Sbjct  365  AGGACGGTCGTCGAGTGCATGTGATTGAAAGGGACTTGACTGAGCCAGATCGAATAGTAG  424
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| || || ||||||||||||||  | |||||  | || |||||  | ||||
+Sbjct  425  GTGAACTTCTACAACCAGGAGGCTATTTAAAACTGATGGAGTTGGGTCTTGAAG  478
+
+
+
+
+>PREDICTED: Carya illinoinensis squalene monooxygenase SE1-like (LOC122308970), mRNA
+Sequence ID: XM_043122265.1 Length: 1970
+Range 1: 360 to 473
+
+Score:85.1 bits(93), Expect:1e-11, 
+Identities:87/114(76%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   ||||||  |||| || || |||||||   | ||||||||||| || |
+Sbjct  360  AGGATGGACGTCGAGTGCATTTGATTGAAAGAGACTTGACTGAGCCCGACAGAATTGTTG  419
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| || ||||| ||||| || ||||| || || |||||  | ||||
+Sbjct  420  GTGAGCTGCTACAGCCAGGGGGCTATCTGAAACTGGTTGAGTTGGGTCTTGAAG  473
+
+
+
+
+>PREDICTED: Quercus suber squalene monooxygenase SE1 (LOC111990232), mRNA
+Sequence ID: XM_024022019.2 Length: 1994
+Range 1: 407 to 520
+
+Score:85.1 bits(93), Expect:1e-11, 
+Identities:87/114(76%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   |||||| ||||| || || || |||||  |||| |||||||| || |
+Sbjct  407  AGGAAGGACGTCAAGTGCATGTGATTGAAAGAGATTTGAGTGAACCTGACAGAATTGTTG  466
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| |||||||| |||||  | |||||  | || |||||  | ||||
+Sbjct  467  GTGAGCTGCTACAACCAGGCGGCTATTTGAAACTGATTGAGTTGGGTCTTGAAG  520
+
+
+
+
+>PREDICTED: Tripterygium wilfordii squalene monooxygenase SE1-like (LOC119982210), mRNA
+Sequence ID: XM_038825458.1 Length: 1798
+Range 1: 321 to 434
+
+Score:85.1 bits(93), Expect:1e-11, 
+Identities:87/114(76%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| ||||| | ||| || ||||| ||||||||||| | | |||| ||  | || || |
+Sbjct  321  AGGAAGGTCGCAGAGTTCATGTGATTGAGAGGGACTTAAACGAACCTGATCGTATTGTCG  380
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| |||||||| || ||  | ||  || ||||||||||  | ||||
+Sbjct  381  GTGAGCTGCTACAACCAGGCGGATATTTGAAGTTAATCGAATTGGGTCTTGAAG  434
+
+
+
+
+>Tripterygium wilfordii squalene epoxidase 7 (SE7) mRNA, complete cds
+Sequence ID: MK541922.1 Length: 1584
+Range 1: 239 to 352
+
+Score:85.1 bits(93), Expect:1e-11, 
+Identities:87/114(76%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| ||||| | ||| || ||||| ||||||||||| | | |||| ||  | || || |
+Sbjct  239  AGGAAGGTCGCAGAGTTCATGTGATTGAGAGGGACTTAAACGAACCTGATCGTATTGTCG  298
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| |||||||| || ||  | ||  || ||||||||||  | ||||
+Sbjct  299  GTGAGCTGCTACAACCAGGCGGATATTTGAAGTTAATCGAATTGGGTCTTGAAG  352
+
+
+
+
+>PREDICTED: Alnus glutinosa squalene monooxygenase SE1-like (LOC133881771), mRNA
+Sequence ID: XM_062320798.1 Length: 2009
+Range 1: 403 to 516
+
+Score:85.1 bits(93), Expect:1e-11, 
+Identities:87/114(76%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            ||||||| ||   |||||| ||||| || || |||||||   | || |||||||| || |
+Sbjct  403  AGGACGGCCGTCGAGTGCATGTGATTGAAAGAGACTTGACTGAGCCGGACAGAATTGTTG  462
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||||||| || ||||| ||||| || |||||  | || |||||  | ||||
+Sbjct  463  GTGAGCTGCTACAGCCAGGGGGCTATCTGAAACTGATTGAGTTGGGTCTTGAAG  516
+
+
+
+
+>PREDICTED: Pistacia vera squalene monooxygenase SE1-like (LOC116109282), mRNA
+Sequence ID: XM_031395512.1 Length: 1603
+Range 1: 239 to 329
+
+Score:84.2 bits(92), Expect:1e-11, 
+Identities:73/91(80%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| |||||   |||||| ||||| || || |||||||   |||| |||||||| || |
+Sbjct  239  AGGATGGTCGCCGAGTGCATGTGATTGAAAGAGACTTGACTGAACCTGACAGAATTGTTG  298
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAA  245
+            |||| || || ||||||||||||||||| ||
+Sbjct  299  GTGAACTCCTACAACCAGGAGGCTACCTCAA  329
+
+
+
+
+>PREDICTED: Pistacia vera squalene monooxygenase SE1-like (LOC116109258), mRNA
+Sequence ID: XM_031395490.1 Length: 2088
+Range 1: 743 to 833
+
+Score:84.2 bits(92), Expect:1e-11, 
+Identities:73/91(80%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| |||||   |||||| || || || || |||||||   |||| |||||||| || |
+Sbjct  743  AGGATGGTCGTCGAGTGCATGTCATTGAAAGAGACTTGACTGAACCTGACAGAATTGTTG  802
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAA  245
+            |||| || |||||||||||||||||||| ||
+Sbjct  803  GTGAACTCCTGCAACCAGGAGGCTACCTCAA  833
+
+
+
+
+>PREDICTED: Mangifera indica squalene monooxygenase SE1-like (LOC123225816), mRNA
+Sequence ID: XM_044650093.1 Length: 2045
+Range 1: 531 to 621
+
+Score:84.2 bits(92), Expect:1e-11, 
+Identities:73/91(80%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| |||||   |||||| ||||| || || |||||||   |||| ||||| || || |
+Sbjct  531  AGGATGGTCGGCGAGTGCATGTGATTGAAAGAGACTTGACTGAACCTGACAGGATTGTTG  590
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAA  245
+            |||| || |||||||||||||||||||| ||
+Sbjct  591  GTGAACTCCTGCAACCAGGAGGCTACCTCAA  621
+
+
+
+
+>PREDICTED: Abrus precatorius squalene monooxygenase-like (LOC113858000), mRNA
+Sequence ID: XM_027490386.1 Length: 1819
+Range 1: 376 to 481
+
+Score:84.2 bits(92), Expect:1e-11, 
+Identities:82/106(77%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || || | |||||| ||||| || |||||||||||  |||| ||||| || ||||
+Sbjct  376  AGGATGGACGGAGAGTGCATGTGATTGAAAGGGACTTGAGTGAACCTGACAGGATCGTGG  435
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            ||||  |||| ||||| ||||| || || ||  || | || |||||
+Sbjct  436  GTGAATTGCTACAACCTGGAGGGTATCTCAAGTTAATTGAGTTGGG  481
+
+
+
+
+>PREDICTED: Ricinus communis squalene monooxygenase SE1 (LOC8267674), transcript variant X2, mRNA
+Sequence ID: XM_015726259.3 Length: 2201
+Range 1: 632 to 732
+
+Score:84.2 bits(92), Expect:1e-11, 
+Identities:79/101(78%),  Gaps:0/101(0%), Strand: Plus/Plus
+
+Query  168  AGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCA  227
+            ||| || ||||| || |||||||| |   | || ||||||||||| ||||||||||| ||
+Sbjct  632  AGTTCATGTGATAGAAAGGGACTTAACAGAGCCTGACAGAATAGTCGGTGAGCTGCTCCA  691
+
+Query  228  ACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||||| || || || ||| || | ||||||||  | ||||
+Sbjct  692  ACCAGGCGGATATCTGAAATTAATTGAATTGGGTCTTGAAG  732
+
+
+
+
+>Spirodela intermedia genome assembly, chromosome: 1
+Sequence ID: LR743588.1 Length: 11046452
+Range 1: 378601 to 378698
+
+Score:83.3 bits(91), Expect:5e-11, 
+Identities:77/98(79%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  175     GTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGA  234
+               || |||||||||||  ||||  | || ||||| || || || |||||| | ||||| |||
+Sbjct  378601  GTTATCGAGAGGGATCTGAGTGAGCCGGACAGGATTGTTGGGGAGCTGTTACAACCCGGA  378660
+
+Query  235     GGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTAA  272
+               || ||| | |||||||| ||||||||  | ||||||||
+Sbjct  378661  GGGTACTTGAAACTAGTTGAATTGGGTCTCGAAGGTAA  378698
+
+
+
+
+>PREDICTED: Curcuma longa squalene monooxygenase SE1-like (LOC141839959), mRNA
+Sequence ID: XM_074727827.1 Length: 1880
+Range 1: 291 to 395
+
+Score:82.4 bits(90), Expect:5e-11, 
+Identities:81/105(77%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| ||| ||   ||||| || |||||||| || |||    |||| |||||||| || |
+Sbjct  291  AGGATGGTAGACGTGTGCATGTAATCGAGAGAGATTTGTCTGAACCTGACAGAATTGTTG  350
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGG  259
+            | || ||  ||||||| ||||||||||||||| || | |||||||
+Sbjct  351  GCGAACTTTTGCAACCTGGAGGCTACCTTAAATTATTAGAATTGG  395
+
+
+
+
+>PREDICTED: Henckelia pumila squalene monooxygenase SE1-like (LOC140864408), mRNA
+Sequence ID: XM_073268580.1 Length: 2022
+Range 1: 383 to 482
+
+Score:82.4 bits(90), Expect:5e-11, 
+Identities:78/100(78%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  169  GTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAA  228
+            ||||  ||||| ||||| || || |   | |||||| |||| || || || |||||||||
+Sbjct  383  GTGCGTGTGATTGAGAGAGATTTAACTGAGCCCGACCGAATCGTCGGAGAACTGCTGCAA  442
+
+Query  229  CCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            ||||| || ||||||||| |  |||| |||||| ||||||
+Sbjct  443  CCAGGTGGATACCTTAAATTGATCGAGTTGGGATTGGAAG  482
+
+
+
+
+>PREDICTED: Rhododendron vialii squalene monooxygenase SE1-like (LOC131328017), mRNA
+Sequence ID: XM_058361136.1 Length: 2097
+Range 1: 520 to 611
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:73/92(79%),  Gaps:0/92(0%), Strand: Plus/Plus
+
+Query  169  GTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAA  228
+            ||||| ||||| ||||| |||||||   |||| |||||||| || ||||| || || || 
+Sbjct  520  GTGCACGTGATAGAGAGAGACTTGACTGAACCAGACAGAATTGTTGGTGAACTTCTCCAG  579
+
+Query  229  CCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            ||||||||||| || ||| || | || |||||
+Sbjct  580  CCAGGAGGCTATCTCAAATTAATTGAGTTGGG  611
+
+
+
+
+>PREDICTED: Beta vulgaris subsp. vulgaris squalene epoxidase 3 (LOC104894986), mRNA
+Sequence ID: XM_010681375.4 Length: 2186
+Range 1: 548 to 654
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:82/107(77%),  Gaps:0/107(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| ||||||   || || || || || || ||||| ||  |||| |||||||| || |
+Sbjct  548  AGGATGGTCGACGTGTTCATGTTATTGAAAGAGACTTAAGTGAACCTGACAGAATTGTTG  607
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGA  261
+            ||||||| || ||||||||||| ||| | ||| |  | |||||||||
+Sbjct  608  GTGAGCTACTACAACCAGGAGGATACTTGAAATTGATTGAATTGGGA  654
+
+
+
+
+>PREDICTED: Zingiber officinale squalene monooxygenase SE1-like (LOC121972198), transcript variant X3, mRNA
+Sequence ID: XM_042523891.1 Length: 1906
+Range 1: 345 to 461
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:88/117(75%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || |||| ||| ||   ||||| || || ||||| || |||    |||| |||||||| |
+Sbjct  345  GAAAGGATGGTAGACGTGTGCATGTAATTGAGAGAGATTTGTCTGAACCTGACAGAATTG  404
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | ||||| ||  ||||||| ||||||||||| ||| || | ||||||||  | ||||
+Sbjct  405  TTGGTGAACTTTTGCAACCTGGAGGCTACCTAAAATTATTAGAATTGGGCCTCGAAG  461
+
+
+
+
+>PREDICTED: Pyrus communis squalene monooxygenase SE1-like (LOC137725420), mRNA
+Sequence ID: XM_068464090.1 Length: 2345
+Range 1: 388 to 479
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:73/92(79%),  Gaps:0/92(0%), Strand: Plus/Plus
+
+Query  169  GTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAA  228
+            || || ||||||||||| ||||||||  | || |||||||| || ||||||||| |||| 
+Sbjct  388  GTACATGTGATCGAGAGAGACTTGAGTGAGCCAGACAGAATTGTTGGTGAGCTGTTGCAG  447
+
+Query  229  CCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            || |||||||| || ||| |  | || |||||
+Sbjct  448  CCTGGAGGCTATCTCAAATTGATTGAGTTGGG  479
+
+
+
+
+>PREDICTED: Chenopodium quinoa squalene monooxygenase-like (LOC110685768), mRNA
+Sequence ID: XM_021862289.1 Length: 2367
+Range 1: 757 to 868
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:85/112(76%),  Gaps:0/112(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| |||||    || || ||||| ||||| ||||| ||  |||| ||||||||||| |
+Sbjct  757  AGGATGGTCGGCGTGTTCATGTGATTGAGAGAGACTTAAGTGAACCTGACAGAATAGTTG  816
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGA  266
+            | ||||| || || |||||||| ||| | ||| |  | |||||||| || ||
+Sbjct  817  GGGAGCTTCTACAGCCAGGAGGATACTTGAAATTGATTGAATTGGGCATTGA  868
+
+
+
+
+Range 2: 690 to 759
+
+Score:54.5 bits(59), Expect:0.024, 
+Identities:56/73(77%),  Gaps:3/73(4%), Strand: Plus/Plus
+
+Query  9    GATGGAGCGCCTGATGTTATCATCGTTGGTGCTGGTGTAGCTGGTTCCGCACTGGCCTAC  68
+            ||||||   |||||||| ||||||||||| ||||| || |||||| | || || || || 
+Sbjct  690  GATGGA---CCTGATGTCATCATCGTTGGCGCTGGCGTTGCTGGTGCTGCTCTTGCTTAT  746
+
+Query  69   TCCTTAGCAAAGG  81
+             || | || ||||
+Sbjct  747  ACCCTTGCTAAGG  759
+
+
+
+
+>Cannabis sativa cultivar ERBxHO40_23 chromosome X
+Sequence ID: CP158662.1 Length: 84640807
+Range 1: 12112129 to 12112245
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:88/117(75%),  Gaps:0/117(0%), Strand: Plus/Minus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| ||  ||| ||| || ||||| || ||||||||||   | || || ||||| || |
+Sbjct  12112245  AGGATGGAAGAAGAGTTCATGTGATTGAAAGGGACTTGAATGAGCCAGATAGAATTGTTG  12112186
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTA  271
+                 ||||||| || ||||||||||| || || ||| |  ||||  ||||  | |||||||
+Sbjct  12112185  GTGAGCTACTTCAACCAGGAGGGTATCTAAAATTGATCGAGCTGGGTCTTGAAGGTA  12112129
+
+
+
+
+>PREDICTED: Malus domestica squalene monooxygenase SE1-like (LOC103441409), mRNA
+Sequence ID: XM_029102178.2 Length: 2075
+Range 1: 409 to 500
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:73/92(79%),  Gaps:0/92(0%), Strand: Plus/Plus
+
+Query  169  GTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAA  228
+            || || |||||||| || ||||||||  | || ||||||||||| ||||||||| |||| 
+Sbjct  409  GTACATGTGATCGAAAGAGACTTGAGTGAGCCAGACAGAATAGTTGGTGAGCTGTTGCAG  468
+
+Query  229  CCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            || |||||||| || ||| |  | || |||||
+Sbjct  469  CCTGGAGGCTATCTCAAATTGATTGAGTTGGG  500
+
+
+
+
+>PREDICTED: Zingiber officinale squalene monooxygenase SE1-like (LOC121977218), transcript variant X2, mRNA
+Sequence ID: XM_042529812.1 Length: 1881
+Range 1: 337 to 453
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:88/117(75%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || |||| ||| ||   ||||| || || ||||| || |||    |||| |||||||| |
+Sbjct  337  GAAAGGATGGTAGACGTGTGCATGTAATTGAGAGAGATTTGTCTGAACCTGACAGAATTG  396
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | ||||| ||  ||||||| ||||||||||| ||| || | ||||||||  | ||||
+Sbjct  397  TTGGTGAACTTTTGCAACCTGGAGGCTACCTAAAATTATTAGAATTGGGCCTTGAAG  453
+
+
+
+
+>PREDICTED: Zingiber officinale squalene monooxygenase SE1-like (LOC121977218), transcript variant X1, mRNA
+Sequence ID: XM_042529811.1 Length: 1899
+Range 1: 337 to 453
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:88/117(75%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || |||| ||| ||   ||||| || || ||||| || |||    |||| |||||||| |
+Sbjct  337  GAAAGGATGGTAGACGTGTGCATGTAATTGAGAGAGATTTGTCTGAACCTGACAGAATTG  396
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | ||||| ||  ||||||| ||||||||||| ||| || | ||||||||  | ||||
+Sbjct  397  TTGGTGAACTTTTGCAACCTGGAGGCTACCTAAAATTATTAGAATTGGGCCTTGAAG  453
+
+
+
+
+>Cannabis sativa cultivar ERBxHO40_23 chromosome X
+Sequence ID: CP158652.1 Length: 84401000
+Range 1: 72595238 to 72595354
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:88/117(75%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  155       AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+                 |||| ||  ||| ||| || ||||| || ||||||||||   | || || ||||| || |
+Sbjct  72595238  AGGATGGAAGAAGAGTTCATGTGATTGAAAGGGACTTGAATGAGCCAGATAGAATTGTTG  72595297
+
+Query  215       GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTA  271
+                 ||||||| || ||||||||||| || || ||| |  ||||  ||||  | |||||||
+Sbjct  72595298  GTGAGCTACTTCAACCAGGAGGGTATCTAAAATTGATCGAGCTGGGTCTTGAAGGTA  72595354
+
+
+
+
+>PREDICTED: Cornus florida squalene epoxidase 3-like (LOC132283309), mRNA
+Sequence ID: XM_059785250.1 Length: 2213
+Range 1: 660 to 776
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:88/117(75%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || ||||||| |||  ||| || ||||| ||||| || ||||   | || |||||||| |
+Sbjct  660  GAAAGGACGGACGACGAGTTCATGTGATTGAGAGAGATTTGACGGAGCCTGACAGAATTG  719
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | ||||| |||||||||||||| || ||| | |  ||  | ||||||||  | ||||
+Sbjct  720  TTGGTGAACTGCTGCAACCAGGTGGATACTTGAGGCTGATTGAATTGGGCCTTGAAG  776
+
+
+
+
+>PREDICTED: Zingiber officinale squalene monooxygenase SE1-like (LOC121972198), transcript variant X4, mRNA
+Sequence ID: XM_042523892.1 Length: 1888
+Range 1: 345 to 461
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:88/117(75%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || |||| ||| ||   ||||| || || ||||| || |||    |||| |||||||| |
+Sbjct  345  GAAAGGATGGTAGACGTGTGCATGTAATTGAGAGAGATTTGTCTGAACCTGACAGAATTG  404
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            | ||||| ||  ||||||| ||||||||||| ||| || | ||||||||  | ||||
+Sbjct  405  TTGGTGAACTTTTGCAACCTGGAGGCTACCTAAAATTATTAGAATTGGGCCTCGAAG  461
+
+
+
+
+>Euphorbia lathyris squalene epoxidase (SQE) gene, complete cds
+Sequence ID: MG755201.1 Length: 4717
+Range 1: 2204 to 2320
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:88/117(75%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  155   AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+             |||| ||  ||  ||| || ||||| || ||||| ||||   | || |||||||| || |
+Sbjct  2204  AGGATGGAAGACGAGTTCATGTGATAGAAAGGGATTTGAAAGAGCCTGACAGAATTGTCG  2263
+
+Query  215   GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAGGTA  271
+             |||| ||||| ||||||||||| || || ||| || | ||||| ||  | |||||||
+Sbjct  2264  GTGAACTGCTTCAACCAGGAGGATATCTGAAATTAATGGAATTAGGTCTTGAAGGTA  2320
+
+
+
+
+>PREDICTED: Punica granatum squalene epoxidase 3-like (LOC116209678), mRNA
+Sequence ID: XM_031543405.1 Length: 2269
+Range 1: 752 to 843
+
+Score:81.5 bits(89), Expect:2e-10, 
+Identities:73/92(79%),  Gaps:0/92(0%), Strand: Plus/Plus
+
+Query  169  GTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAA  228
+            || || || || ||||| ||||||| |||||||||| | || || || || ||  |||| 
+Sbjct  752  GTTCATGTCATAGAGAGAGACTTGACCCAACCCGACCGCATCGTCGGGGAACTCTTGCAG  811
+
+Query  229  CCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            || ||||||||||| || ||| ||||||||||
+Sbjct  812  CCCGGAGGCTACCTGAAGCTAATCGAATTGGG  843
+
+
+
+
+>PREDICTED: Pistacia vera squalene monooxygenase SE1-like (LOC116122734), mRNA
+Sequence ID: XM_031408548.1 Length: 1626
+Range 1: 286 to 374
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:71/89(80%),  Gaps:0/89(0%), Strand: Plus/Plus
+
+Query  157  GACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGT  216
+            || |||||   |||||| ||||| || || |||||||   |||| |||||||| || |||
+Sbjct  286  GATGGTCGCCGAGTGCATGTGATTGAAAGAGACTTGACTGAACCTGACAGAATTGTTGGT  345
+
+Query  217  GAGCTGCTGCAACCAGGAGGCTACCTTAA  245
+            || || || ||||||||||||||||| ||
+Sbjct  346  GAACTCCTACAACCAGGAGGCTACCTCAA  374
+
+
+
+
+>PREDICTED: Nicotiana tomentosiformis squalene monooxygenase SE1-like (LOC104103362), transcript variant X2, mRNA
+Sequence ID: XM_033657996.2 Length: 1655
+Range 1: 349 to 462
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:86/114(75%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||  ||| || ||||| |||||||||||||   ||||  | ||||| || |
+Sbjct  349  AGGATGGACGACGAGTTCACGTGATAGAGAGGGACTTGACTGAACCACATAGAATGGTTG  408
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| || || || ||||| ||||| || ||| ||||||| || ||  | ||||
+Sbjct  409  GTGAACTTCTACAGCCAGGTGGCTATCTCAAATTAGTCGACTTAGGCCTTGAAG  462
+
+
+
+
+>PREDICTED: Nicotiana sylvestris squalene epoxidase 3-like (LOC104224029), transcript variant X1, mRNA
+Sequence ID: XM_009775577.2 Length: 2102
+Range 1: 441 to 554
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:86/114(75%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            ||||||| |||  ||| || ||||| |||||||||||||   | || |||||||| || |
+Sbjct  441  AGGACGGGCGACGAGTTCACGTGATAGAGAGGGACTTGACTGAGCCAGACAGAATGGTTG  500
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| ||  | || ||||| ||||| || ||| |||| || || ||  | ||||
+Sbjct  501  GTGAACTTTTACAGCCAGGTGGCTATCTCAAATTAGTTGAGTTAGGCCTTGAAG  554
+
+
+
+
+>PREDICTED: Pyrus x bretschneideri squalene monooxygenase SE2-like (LOC103967075), mRNA
+Sequence ID: XM_009380320.3 Length: 1729
+Range 1: 302 to 410
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:83/109(76%),  Gaps:0/109(0%), Strand: Plus/Plus
+
+Query  152  GATAGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAG  211
+            || |||| || ||   |||||| ||||| || |||||||||||  | || || ||||| |
+Sbjct  302  GAAAGGATGGGCGCCGAGTGCATGTGATTGAAAGGGACTTGAGTGAGCCAGATAGAATCG  361
+
+Query  212  TGGGTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            | || ||||||||||||||||| || || || | | |||| || || ||
+Sbjct  362  TCGGCGAGCTGCTGCAACCAGGGGGATATCTCAGATTAGTTGAGTTAGG  410
+
+
+
+
+>PREDICTED: Coffea eugenioides squalene monooxygenase-like (LOC113778042), transcript variant X2, mRNA
+Sequence ID: XM_027323292.1 Length: 2002
+Range 1: 447 to 540
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:74/94(79%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  175  GTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGA  234
+            || ||||| || ||||||||  | || |||||||| |||||||||||||| |||||||| 
+Sbjct  447  GTAATCGAAAGAGACTTGAGTGAGCCTGACAGAATTGTGGGTGAGCTGCTACAACCAGGT  506
+
+Query  235  GGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            || || || ||  || | ||  ||||| ||||||
+Sbjct  507  GGATATCTCAAGTTAATTGAGCTGGGACTGGAAG  540
+
+
+
+
+>PREDICTED: Nicotiana tabacum squalene monooxygenase SE1-like (LOC107831617), mRNA
+Sequence ID: XM_016659403.2 Length: 2112
+Range 1: 455 to 568
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:86/114(75%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            ||||||| |||  ||| || ||||| |||||||||||||   | || |||||||| || |
+Sbjct  455  AGGACGGGCGACGAGTTCACGTGATAGAGAGGGACTTGACTGAGCCAGACAGAATGGTTG  514
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| ||  | || ||||| ||||| || ||| |||| || || ||  | ||||
+Sbjct  515  GTGAACTTTTACAGCCAGGTGGCTATCTCAAATTAGTTGAGTTAGGCCTTGAAG  568
+
+
+
+
+>PREDICTED: Coffea eugenioides squalene monooxygenase-like (LOC113778042), transcript variant X1, mRNA
+Sequence ID: XM_027323291.1 Length: 2102
+Range 1: 547 to 640
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:74/94(79%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  175  GTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGA  234
+            || ||||| || ||||||||  | || |||||||| |||||||||||||| |||||||| 
+Sbjct  547  GTAATCGAAAGAGACTTGAGTGAGCCTGACAGAATTGTGGGTGAGCTGCTACAACCAGGT  606
+
+Query  235  GGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            || || || ||  || | ||  ||||| ||||||
+Sbjct  607  GGATATCTCAAGTTAATTGAGCTGGGACTGGAAG  640
+
+
+
+
+>PREDICTED: Nicotiana tabacum squalene monooxygenase SE1-like (LOC107786596), transcript variant X3, mRNA
+Sequence ID: XM_075248589.1 Length: 1906
+Range 1: 483 to 596
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:86/114(75%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||  ||| || ||||| |||||||||||||   ||||  | ||||| || |
+Sbjct  483  AGGATGGACGACGAGTTCACGTGATAGAGAGGGACTTGACTGAACCACATAGAATGGTTG  542
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| || || || ||||| ||||| || ||| ||||||| || ||  | ||||
+Sbjct  543  GTGAACTTCTACAGCCAGGTGGCTATCTCAAATTAGTCGACTTAGGCCTTGAAG  596
+
+
+
+
+>PREDICTED: Nicotiana tabacum squalene monooxygenase SE1-like (LOC107786596), transcript variant X1, mRNA
+Sequence ID: XM_016608105.2 Length: 2178
+Range 1: 480 to 593
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:86/114(75%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||  ||| || ||||| |||||||||||||   ||||  | ||||| || |
+Sbjct  480  AGGATGGACGACGAGTTCACGTGATAGAGAGGGACTTGACTGAACCACATAGAATGGTTG  539
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| || || || ||||| ||||| || ||| ||||||| || ||  | ||||
+Sbjct  540  GTGAACTTCTACAGCCAGGTGGCTATCTCAAATTAGTCGACTTAGGCCTTGAAG  593
+
+
+
+
+>Jatropha curcas squalene monooxygenase (SQE), mRNA
+Sequence ID: NM_001308727.1 Length: 1779
+>Jatropha curcas squalene epoxidase (SQE) mRNA, complete cds
+Sequence ID: KF268396.1 Length: 1779 
+Range 1: 254 to 367
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:86/114(75%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   |||||| || || || || |||||||   |||| |||||||| || |
+Sbjct  254  AGGAAGGGCGTCGAGTGCATGTAATTGAAAGAGACTTGACTGAACCTGACAGAATTGTTG  313
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| || || |||||||||||||| || ||  || | ||||| ||| | ||||
+Sbjct  314  GTGAACTACTTCAACCAGGAGGCTATCTAAAGTTAATTGAATTAGGACTTGAAG  367
+
+
+
+
+>PREDICTED: Nicotiana tomentosiformis squalene monooxygenase SE1-like (LOC104103362), transcript variant X1, mRNA
+Sequence ID: XM_009611256.4 Length: 1934
+Range 1: 349 to 462
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:86/114(75%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||  ||| || ||||| |||||||||||||   ||||  | ||||| || |
+Sbjct  349  AGGATGGACGACGAGTTCACGTGATAGAGAGGGACTTGACTGAACCACATAGAATGGTTG  408
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| || || || ||||| ||||| || ||| ||||||| || ||  | ||||
+Sbjct  409  GTGAACTTCTACAGCCAGGTGGCTATCTCAAATTAGTCGACTTAGGCCTTGAAG  462
+
+
+
+
+>PREDICTED: Coffea arabica squalene epoxidase 3 (LOC113702056), mRNA
+Sequence ID: XM_027223006.2 Length: 2189
+Range 1: 634 to 727
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:74/94(79%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  175  GTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGGGTGAGCTGCTGCAACCAGGA  234
+            || ||||| || ||||||||  | || |||||||| |||||||||||||| |||||||| 
+Sbjct  634  GTAATCGAAAGAGACTTGAGTGAGCCTGACAGAATTGTGGGTGAGCTGCTACAACCAGGT  693
+
+Query  235  GGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            || || || ||  || | ||  ||||| ||||||
+Sbjct  694  GGATATCTCAAGTTAATTGAGCTGGGACTGGAAG  727
+
+
+
+
+>PREDICTED: Nicotiana sylvestris squalene epoxidase 3-like (LOC104224029), transcript variant X2, mRNA
+Sequence ID: XM_009775578.2 Length: 1885
+Range 1: 443 to 556
+
+Score:80.6 bits(88), Expect:2e-10, 
+Identities:86/114(75%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            ||||||| |||  ||| || ||||| |||||||||||||   | || |||||||| || |
+Sbjct  443  AGGACGGGCGACGAGTTCACGTGATAGAGAGGGACTTGACTGAGCCAGACAGAATGGTTG  502
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGGAATGGAAG  268
+            |||| ||  | || ||||| ||||| || ||| |||| || || ||  | ||||
+Sbjct  503  GTGAACTTTTACAGCCAGGTGGCTATCTCAAATTAGTTGAGTTAGGCCTTGAAG  556
+
+
+
+
+>PREDICTED: Pyrus communis squalene monooxygenase SE2-like (LOC137726445), transcript variant X2, mRNA
+Sequence ID: XM_068465379.1 Length: 1741
+Range 1: 402 to 507
+
+Score:79.7 bits(87), Expect:6e-10, 
+Identities:81/106(76%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   |||||| ||||| || |||||||||||  | || || ||||| || |
+Sbjct  402  AGGATGGGCGCCGAGTGCATGTGATTGAAAGGGACTTGAGTGAGCCAGATAGAATCGTCG  461
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            | ||||||||||||||||| || || || | | |||| || || ||
+Sbjct  462  GCGAGCTGCTGCAACCAGGGGGATATCTCAGATTAGTTGAGTTAGG  507
+
+
+
+
+>PREDICTED: Prosopis cineraria squalene monooxygenase SE1-like (LOC129304810), transcript variant X4, misc_RNA
+Sequence ID: XR_008591785.1 Length: 2283
+Range 1: 382 to 487
+
+Score:79.7 bits(87), Expect:6e-10, 
+Identities:81/106(76%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||| |||||| || || || |||||||||||  | || |||||||| ||||
+Sbjct  382  AGGATGGACGAAAAGTGCATGTTATTGAAAGGGACTTGAGTGAGCCTGACAGAATCGTGG  441
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            ||||  ||||||| || ||||| ||  | ||  || | || |||||
+Sbjct  442  GTGAATTGCTGCAGCCTGGAGGGTATTTGAAGTTAATTGAGTTGGG  487
+
+
+
+
+>PREDICTED: Prosopis cineraria squalene monooxygenase SE1-like (LOC129304810), transcript variant X5, mRNA
+Sequence ID: XM_054944614.1 Length: 1900
+Range 1: 372 to 477
+
+Score:79.7 bits(87), Expect:6e-10, 
+Identities:81/106(76%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||| |||||| || || || |||||||||||  | || |||||||| ||||
+Sbjct  372  AGGATGGACGAAAAGTGCATGTTATTGAAAGGGACTTGAGTGAGCCTGACAGAATCGTGG  431
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            ||||  ||||||| || ||||| ||  | ||  || | || |||||
+Sbjct  432  GTGAATTGCTGCAGCCTGGAGGGTATTTGAAGTTAATTGAGTTGGG  477
+
+
+
+
+>PREDICTED: Prosopis cineraria squalene monooxygenase SE1-like (LOC129298552), mRNA
+Sequence ID: XM_054936968.1 Length: 2051
+Range 1: 401 to 506
+
+Score:79.7 bits(87), Expect:6e-10, 
+Identities:81/106(76%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || |||| |||||| || || || |||||||||||  | || || ||||| ||||
+Sbjct  401  AGGATGGACGAAAAGTGCATGTTATTGAAAGGGACTTGAGTGAGCCTGATAGAATCGTGG  460
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            |||| ||||| || || ||||| ||  | ||  |||| || |||||
+Sbjct  461  GTGAACTGCTACAGCCTGGAGGGTATTTGAAGTTAGTTGAGTTGGG  506
+
+
+
+
+>PREDICTED: Malus domestica uncharacterized lncRNA (LOC139196447), ncRNA
+Sequence ID: XR_011581364.1 Length: 389
+Range 1: 141 to 246
+
+Score:79.7 bits(87), Expect:6e-10, 
+Identities:81/106(76%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  155  AGGACGGTCGAATAGTGCAAGTGATCGAGAGGGACTTGAGCCAACCCGACAGAATAGTGG  214
+            |||| || ||   |||||| ||| | || |||||||||||  | || |||||||| || |
+Sbjct  141  AGGATGGGCGCCGAGTGCATGTGGTTGAAAGGGACTTGAGTGAGCCAGACAGAATCGTCG  200
+
+Query  215  GTGAGCTGCTGCAACCAGGAGGCTACCTTAAACTAGTCGAATTGGG  260
+            | ||||||||||||||||| || || || | | |||| || || ||
+Sbjct  201  GCGAGCTGCTGCAACCAGGGGGATATCTCAGATTAGTTGAGTTAGG  246
+
+
+
+
+
+
+
+		
+
+

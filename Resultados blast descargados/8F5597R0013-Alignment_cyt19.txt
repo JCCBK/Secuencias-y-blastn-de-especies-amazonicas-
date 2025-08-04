@@ -1,0 +1,741 @@
+RID: 8F5597R0013	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_8222305 Length: 278
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Rhodamnia argentea uncharacterized LOC115756158...     Rhodamnia ar... NA              178133     337    613   95%   9e-88 88.80  4897       XM_048280659.1   
+PREDICTED: Syzygium oleosum pentatricopeptide repeat-containin... Syzygium ole... NA              219896     303    303   94%   2e-77 85.77  2496       XM_030601240.2   
+PREDICTED: Eucalyptus grandis putative pentatricopeptide...       Eucalyptus g... NA              71139      275    275   95%   3e-69 83.46  2628       XM_039305938.1   
+PREDICTED: Eucalyptus grandis pentatricopeptide...                Eucalyptus g... NA              71139      113    217   62%   2e-20 90.24  861        XM_039306933.1   
+PREDICTED: Alnus glutinosa pentatricopeptide repeat-containing... Alnus glutinosa NA              3517       103    103   95%   3e-17 69.43  2287       XM_062298322.1   
+PREDICTED: Corylus avellana pentatricopeptide repeat-containin... Corylus avel... NA              13451      98.7   98.7  95%   4e-16 69.06  2270       XM_059602158.1   
+PREDICTED: Nelumbo nucifera pentatricopeptide repeat-containin... Nelumbo nuci... sacred lotus    4432       83.3   83.3  90%   3e-11 68.24  1605       XM_010242502.2   
+PREDICTED: Juglans regia pentatricopeptide repeat-containing...   Juglans regia   Persian walnut  51240      83.3   83.3  92%   3e-11 67.70  2364       XM_018980872.2   
+PREDICTED: Quercus lobata pentatricopeptide repeat-containing...  Quercus lobata  NA              97700      77.9   77.9  92%   1e-09 67.69  3193       XM_031100562.1   
+PREDICTED: Theobroma cacao putative pentatricopeptide...          Theobroma cacao cacao           3641       74.3   74.3  91%   2e-08 67.84  3384       XM_007031213.2   
+PREDICTED: Quercus suber pentatricopeptide repeat-containing...   Quercus suber   NA              58331      73.4   73.4  92%   2e-08 67.31  3042       XM_024033133.2   
+PREDICTED: Gossypium raimondii pentatricopeptide...               Gossypium ra... Peruvian cotton 29730      60.8   60.8  28%   1e-04 76.92  2733       XM_012610348.2   
+PREDICTED: Gossypium hirsutum pentatricopeptide...                Gossypium hi... cotton          3635       60.8   60.8  28%   1e-04 76.92  2260       XM_016848413.2   
+PREDICTED: Malania oleifera pentatricopeptide repeat-containin... Malania olei... NA              397392     59.9   59.9  23%   4e-04 80.00  2635       XM_058104915.1   
+PREDICTED: Momordica charantia putative pentatricopeptide...      Momordica ch... bitter melon    3673       57.2   57.2  27%   0.001 76.32  1755       XM_022303075.1   
+PREDICTED: Pistacia vera pentatricopeptide repeat-containing...   Pistacia vera   NA              55513      56.3   56.3  21%   0.004 81.03  2338       XM_031405102.1   
+PREDICTED: Pistacia vera pentatricopeptide repeat-containing...   Pistacia vera   NA              55513      56.3   56.3  21%   0.004 81.03  3002       XM_031405101.1   
+PREDICTED: Gossypium arboreum pentatricopeptide...                Gossypium ar... NA              29729      56.3   56.3  28%   0.004 75.64  2758       XM_017763128.2   
+PREDICTED: Rosa rugosa pentatricopeptide repeat-containing...     Rosa rugosa     NA              74645      55.4   55.4  22%   0.004 80.65  3741       XM_062169179.1   
+PREDICTED: Rhodamnia argentea pentatricopeptide...                Rhodamnia ar... NA              178133     55.4   55.4  18%   0.004 84.00  3579       XM_030684639.2   
+PREDICTED: Rosa chinensis pentatricopeptide repeat-containing...  Rosa chinensis  NA              74649      55.4   55.4  22%   0.004 80.65  3496       XM_040507761.1   
+PREDICTED: Rosa chinensis pentatricopeptide repeat-containing...  Rosa chinensis  NA              74649      55.4   55.4  22%   0.004 80.65  3482       XM_040507760.1   
+PREDICTED: Rosa chinensis pentatricopeptide repeat-containing...  Rosa chinensis  NA              74649      55.4   55.4  22%   0.004 80.65  3204       XM_024306524.2   
+PREDICTED: Rosa rugosa pentatricopeptide repeat-containing...     Rosa rugosa     NA              74645      55.4   55.4  22%   0.004 80.65  3738       XM_062169182.1   
+PREDICTED: Rosa chinensis pentatricopeptide repeat-containing...  Rosa chinensis  NA              74649      55.4   55.4  22%   0.004 80.65  3451       XM_040507759.1   
+PREDICTED: Rosa rugosa pentatricopeptide repeat-containing...     Rosa rugosa     NA              74645      55.4   55.4  22%   0.004 80.65  3372       XM_062169180.1   
+PREDICTED: Solanum verrucosum pentatricopeptide...                Solanum verr... NA              315347     55.4   55.4  22%   0.004 80.65  1842       XM_049497653.1   
+PREDICTED: Rosa rugosa pentatricopeptide repeat-containing...     Rosa rugosa     NA              74645      55.4   55.4  22%   0.004 80.65  3408       XM_062169181.1   
+PREDICTED: Nymphaea colorata pentatricopeptide repeat-containi... Nymphaea col... pocket water... 210225     53.6   53.6  25%   0.016 76.81  2938       XM_031648735.2   
+PREDICTED: Nymphaea colorata pentatricopeptide repeat-containi... Nymphaea col... pocket water... 210225     53.6   53.6  25%   0.016 76.81  3187       XM_031648734.2   
+
+
+Alignments:
+
+>PREDICTED: Rhodamnia argentea uncharacterized LOC115756158 (LOC115756158), mRNA
+Sequence ID: XM_048280659.1 Length: 4897
+Range 1: 3678 to 3936
+
+Score:337 bits(373), Expect:9e-88, 
+Identities:230/259(89%),  Gaps:0/259(0%), Strand: Plus/Plus
+
+Query  8     TTTTCCATAATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAG  67
+             || ||||||||||||| |||||||||||||||| ||||||||| ||||||||||||||||
+Sbjct  3678  TTGTCCATAATGATAATTTTGAAGAGGCTTGCCATTACTTTTCGTTCATGAGAAGTGAAG  3737
+
+Query  68    GTGTAATTCCCAGCGAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAG  127
+             |||||| |||||  ||||||| |||| |||| ||| ||||||||||||||||||||||||
+Sbjct  3738  GTGTAAGTCCCATTGAGGTCTCGTACTCTGTTGTGCTTCATGCTACTGCTTCTCTCTCAG  3797
+
+Query  128   CTCGGAGCCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGATGACA  187
+             |   ||||||||||||||| ||||||  ||| ||||| ||||||||||||||  | ||||
+Sbjct  3798  CATTGAGCCAGGGCACCTCCATTCATAATCATATATTTAAAAGCGGATGTGTCAACGACA  3857
+
+Query  188   GCCACATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTA  247
+             || ||||||||||  |||||||||||||||| | ||||||||||||||||||||||||||
+Sbjct  3858  GCTACATTGGAAGCACTTTAATCATGATGTATGCGAAATGTGGCAGTTTAGCTGATGCTA  3917
+
+Query  248   CTCGGGTGTTTGAAGAGAT  266
+             ||| || ||||||||||||
+Sbjct  3918  CTCAGGCGTTTGAAGAGAT  3936
+
+
+
+
+Range 2: 1194 to 1458
+
+Score:276 bits(305), Expect:3e-69, 
+Identities:220/265(83%),  Gaps:0/265(0%), Strand: Plus/Plus
+
+Query  8     TTTTCCATAATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAG  67
+             || |||||||||||||||||||||||||||||| |||||| || ||||||||||||||||
+Sbjct  1194  TTGTCCATAATGATAAGTTTGAAGAGGCTTGCCATTACTTGTCGTTCATGAGAAGTGAAG  1253
+
+Query  68    GTGTAATTCCCAGCGAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAG  127
+              ||| ||||||   ||||||| || | ||   | | ||||||||||||||||| ||||| 
+Sbjct  1254  ATGTGATTCCCGATGAGGTCTCGTTCTCTACTGCGCTTCATGCTACTGCTTCTATCTCAA  1313
+
+Query  128   CTCGGAGCCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGATGACA  187
+             |   ||||||||| |||||||| ||||||||| |||||||||| |||| |||  |   ||
+Sbjct  1314  CATTGAGCCAGGGTACCTCGATCCATGGTCAGGTATTAAAAAGTGGATTTGTGAACAGCA  1373
+
+Query  188   GCCACATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTA  247
+             ||  ||| ||||||||||| || |||||||| |  |||||||||||||||||||||||||
+Sbjct  1374  GCTGCATCGGAAGTGCTTTGATTATGATGTATGCAAAATGTGGCAGTTTAGCTGATGCTA  1433
+
+Query  248   CTCGGGTGTTTGAAGAGATCGATGG  272
+             ||| ||  ||||||||||| || ||
+Sbjct  1434  CTCAGGCATTTGAAGAGATTGAGGG  1458
+
+
+
+
+>PREDICTED: Syzygium oleosum pentatricopeptide repeat-containing protein At2g03880, mitochondrial-like (LOC115677990), mRNA
+Sequence ID: XM_030601240.2 Length: 2496
+Range 1: 1076 to 1335
+
+Score:303 bits(335), Expect:2e-77, 
+Identities:223/260(86%),  Gaps:0/260(0%), Strand: Plus/Plus
+
+Query  8     TTTTCCATAATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAG  67
+             || || ||||||||||||||||||||||||||| ||||||| | |||||||||||| |||
+Sbjct  1076  TTGTCAATAATGATAAGTTTGAAGAGGCTTGCCATTACTTTACTTTCATGAGAAGTAAAG  1135
+
+Query  68    GTGTAATTCCCAGCGAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAG  127
+             |||||||||||   ||||||| || | ||   ||| ||||||||||||||||| ||||||
+Sbjct  1136  GTGTAATTCCCGATGAGGTCTCGTTCTCTACTGTGCTTCATGCTACTGCTTCTATCTCAG  1195
+
+Query  128   CTCGGAGCCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGATGACA  187
+             |   ||||||||||||||||||||||| ||||||||||||||| ||||  ||| |   ||
+Sbjct  1196  CATTGAGCCAGGGCACCTCGATTCATGATCAGATATTAAAAAGTGGATCCGTTAACAGCA  1255
+
+Query  188   GCCACATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTA  247
+             ||  | ||||| |||||||||| |||||||| | ||||||||| ||||||||||||||||
+Sbjct  1256  GCTGCGTTGGAGGTGCTTTAATTATGATGTATGCGAAATGTGGTAGTTTAGCTGATGCTA  1315
+
+Query  248   CTCGGGTGTTTGAAGAGATC  267
+             |||||| |||||||||||||
+Sbjct  1316  CTCGGGCGTTTGAAGAGATC  1335
+
+
+
+
+>PREDICTED: Eucalyptus grandis putative pentatricopeptide repeat-containing protein At5g52630 (LOC104431508), mRNA
+Sequence ID: XM_039305938.1 Length: 2628
+Range 1: 1058 to 1322
+
+Score:275 bits(304), Expect:3e-69, 
+Identities:222/266(83%),  Gaps:2/266(0%), Strand: Plus/Plus
+
+Query  8     TTTTCCATAATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAG  67
+             || |||||||||||||||||||||||||||| ||||| || || ||||||||||||||||
+Sbjct  1058  TTGTCCATAATGATAAGTTTGAAGAGGCTTGTCGTTATTTGTCGTTCATGAGAAGTGAAG  1117
+
+Query  68    GTGTAATTCCCAGCGAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAG  127
+              ||||||||||  |||||| |  | | ||   |   ||||||||||||||||| ||||||
+Sbjct  1118  ATGTAATTCCCGACGAGGTTTCATTCTCTACTGCACTTCATGCTACTGCTTCTATCTCAG  1177
+
+Query  128   CTCGGAGCCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGATGA-C  186
+             |   ||||||||||||||| ||||||  ||||||||||||||| |||| || |||  | |
+Sbjct  1178  CATTGAGCCAGGGCACCTCAATTCATAATCAGATATTAAAAAGTGGATTTG-TGAGCAGC  1236
+
+Query  187   AGCCACATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCT  246
+             | |  ||||||||||||| |||| ||||||||||  |||||||||||||||||||| |||
+Sbjct  1237  ACCTGCATTGGAAGTGCTCTAATTATGATGTACGCAAAATGTGGCAGTTTAGCTGACGCT  1296
+
+Query  247   ACTCGGGTGTTTGAAGAGATCGATGG  272
+             |||||||  ||||||||||| || ||
+Sbjct  1297  ACTCGGGCATTTGAAGAGATTGAGGG  1322
+
+
+
+
+>PREDICTED: Eucalyptus grandis pentatricopeptide repeat-containing protein At1g20230 (LOC104431524), mRNA
+Sequence ID: XM_039306933.1 Length: 861
+Range 1: 98 to 179
+
+Score:113 bits(124), Expect:2e-20, 
+Identities:74/82(90%),  Gaps:0/82(0%), Strand: Plus/Plus
+
+Query  191  ACATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTC  250
+            |||||||||||||||| ||||||||||| | ||||||||||||||||||||| |||||||
+Sbjct  98   ACATTGGAAGTGCTTTGATCATGATGTATGCGAAATGTGGCAGTTTAGCTGACGCTACTC  157
+
+Query  251  GGGTGTTTGAAGAGATCGATGG  272
+            ||| |||| ||||||| || ||
+Sbjct  158  GGGCGTTTCAAGAGATTGAGGG  179
+
+
+
+
+Range 2: 11 to 103
+
+Score:104 bits(114), Expect:1e-17, 
+Identities:79/93(85%),  Gaps:3/93(3%), Strand: Plus/Plus
+
+Query  8    TTTTCCATAATGATAAGTTTGAAGAGGCTTGCCGTTACTTT---TCATTCATGAGAAGTG  64
+            || ||| |||||||||||||| |||||||||||||||||||   |  |||||||||||| 
+Sbjct  11   TTGTCCGTAATGATAAGTTTGGAGAGGCTTGCCGTTACTTTTTGTTGTTCATGAGAAGTC  70
+
+Query  65   AAGGTGTAATTCCCAGCGAGGTCTTGTACACTG  97
+            ||||||| ||||| ||||||||||  |||| ||
+Sbjct  71   AAGGTGTCATTCCTAGCGAGGTCTCCTACATTG  103
+
+
+
+
+>PREDICTED: Alnus glutinosa pentatricopeptide repeat-containing protein At5g04780, mitochondrial-like (LOC133862483), mRNA
+Sequence ID: XM_062298322.1 Length: 2287
+Range 1: 1082 to 1344
+
+Score:103 bits(113), Expect:3e-17, 
+Identities:184/265(69%),  Gaps:3/265(1%), Strand: Plus/Plus
+
+Query  11    TCCATAATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAGGTG  70
+             |||||| |||||| ||||| || ||||||  ||| ||||    |||||| || |||||  
+Sbjct  1082  TCCATAGTGATAACTTTGAGGAAGCTTGCAATTATTTTTGGGCCATGAGGAGGGAAGGCA  1141
+
+Query  71    TAATTCCCAGCGAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAGCTC  130
+             ||   ||    ||||  | |||| ||   ||  |||||||| |||||  |||  |||| |
+Sbjct  1142  TATCACCTGATGAGGCTTCGTACTCTTCTGTCCTTCATGCTTCTGCTAGTCTTGCAGCAC  1201
+
+Query  131   GGAGCCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGATGACAGCC  190
+               |  || ||||  | ||| |||| ||||||  ||||||  || | ||| || ||  || 
+Sbjct  1202  TAAATCAAGGCATTTTGATCCATGATCAGATTATAAAAACAGGTTTTGT-GAAGAATGCA  1260
+
+Query  191   ACA-TTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACT  249
+                 ||| |||| | || | ||  ||||| |  ||| |||| || || | |||||||  |
+Sbjct  1261  TGTGTTGCAAGTTCATTGACCACAATGTATGCAAAAAGTGGGAGCTTGGTTGATGCTTAT  1320
+
+Query  250   CGGGTGTTTGAAGAGATCGATGGAT  274
+             ||||||||||||||||| || ||||
+Sbjct  1321  CGGGTGTTTGAAGAGATTGA-GGAT  1344
+
+
+
+
+>PREDICTED: Corylus avellana pentatricopeptide repeat-containing protein At5g04780, mitochondrial-like (LOC132187738), mRNA
+Sequence ID: XM_059602158.1 Length: 2270
+Range 1: 967 to 1229
+
+Score:98.7 bits(108), Expect:4e-16, 
+Identities:183/265(69%),  Gaps:3/265(1%), Strand: Plus/Plus
+
+Query  11    TCCATAATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAGGTG  70
+             |||||| |||||| ||||| || ||||||  ||| ||||   ||||||| || |||||| 
+Sbjct  967   TCCATAGTGATAACTTTGAGGAAGCTTGCAATTATTTTTGGGTCATGAGGAGGGAAGGTA  1026
+
+Query  71    TAATTCCCAGCGAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAGCTC  130
+             ||   ||    ||||  |  ||| ||   ||  |||||||| |||||  |||  |||| |
+Sbjct  1027  TATCACCTGATGAGGCTTCATACTCTTCTGTCCTTCATGCTTCTGCTAGTCTTGCAGCAC  1086
+
+Query  131   GGAGCCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGATGACAGCC  190
+               |  || ||||  | ||| |||| ||||||  ||||||  || | |||  | ||  || 
+Sbjct  1087  TAAATCAAGGCATTTTGATCCATGATCAGATTATAAAAACTGGTTTTGTAAA-GAATGCA  1145
+
+Query  191   ACA-TTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACT  249
+                 ||| |||| | || ||||  ||||| |  ||| |||| ||  |   |||||||  |
+Sbjct  1146  TGTGTTGCAAGTTCATTGATCACAATGTATGCAAAAAGTGGGAGCCTGATTGATGCTCAT  1205
+
+Query  250   CGGGTGTTTGAAGAGATCGATGGAT  274
+             ||||||||||||||||| || ||||
+Sbjct  1206  CGGGTGTTTGAAGAGATTGA-GGAT  1229
+
+
+
+
+>PREDICTED: Nelumbo nucifera pentatricopeptide repeat-containing protein At2g22070-like (LOC104585573), mRNA
+Sequence ID: XM_010242502.2 Length: 1605
+Range 1: 430 to 678
+
+Score:83.3 bits(91), Expect:3e-11, 
+Identities:174/255(68%),  Gaps:11/255(4%), Strand: Plus/Plus
+
+Query  25   TTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAGGTGTAATTCCCAGCGAG  84
+            |||||||| ||||||  ||| ||||   ||||||| || |||||  ||   ||   ||||
+Sbjct  430  TTTGAAGAAGCTTGCAATTATTTTTGGGTCATGAGGAGGGAAGGGATATCGCCTGACGAG  489
+
+Query  85   GTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAGC-TCGGAGCCAGGGCAC  143
+            |  | || | |    |   | |||||  | |||  |||  | || | ||| ||| || ||
+Sbjct  490  GCATCGTTCTCAACAGCCCTCCATGCATCCGCTAATCTTGCGGCATTGGA-CCAAGGAAC  548
+
+Query  144  CTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGATGACAGCCACAT----TGGAA  199
+             | ||| |||| ||||||| | ||||  |||| |    |||| |   ||||    |||||
+Sbjct  549  TTTGATCCATGATCAGATAATCAAAACTGGATAT----ATGAAAAATACATGTGTTGGAA  604
+
+Query  200  GTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTG  259
+            || |||| ||||  ||||| |  ||||| || |||||   ||||||   |||||||||||
+Sbjct  605  GTTCTTTGATCACTATGTATGCTAAATGCGGGAGTTTGATTGATGCACATCGGGTGTTTG  664
+
+Query  260  AAGAGATCGATGGAT  274
+            ||||||| || ||||
+Sbjct  665  AAGAGATTGA-GGAT  678
+
+
+
+
+>PREDICTED: Juglans regia pentatricopeptide repeat-containing protein At3g24000, mitochondrial-like (LOC109002942), mRNA
+Sequence ID: XM_018980872.2 Length: 2364
+Range 1: 1026 to 1281
+
+Score:83.3 bits(91), Expect:3e-11, 
+Identities:174/257(68%),  Gaps:2/257(0%), Strand: Plus/Plus
+
+Query  11    TCCATAATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAGGTG  70
+             |||| | || ||| ||||| ||||||||| | || ||||  |||||||| |  |||||| 
+Sbjct  1026  TCCACAGTGGTAAATTTGAGGAGGCTTGCAGATATTTTTGGTTCATGAGGACGGAAGGTA  1085
+
+Query  71    TAATTCCCAGCGAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAGCTC  130
+             ||   ||    ||||     ||| ||   ||  |||||||| |||||  ||| ||||| |
+Sbjct  1086  TAGCACCTGATGAGGCTACATACTCTTCTGTCCTTCATGCTTCTGCTAGTCTTTCAGCAC  1145
+
+Query  131   GGAGCCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGATGACAGCC  190
+               |  || ||||| | ||| |||| |||||   ||||||  || | | | ||  |  || 
+Sbjct  1146  TTAATCAAGGCACTTTGATCCATGATCAGACCATAAAAACAGGTTTTAT-GAACAATGCA  1204
+
+Query  191   ACA-TTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACT  249
+                 ||| |||  | || || |  ||||| |  ||| |||| || || | |||||| | |
+Sbjct  1205  TGTGTTGCAAGCTCATTGATTACAATGTATGCAAAAAGTGGGAGCTTGGTTGATGCCAAT  1264
+
+Query  250   CGGGTGTTTGAAGAGAT  266
+             || ||||||||||||||
+Sbjct  1265  CGTGTGTTTGAAGAGAT  1281
+
+
+
+
+>PREDICTED: Quercus lobata pentatricopeptide repeat-containing protein At5g04780, mitochondrial-like (LOC115978717), mRNA
+Sequence ID: XM_031100562.1 Length: 3193
+Range 1: 1533 to 1787
+
+Score:77.9 bits(85), Expect:1e-09, 
+Identities:176/260(68%),  Gaps:10/260(3%), Strand: Plus/Plus
+
+Query  15    TAATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAGGTGTAAT  74
+             |||||| || |||||||| ||||||  ||| ||||   | ||||| ||  ||  |||| |
+Sbjct  1533  TAATGACAACTTTGAAGAAGCTTGCAATTATTTTTGGGTTATGAGGAGGAAA--TGTATT  1590
+
+Query  75    TC-CCAGC-GAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAGCTCGG  132
+             || || |  || |  | |||| ||   ||  |||||||| ||||   |||  | || |  
+Sbjct  1591  TCACCTGATGAAGCATCGTACTCTTCTGTTCTTCATGCTTCTGCAAGTCTTGCGGCACTT  1650
+
+Query  133   AGCCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGA---TGACAGC  189
+                || ||||| | |||||||| ||||||  ||||||  || | | || |   |||  | 
+Sbjct  1651  GATCAAGGCACTTTGATTCATGATCAGATTATAAAAACAGGTTTTATTAAGAATGAGTGT  1710
+
+Query  190   CACATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACT  249
+                |||| |||| | ||  | |  ||||| |  ||||||||  | || |  ||||||| |
+Sbjct  1711  ---ATTGCAAGTTCATTGGTTACAATGTATGCAAAATGTGGGTGCTTGGGAGATGCTAGT  1767
+
+Query  250   CGGGTGTTTGAAGAGATCGA  269
+             || |||||||||||||| ||
+Sbjct  1768  CGTGTGTTTGAAGAGATTGA  1787
+
+
+
+
+>PREDICTED: Theobroma cacao putative pentatricopeptide repeat-containing protein At3g23330 (LOC18600644), mRNA
+Sequence ID: XM_007031213.2 Length: 3384
+Range 1: 1299 to 1550
+
+Score:74.3 bits(81), Expect:2e-08, 
+Identities:173/255(68%),  Gaps:6/255(2%), Strand: Plus/Plus
+
+Query  16    AATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAGGTGTAATT  75
+             ||||| || |||||||| ||||||  ||| ||||   |||||||||| | |||| || | 
+Sbjct  1299  AATGAAAACTTTGAAGAAGCTTGCAATTATTTTTGGGTCATGAGAAGGGCAGGTATA-TC  1357
+
+Query  76    CCCAGC-GAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAGCTCGGAG  134
+              ||||  ||||  |  | | ||   |   |||||||| ||||   |||  | || |   |
+Sbjct  1358  GCCAGATGAGGCATCATGCTCTACAGCCCTTCATGCTTCTGCCCATCTTGCTGCACTAGG  1417
+
+Query  135   CCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGATGACAGCCA--C  192
+              || || || | ||| |||  ||||||  ||||||  || | | |  | || |  ||  |
+Sbjct  1418  TCAAGGGACTTTGATCCATAATCAGATTATAAAAACAGGGTTT-TCAAAGA-ATACATGC  1475
+
+Query  193   ATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGG  252
+             ||||  ||| | || || |  ||||| |  |||||||| || || | |||||||  ||| 
+Sbjct  1476  ATTGCTAGTTCGTTGATTACAATGTATGCAAAATGTGGGAGCTTGGATGATGCTCGTCGT  1535
+
+Query  253   GTGTTTGAAGAGATC  267
+             ||||||||||| |||
+Sbjct  1536  GTGTTTGAAGAAATC  1550
+
+
+
+
+>PREDICTED: Quercus suber pentatricopeptide repeat-containing protein At5g04780, mitochondrial-like (LOC112000963), mRNA
+Sequence ID: XM_024033133.2 Length: 3042
+Range 1: 1379 to 1633
+
+Score:73.4 bits(80), Expect:2e-08, 
+Identities:175/260(67%),  Gaps:10/260(3%), Strand: Plus/Plus
+
+Query  15    TAATGATAAGTTTGAAGAGGCTTGCCGTTACTTTTCATTCATGAGAAGTGAAGGTGTAAT  74
+             |||||| || |||||||| ||||||  ||| ||||   | ||||| ||  ||||| |  |
+Sbjct  1379  TAATGACAACTTTGAAGAAGCTTGCAATTATTTTTGGGTTATGAGGAGGAAAGGTAT--T  1436
+
+Query  75    TC-CCAGC-GAGGTCTTGTACACTGTCGTGTTTCATGCTACTGCTTCTCTCTCAGCTCGG  132
+             || || |  || |  |  ||| ||   ||  |||||||| ||||   |||  | || |  
+Sbjct  1437  TCACCTGATGAAGCATCATACTCTTCTGTTCTTCATGCTTCTGCAAGTCTTGCGGCACTT  1496
+
+Query  133   AGCCAGGGCACCTCGATTCATGGTCAGATATTAAAAAGCGGATGTGTTGA---TGACAGC  189
+                || ||||| | |||||||| ||||||  ||||||  || | | || |   |||  | 
+Sbjct  1497  GATCAAGGCACTTTGATTCATGATCAGATTATAAAAACAGGTTTTATTAAGAATGAGTGT  1556
+
+Query  190   CACATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACT  249
+                |||| |||| | ||  | |  ||||| |  ||||||||  | || |  ||||||| |
+Sbjct  1557  ---ATTGCAAGTTCATTGGTTACAATGTATGCAAAATGTGGGTGCTTGGGAGATGCTAGT  1613
+
+Query  250   CGGGTGTTTGAAGAGATCGA  269
+             || |||||||||||||| ||
+Sbjct  1614  CGTGTGTTTGAAGAGATTGA  1633
+
+
+
+
+>PREDICTED: Gossypium raimondii pentatricopeptide repeat-containing protein At2g22070 (LOC105784461), mRNA
+Sequence ID: XM_012610348.2 Length: 2733
+Range 1: 1184 to 1261
+
+Score:60.8 bits(66), Expect:1e-04, 
+Identities:60/78(77%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  192   CATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCG  251
+             |||||  ||| | || ||||  ||||| |  |||||||| || |||| ||| |||  |||
+Sbjct  1184  CATTGCCAGTTCGTTGATCACAATGTATGCAAAATGTGGGAGCTTAGATGACGCTTGTCG  1243
+
+Query  252   GGTGTTTGAAGAGATCGA  269
+             |||||||||||| || ||
+Sbjct  1244  GGTGTTTGAAGAAATTGA  1261
+
+
+
+
+>PREDICTED: Gossypium hirsutum pentatricopeptide repeat-containing protein At2g22070 (LOC107918830), mRNA
+Sequence ID: XM_016848413.2 Length: 2260
+Range 1: 1215 to 1292
+
+Score:60.8 bits(66), Expect:1e-04, 
+Identities:60/78(77%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  192   CATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCG  251
+             |||||  ||| | || ||||  ||||| |  |||||||| || |||| ||| |||  |||
+Sbjct  1215  CATTGCCAGTTCGTTGATCACAATGTATGCAAAATGTGGGAGCTTAGATGACGCTTGTCG  1274
+
+Query  252   GGTGTTTGAAGAGATCGA  269
+             |||||||||||| || ||
+Sbjct  1275  GGTGTTTGAAGAAATTGA  1292
+
+
+
+
+>PREDICTED: Malania oleifera pentatricopeptide repeat-containing protein At4g14850-like (LOC131152948), mRNA
+Sequence ID: XM_058104915.1 Length: 2635
+Range 1: 1398 to 1462
+
+Score:59.9 bits(65), Expect:4e-04, 
+Identities:52/65(80%),  Gaps:0/65(0%), Strand: Plus/Plus
+
+Query  205   TTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAG  264
+             ||||| |  ||||| | |||||| || || || | ||||||| ||| |||||||||||||
+Sbjct  1398  TTAATTACAATGTATGCGAAATGCGGGAGCTTGGTTGATGCTTCTCTGGTGTTTGAAGAG  1457
+
+Query  265   ATCGA  269
+             || ||
+Sbjct  1458  ATTGA  1462
+
+
+
+
+>PREDICTED: Momordica charantia putative pentatricopeptide repeat-containing protein At3g23330 (LOC111025232), mRNA
+Sequence ID: XM_022303075.1 Length: 1755
+Range 1: 749 to 824
+
+Score:57.2 bits(62), Expect:0.001, 
+Identities:58/76(76%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  194  TTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGG  253
+            ||| |||| ||||  | |  |||||||  |||||||||||||| |  ||||||  || | 
+Sbjct  749  TTGCAAGTTCTTTGGTTACAATGTACGCAAAATGTGGCAGTTTGGTAGATGCTTTTCAGA  808
+
+Query  254  TGTTTGAAGAGATCGA  269
+            | |||||||||| |||
+Sbjct  809  TATTTGAAGAGACCGA  824
+
+
+
+
+>PREDICTED: Pistacia vera pentatricopeptide repeat-containing protein At5g13270, chloroplastic-like (LOC116119160), mRNA
+Sequence ID: XM_031405102.1 Length: 2338
+Range 1: 746 to 803
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:47/58(81%),  Gaps:0/58(0%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATG  271
+            ||||| |||||||||||| |||||| ||||||||  || || ||||   |||| ||||
+Sbjct  746  ATGTATGTGAAATGTGGCTGTTTAGATGATGCTAAGCGTGTTTTTGGTCAGATGGATG  803
+
+
+
+
+>PREDICTED: Pistacia vera pentatricopeptide repeat-containing protein At5g13270, chloroplastic-like (LOC116119159), mRNA
+Sequence ID: XM_031405101.1 Length: 3002
+Range 1: 869 to 926
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:47/58(81%),  Gaps:0/58(0%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATG  271
+            ||||| |||||||||||| |||||| ||||||||  || || ||||   |||| ||||
+Sbjct  869  ATGTATGTGAAATGTGGCTGTTTAGATGATGCTAAGCGTGTTTTTGGTCAGATGGATG  926
+
+
+
+
+>PREDICTED: Gossypium arboreum pentatricopeptide repeat-containing protein At5g40410, mitochondrial-like (LOC108463182), mRNA
+Sequence ID: XM_017763128.2 Length: 2758
+Range 1: 1265 to 1342
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:59/78(76%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  192   CATTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCG  251
+             |||||  | | | || ||||  ||||| |  |||||||| || |||| ||| |||  |||
+Sbjct  1265  CATTGCCACTTCGTTGATCACAATGTATGCAAAATGTGGGAGCTTAGATGACGCTTGTCG  1324
+
+Query  252   GGTGTTTGAAGAGATCGA  269
+             |||||||||||| || ||
+Sbjct  1325  GGTGTTTGAAGAAATTGA  1342
+
+
+
+
+>PREDICTED: Rosa rugosa pentatricopeptide repeat-containing protein At4g08210 (LOC133741249), transcript variant X1, mRNA
+Sequence ID: XM_062169179.1 Length: 3741
+Range 1: 665 to 725
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:50/62(81%),  Gaps:1/62(1%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATGGA  273
+            ||||||||||||||||| ||||| | |||||| |   |||| ||||| | ||| | ||||
+Sbjct  665  ATGTACGTGAAATGTGGGAGTTTGGGTGATGCCAAGAGGGTTTTTGATGGGAT-GTTGGA  723
+
+Query  274  TA  275
+            ||
+Sbjct  724  TA  725
+
+
+
+
+>PREDICTED: Rhodamnia argentea pentatricopeptide repeat-containing protein At2g40720 (LOC115748189), mRNA
+Sequence ID: XM_030684639.2 Length: 3579
+Range 1: 414 to 463
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:42/50(84%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGA  263
+            |||||||||||||||||   ||||| |||||| |  ||||||||||| ||
+Sbjct  414  ATGTACGTGAAATGTGGGTCTTTAGATGATGCCATCCGGGTGTTTGATGA  463
+
+
+
+
+>PREDICTED: Rosa chinensis pentatricopeptide repeat-containing protein At4g08210 (LOC112169489), transcript variant X4, mRNA
+Sequence ID: XM_040507761.1 Length: 3496
+Range 1: 768 to 828
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:50/62(81%),  Gaps:1/62(1%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATGGA  273
+            ||||||||||||||||| ||||| | |||||| |   |||| ||||| | ||| | ||||
+Sbjct  768  ATGTACGTGAAATGTGGGAGTTTGGGTGATGCCAAGAGGGTTTTTGATGGGAT-GTTGGA  826
+
+Query  274  TA  275
+            ||
+Sbjct  827  TA  828
+
+
+
+
+>PREDICTED: Rosa chinensis pentatricopeptide repeat-containing protein At4g08210 (LOC112169489), transcript variant X3, mRNA
+Sequence ID: XM_040507760.1 Length: 3482
+Range 1: 768 to 828
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:50/62(81%),  Gaps:1/62(1%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATGGA  273
+            ||||||||||||||||| ||||| | |||||| |   |||| ||||| | ||| | ||||
+Sbjct  768  ATGTACGTGAAATGTGGGAGTTTGGGTGATGCCAAGAGGGTTTTTGATGGGAT-GTTGGA  826
+
+Query  274  TA  275
+            ||
+Sbjct  827  TA  828
+
+
+
+
+>PREDICTED: Rosa chinensis pentatricopeptide repeat-containing protein At4g08210 (LOC112169489), transcript variant X1, mRNA
+Sequence ID: XM_024306524.2 Length: 3204
+Range 1: 768 to 828
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:50/62(81%),  Gaps:1/62(1%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATGGA  273
+            ||||||||||||||||| ||||| | |||||| |   |||| ||||| | ||| | ||||
+Sbjct  768  ATGTACGTGAAATGTGGGAGTTTGGGTGATGCCAAGAGGGTTTTTGATGGGAT-GTTGGA  826
+
+Query  274  TA  275
+            ||
+Sbjct  827  TA  828
+
+
+
+
+>PREDICTED: Rosa rugosa pentatricopeptide repeat-containing protein At4g08210 (LOC133741249), transcript variant X4, mRNA
+Sequence ID: XM_062169182.1 Length: 3738
+Range 1: 665 to 725
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:50/62(81%),  Gaps:1/62(1%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATGGA  273
+            ||||||||||||||||| ||||| | |||||| |   |||| ||||| | ||| | ||||
+Sbjct  665  ATGTACGTGAAATGTGGGAGTTTGGGTGATGCCAAGAGGGTTTTTGATGGGAT-GTTGGA  723
+
+Query  274  TA  275
+            ||
+Sbjct  724  TA  725
+
+
+
+
+>PREDICTED: Rosa chinensis pentatricopeptide repeat-containing protein At4g08210 (LOC112169489), transcript variant X2, mRNA
+Sequence ID: XM_040507759.1 Length: 3451
+Range 1: 768 to 828
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:50/62(81%),  Gaps:1/62(1%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATGGA  273
+            ||||||||||||||||| ||||| | |||||| |   |||| ||||| | ||| | ||||
+Sbjct  768  ATGTACGTGAAATGTGGGAGTTTGGGTGATGCCAAGAGGGTTTTTGATGGGAT-GTTGGA  826
+
+Query  274  TA  275
+            ||
+Sbjct  827  TA  828
+
+
+
+
+>PREDICTED: Rosa rugosa pentatricopeptide repeat-containing protein At4g08210 (LOC133741249), transcript variant X2, mRNA
+Sequence ID: XM_062169180.1 Length: 3372
+Range 1: 665 to 725
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:50/62(81%),  Gaps:1/62(1%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATGGA  273
+            ||||||||||||||||| ||||| | |||||| |   |||| ||||| | ||| | ||||
+Sbjct  665  ATGTACGTGAAATGTGGGAGTTTGGGTGATGCCAAGAGGGTTTTTGATGGGAT-GTTGGA  723
+
+Query  274  TA  275
+            ||
+Sbjct  724  TA  725
+
+
+
+
+>PREDICTED: Solanum verrucosum pentatricopeptide repeat-containing protein At4g21065-like (LOC125818125), mRNA
+Sequence ID: XM_049497653.1 Length: 1842
+Range 1: 759 to 819
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:50/62(81%),  Gaps:1/62(1%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATGGA  273
+            |||||||||||||||||  |  ||| ||||||    || |||||||| |||| |||||||
+Sbjct  759  ATGTACGTGAAATGTGGGTGCATAGATGATGCACGACGAGTGTTTGATGAGA-CGATGGA  817
+
+Query  274  TA  275
+            ||
+Sbjct  818  TA  819
+
+
+
+
+>PREDICTED: Rosa rugosa pentatricopeptide repeat-containing protein At4g08210 (LOC133741249), transcript variant X3, mRNA
+Sequence ID: XM_062169181.1 Length: 3408
+Range 1: 665 to 725
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:50/62(81%),  Gaps:1/62(1%), Strand: Plus/Plus
+
+Query  214  ATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGGTGTTTGAAGAGATCGATGGA  273
+            ||||||||||||||||| ||||| | |||||| |   |||| ||||| | ||| | ||||
+Sbjct  665  ATGTACGTGAAATGTGGGAGTTTGGGTGATGCCAAGAGGGTTTTTGATGGGAT-GTTGGA  723
+
+Query  274  TA  275
+            ||
+Sbjct  724  TA  725
+
+
+
+
+>PREDICTED: Nymphaea colorata pentatricopeptide repeat-containing protein At2g33680 (LOC116267149), transcript variant X2, mRNA
+Sequence ID: XM_031648735.2 Length: 2938
+Range 1: 959 to 1027
+
+Score:53.6 bits(58), Expect:0.016, 
+Identities:53/69(77%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  194   TTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGG  253
+             |||||| |||| |  |||  ||||||  ||| |||||||  || | |||||| | |||||
+Sbjct  959   TTGGAAATGCTCTTGTCACCATGTACTCGAAGTGTGGCAACTTGGATGATGCAATTCGGG  1018
+
+Query  254   TGTTTGAAG  262
+             |||||| ||
+Sbjct  1019  TGTTTGGAG  1027
+
+
+
+
+>PREDICTED: Nymphaea colorata pentatricopeptide repeat-containing protein At2g33680 (LOC116267149), transcript variant X1, mRNA
+Sequence ID: XM_031648734.2 Length: 3187
+Range 1: 1208 to 1276
+
+Score:53.6 bits(58), Expect:0.016, 
+Identities:53/69(77%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  194   TTGGAAGTGCTTTAATCATGATGTACGTGAAATGTGGCAGTTTAGCTGATGCTACTCGGG  253
+             |||||| |||| |  |||  ||||||  ||| |||||||  || | |||||| | |||||
+Sbjct  1208  TTGGAAATGCTCTTGTCACCATGTACTCGAAGTGTGGCAACTTGGATGATGCAATTCGGG  1267
+
+Query  254   TGTTTGAAG  262
+             |||||| ||
+Sbjct  1268  TGTTTGGAG  1276
+
+
+
+
+
+
+
+		
+
+

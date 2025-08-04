@@ -1,0 +1,34 @@
+RID: 8FDHME0M015	
+Job Title:Nucleotide Sequence				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_4701719 Length: 146
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+MAG: uncultured Chloroflexia bacterium isolate MFD06435.bin.c.... uncultured C... NA              1672391    52.7   52.7  36%   0.025 83.02  3116973    OY970185.1       
+
+
+Alignments:
+
+>MAG: uncultured Chloroflexia bacterium isolate MFD06435.bin.c.3 genome assembly, chromosome: 1
+Sequence ID: OY970185.1 Length: 3116973
+Range 1: 7154 to 7205
+
+Score:52.7 bits(57), Expect:0.025, 
+Identities:44/53(83%),  Gaps:1/53(1%), Strand: Plus/Plus
+
+Query  12    TAGTCCGATGAGCTGATCGGTGATCAGGTATCGGTAGCACCAGAGCGTGTCGA  64
+             ||||| ||||||||| |||||||||||||   |||||  ||||| ||||| ||
+Sbjct  7154  TAGTC-GATGAGCTGCTCGGTGATCAGGTTCTGGTAGTCCCAGACCGTGTTGA  7205
+
+
+
+
+
+
+
+		
+
+

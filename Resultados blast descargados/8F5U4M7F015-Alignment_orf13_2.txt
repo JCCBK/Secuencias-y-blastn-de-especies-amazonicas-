@@ -1,0 +1,1025 @@
+RID: 8F5U4M7F015	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_8334443 Length: 195
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Malpighia emarginata NRA309 DNA, chromosome 3, nearly complete... Malpighia em... NA              151847     74.3   1236  74%   1e-08 72.54  92689787   AP035804.1       
+Malpighia emarginata NRA309 DNA, chromosome 8, complete sequence  Malpighia em... NA              151847     74.3   845   74%   1e-08 73.10  93730031   AP035809.1       
+Malpighia emarginata NRA309 DNA, sequence_id:NRA309p0019,...      Malpighia em... NA              151847     70.7   70.7  44%   1e-07 77.91  3241122    AP035812.1       
+Malpighia emarginata NRA309 DNA, chromosome 9, nearly complete... Malpighia em... NA              151847     69.8   954   73%   1e-07 71.85  81726457   AP035810.1       
+Malpighia emarginata NRA309 DNA, sequence_id:NRA309p0021,...      Malpighia em... NA              151847     56.3   56.3  71%   0.003 70.71  1551394    AP035814.1       
+Malpighia emarginata NRA309 DNA, sequence_id:NRA309p0044,...      Malpighia em... NA              151847     51.8   51.8  73%   0.036 69.01  483551     AP035835.1       
+
+
+Alignments:
+
+>Malpighia emarginata NRA309 DNA, chromosome 3, nearly complete sequence
+Sequence ID: AP035804.1 Length: 92689787
+Range 1: 88292652 to 88292791
+
+Score:74.3 bits(81), Expect:1e-08, 
+Identities:103/142(73%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+                 || ||||||||||| ||| ||||| |   |||||||||| || |     ||  || ||| 
+Sbjct  88292652  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACACATTGATTATGAGCAG-TACGTGA  88292709
+
+Query  69        CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||||
+Sbjct  88292710  GTGATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACTG  88292769
+
+Query  129       GACTCGATGAGAATTGGCCAGA  150
+                 ||  ||  ||||| ||||| ||
+Sbjct  88292770  GAAACGTGGAGAACTGGCCTGA  88292791
+
+
+
+
+Range 2: 25724878 to 25725017
+
+Score:72.5 bits(79), Expect:4e-08, 
+Identities:105/144(73%),  Gaps:6/144(4%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  25725017  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  25724962
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||
+Sbjct  25724961  GAGTGATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAAC  25724902
+
+Query  127       TGGACTCGATGAGAATTGGCCAGA  150
+                 ||||  ||  ||||| ||||| ||
+Sbjct  25724901  TGGAAACGTGGAGAACTGGCCTGA  25724878
+
+
+
+
+Range 3: 35593677 to 35593813
+
+Score:71.6 bits(78), Expect:4e-08, 
+Identities:103/141(73%),  Gaps:6/141(4%), Strand: Plus/Plus
+
+Query  12        CGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGTGGC  69
+                 ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || |||  
+Sbjct  35593677  CGACATGTGAT-TGCCGGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGTGAG  35593732
+
+Query  70        TGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTGG  129
+                 |||||| ||||   | ||  || | |||||||| ||||||||||| |||   ||||||||
+Sbjct  35593733  TGATGTTTATAAGTTAGAGAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACTGG  35593792
+
+Query  130       ACTCGATGAGAATTGGCCAGA  150
+                 |  ||  ||||| ||||| ||
+Sbjct  35593793  AAACGTGGAGAACTGGCCTGA  35593813
+
+
+
+
+Range 4: 16366040 to 16366180
+
+Score:69.8 bits(76), Expect:1e-07, 
+Identities:105/145(72%),  Gaps:6/145(4%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  16366040  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  16366095
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||  ||||   | ||  || | |||||||| ||||||||||| |||   |||||
+Sbjct  16366096  GAGTGATGCTTATAAGTTAGAGAACATTGCGAATGTTTACAACATGGAATTTTGCCCAAC  16366155
+
+Query  127       TGGACTCGATGAGAATTGGCCAGAA  151
+                 ||||  || |||||| || || |||
+Sbjct  16366156  TGGAAACGTTGAGAACTGTCCTGAA  16366180
+
+
+
+
+Range 5: 35288363 to 35288502
+
+Score:69.8 bits(76), Expect:1e-07, 
+Identities:102/142(72%),  Gaps:2/142(1%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+                 || ||||||||||| ||| ||||| |   |||||| ||| || |     ||  || ||| 
+Sbjct  35288502  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATTGATTATGAGCAG-TACGTGA  35288445
+
+Query  69        CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||||
+Sbjct  35288444  GTGATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACTG  35288385
+
+Query  129       GACTCGATGAGAATTGGCCAGA  150
+                 ||  ||  ||||| ||||| ||
+Sbjct  35288384  GAAACGTGGAGAACTGGCCTGA  35288363
+
+
+
+
+Range 6: 67425101 to 67425240
+
+Score:69.8 bits(76), Expect:1e-07, 
+Identities:102/142(72%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+                 || ||||||||||| ||| ||||| |   |||||| ||| || |     ||  || ||| 
+Sbjct  67425101  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATTGATTATGAGCAG-TACGTGA  67425158
+
+Query  69        CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||||
+Sbjct  67425159  GTGATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACTG  67425218
+
+Query  129       GACTCGATGAGAATTGGCCAGA  150
+                 ||  ||  ||||| ||||| ||
+Sbjct  67425219  GAAACGTGGAGAACTGGCCTGA  67425240
+
+
+
+
+Range 7: 6672790 to 6672906
+
+Score:64.4 bits(70), Expect:6e-06, 
+Identities:87/119(73%),  Gaps:2/119(1%), Strand: Plus/Plus
+
+Query  12       CGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGGCTG  71
+                || ||||| || ||  |||| ||  || ||||| || |||| |    |  | ||||||||
+Sbjct  6672790  CGTCATGTAAT-TGTAGGTTACACATACCAACATATGGACTACGAGTAGTT-TGTGGCTG  6672847
+
+Query  72       ATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTGGA  130
+                |||| ||||||||  || | ||  ||||| |||| || |||||||| |  |||||||||
+Sbjct  6672848  ATGTTTATAGACTACATAATGTTACGAATATCTATAATATGGAGTTCACACCAACTGGA  6672906
+
+
+
+
+Range 8: 45552178 to 45552317
+
+Score:63.5 bits(69), Expect:2e-05, 
+Identities:103/144(72%),  Gaps:6/144(4%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| |||  |||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  45552317  TGTCGACATGTGAT-TGCCAGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  45552262
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||
+Sbjct  45552261  GAGTGATGTTTATAAGTTAGAGAACATTGCGAATGTTTACAACATGGAATTTTGCCCAAC  45552202
+
+Query  127       TGGACTCGATGAGAATTGGCCAGA  150
+                  |||  ||  ||||| ||||| ||
+Sbjct  45552201  AGGAAACGTGGAGAACTGGCCTGA  45552178
+
+
+
+
+Range 9: 28132512 to 28132652
+
+Score:62.6 bits(68), Expect:2e-05, 
+Identities:101/143(71%),  Gaps:2/143(1%), Strand: Plus/Plus
+
+Query  7         CATGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGT  66
+                 |||| || ||||| || ||  |||||||   | |||||||| |||   |  ||  | |||
+Sbjct  28132512  CATGTCGGCATGTAAT-TGTAGGTTGCACACAGCAACACATGGACCATAAGCAGTT-TGT  28132569
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 ||||||| | || |||||  || | ||  | || || ||||||||||| || |  |||||
+Sbjct  28132570  GGCTGATATTTACAGACTGTATAATGTTACTAACGTTTACAACATGGAATTCACACCAAC  28132629
+
+Query  127       TGGACTCGATGAGAATTGGCCAG  149
+                  |||   || | ||| |||||||
+Sbjct  28132630  GGGAAATGAGGCGAACTGGCCAG  28132652
+
+
+
+
+Range 10: 73636919 to 73637057
+
+Score:62.6 bits(68), Expect:2e-05, 
+Identities:101/142(71%),  Gaps:4/142(2%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC-TATGTG  67
+                 || || ||||| || ||| |||||||   | ||||| ||  ||  |||   |  | ||||
+Sbjct  73636919  TGTCGGCATGTAAT-TGCAGGTTGCACACAGCAACATATGAAC--CATGAGTAGTTTGTG  73636975
+
+Query  68        GCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACT  127
+                 |||||||| |||| |||  || | ||||| || || || |||||||| || |  ||||| 
+Sbjct  73636976  GCTGATGTTTATAAACTCTATAATGTCGCTAACGTTTATAACATGGAATTCACACCAACG  73637035
+
+Query  128       GGACTCGATGAGAATTGGCCAG  149
+                 |||   || | ||| |||||||
+Sbjct  73637036  GGAAATGAGGCGAACTGGCCAG  73637057
+
+
+
+
+Range 11: 13033320 to 13033459
+
+Score:59.0 bits(64), Expect:2e-04, 
+Identities:102/144(71%),  Gaps:6/144(4%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| ||| |||| ||   ||| || ||| |||  |||  | |  || ||
+Sbjct  13033459  TGTCGACATGTGAT-TGCCGGTTTCAAACATCGACGCATGGAC--CATG-AGCAGTACGT  13033404
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || |  ||||||| ||||||||||| |||   |||||
+Sbjct  13033403  GAGTGATGTTTATAAGTTAGAGAACATTACGAATGTTTACAACATGGAATTTTTCCCAAC  13033344
+
+Query  127       TGGACTCGATGAGAATTGGCCAGA  150
+                  |||  ||  ||||| ||||| ||
+Sbjct  13033343  AGGAAACGTGGAGAACTGGCCTGA  13033320
+
+
+
+
+Range 12: 78392492 to 78392630
+
+Score:59.0 bits(64), Expect:2e-04, 
+Identities:99/141(70%),  Gaps:2/141(1%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+                 || || ||||| || ||| |||||||   | |||||||| |||   |  ||  | |||||
+Sbjct  78392492  TGTCGGCATGTAAT-TGCAGGTTGCACACACCAACACATGGACCATAAGCAGTT-TGTGG  78392549
+
+Query  69        CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                 ||||||| ||||||||  || | || | ||| || || || ||| | || |  ||||  |
+Sbjct  78392550  CTGATGTTTATAGACTCCATAATGTTGTGAACGTTTATAATATGAAATTCACACCAATGG  78392609
+
+Query  129       GACTCGATGAGAATTGGCCAG  149
+                 ||  ||| |  || |||||||
+Sbjct  78392610  GAAACGAGGCAAACTGGCCAG  78392630
+
+
+
+
+Range 13: 16190285 to 16190423
+
+Score:58.1 bits(63), Expect:8e-04, 
+Identities:100/142(70%),  Gaps:4/142(2%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGA-CTCCATCCATCTATGTG  67
+                 ||| | ||||| || ||  |||||||   | ||| | || || | | ||| || |  |||
+Sbjct  16190423  TGCTGTCATGT-ATTTGTAGGTTGCACACACCAATATATGGAACACGATCAATTT--GTG  16190367
+
+Query  68        GCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACT  127
+                 |||||||| || || ||  || |  | | ||||||||| || |||||||| |  ||||||
+Sbjct  16190366  GCTGATGTTTACAGGCTACATAATATTGTGAATGTCTATAATATGGAGTTCATGCCAACT  16190307
+
+Query  128       GGACTCGATGAGAATTGGCCAG  149
+                  ||   || | ||| |||||||
+Sbjct  16190306  AGAAATGAGGCGAACTGGCCAG  16190285
+
+
+
+
+Range 14: 61150605 to 61150743
+
+Score:57.2 bits(62), Expect:8e-04, 
+Identities:101/143(71%),  Gaps:6/143(4%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || || ||||| || | | |||||||   | |||||||| |||  |||  | |  | |||
+Sbjct  61150605  TGTCGGCATGTAAT-TACAGGTTGCACACAGCAACACATGGAC--CATG-AGCAGTTTGT  61150660
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 ||||||||| || |||||  || | ||  |||| || || |||||||| || |  |||| 
+Sbjct  61150661  GGCTGATGTATACAGACTCTATAATGTTACGAACGTTTATAACATGGAATTCACACCAAT  61150720
+
+Query  127       TGGACTCGATGAGAATTGGCCAG  149
+                  |||  ||| |  || |||||||
+Sbjct  61150721  GGGAAACGAGGCAAACTGGCCAG  61150743
+
+
+
+
+Range 15: 92499761 to 92499868
+
+Score:55.4 bits(60), Expect:0.003, 
+Identities:82/112(73%),  Gaps:6/112(5%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  92499761  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATAGAC--CATG-AGCAGTACGT  92499816
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTT  118
+                 |  |||||| ||||   | ||  || | |||||||| ||||||||||| |||
+Sbjct  92499817  GAGTGATGTTTATAAGTTAGAGAACATTGCGAATGTTTACAACATGGAATTT  92499868
+
+
+
+
+Range 16: 6069518 to 6069657
+
+Score:54.5 bits(59), Expect:0.010, 
+Identities:101/144(70%),  Gaps:6/144(4%), Strand: Plus/Plus
+
+Query  9        TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                || ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  6069518  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  6069573
+
+Query  67       GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                |  |||||| || |   | ||  || |  ||||||| ||||||||||| |||   |||| 
+Sbjct  6069574  GAGTGATGTTTACAAGTTAGAGAACATTACGAATGTTTACAACATGGAATTTTGCCCAAT  6069633
+
+Query  127      TGGACTCGATGAGAATTGGCCAGA  150
+                 |||  ||  ||||| ||||| ||
+Sbjct  6069634  AGGAAACGTGGAGAACTGGCCTGA  6069657
+
+
+
+
+Range 17: 66383269 to 66383320
+
+Score:54.5 bits(59), Expect:0.010, 
+Identities:43/52(83%),  Gaps:0/52(0%), Strand: Plus/Plus
+
+Query  66        TGGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTT  117
+                 |||||||||| || |||||  || | || ||||||||||| || ||||||||
+Sbjct  66383269  TGGCTGATGTTTACAGACTATATAATGTTGCGAATGTCTATAATATGGAGTT  66383320
+
+
+
+
+Range 18: 32119038 to 32119143
+
+Score:52.7 bits(57), Expect:0.036, 
+Identities:79/109(72%),  Gaps:4/109(3%), Strand: Plus/Plus
+
+Query  12        CGACATGTGATATGCGGGTTGCAGGTATCAACACATCGA-CTCCATCCATCTATGTGGCT  70
+                 |||||||| ||| |  ||||| |  |||||||| ||  | ||||||  || | ||||  |
+Sbjct  32119038  CGACATGTTATA-GTAGGTTGTACATATCAACATATTAATCTCCAT--ATTTTTGTGAAT  32119094
+
+Query  71        GATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTA  119
+                 ||  | || |   ||||  || |||| ||||||||||| || |||||||
+Sbjct  32119095  GACATATACAAGTTTGAATACATCGCCAATGTCTACAATATAGAGTTTA  32119143
+
+
+
+
+Range 19: 32246211 to 32246316
+
+Score:52.7 bits(57), Expect:0.036, 
+Identities:79/109(72%),  Gaps:4/109(3%), Strand: Plus/Plus
+
+Query  12        CGACATGTGATATGCGGGTTGCAGGTATCAACACATCGA-CTCCATCCATCTATGTGGCT  70
+                 |||||||| ||| |  ||||| |  |||||||| || || | ||||  || | ||||  |
+Sbjct  32246211  CGACATGTTATA-GTAGGTTGAACATATCAACATATTGATCCCCAT--ATTTTTGTGAAT  32246267
+
+Query  71        GATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTA  119
+                 ||  | || |   ||||  || |||| ||||||||||| || |||||||
+Sbjct  32246268  GACATATACAAGTTTGAATACATCGCCAATGTCTACAATATAGAGTTTA  32246316
+
+
+
+
+Range 20: 89845976 to 89846041
+
+Score:52.7 bits(57), Expect:0.036, 
+Identities:51/66(77%),  Gaps:0/66(0%), Strand: Plus/Minus
+
+Query  64        TGTGGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCC  123
+                 |||||||||||| ||||||||  || | || | ||| ||||| || ||||| || |  ||
+Sbjct  89846041  TGTGGCTGATGTTTATAGACTCCATAATGTTGTGAACGTCTATAATATGGAATTCACACC  89845982
+
+Query  124       AACTGG  129
+                 ||| ||
+Sbjct  89845981  AACAGG  89845976
+
+
+
+
+>Malpighia emarginata NRA309 DNA, chromosome 8, complete sequence
+Sequence ID: AP035809.1 Length: 93730031
+Range 1: 38934229 to 38934369
+
+Score:74.3 bits(81), Expect:1e-08, 
+Identities:106/145(73%),  Gaps:6/145(4%), Strand: Plus/Plus
+
+Query  7         CATGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TAT  64
+                 |||| || ||||| || ||| |||||||   | |||||||| |||  |||  | |  | |
+Sbjct  38934229  CATGTCGGCATGTAAT-TGCAGGTTGCATACAGCAACACATGGAC--CATG-AGCAGTTT  38934284
+
+Query  65        GTGGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCA  124
+                 ||||||||| | || |||||  || || | || || || || |||||||| || |  |||
+Sbjct  38934285  GTGGCTGATATTTACAGACTCTATAACATTGCTAACGTTTATAACATGGAATTCACACCA  38934344
+
+Query  125       ACTGGACTCGATGAGAATTGGCCAG  149
+                 || |||  ||| | |||||||||||
+Sbjct  38934345  ACGGGAAACGAGGGGAATTGGCCAG  38934369
+
+
+
+
+Range 2: 14641287 to 14641426
+
+Score:68.0 bits(74), Expect:5e-07, 
+Identities:104/144(72%),  Gaps:6/144(4%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| |||  |||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  14641287  TGTCGACATGTGAT-TGCCTGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  14641342
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||
+Sbjct  14641343  GAGTGATGTTTATAAGTTAGAGAACATTGCGAATGTTTACAACATGGAATTTTGCCCAAC  14641402
+
+Query  127       TGGACTCGATGAGAATTGGCCAGA  150
+                 ||||  ||  ||||| ||||| ||
+Sbjct  14641403  TGGAAACGTGGAGAACTGGCCTGA  14641426
+
+
+
+
+Range 3: 84371695 to 84371830
+
+Score:65.3 bits(71), Expect:6e-06, 
+Identities:101/140(72%),  Gaps:6/140(4%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  84371695  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  84371750
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || |  ||||||| ||||||||||| ||| | |||||
+Sbjct  84371751  GAGTGATGTTTATAAGTTAGAGAACATTACGAATGTTTACAACATGGAATTTTACCCAAC  84371810
+
+Query  127       TGGACTCGATGAGAATTGGC  146
+                  |||  ||  ||||| ||||
+Sbjct  84371811  AGGAAACGTGGAGAACTGGC  84371830
+
+
+
+
+Range 4: 45927104 to 45927242
+
+Score:63.5 bits(69), Expect:2e-05, 
+Identities:100/141(71%),  Gaps:2/141(1%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+                 || || ||||| || | | |||||||   ||||| | || ||||     ||  | |||||
+Sbjct  45927242  TGTCGGCATGTAAT-TACAGGTTGCACACATCAATATATGGACTATGAGCAGTT-TGTGG  45927185
+
+Query  69        CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                 ||||||| || |||||  || | || ||||| || || |||||||| || |  ||||| |
+Sbjct  45927184  CTGATGTTTACAGACTCCATAATGTTGCGAACGTTTATAACATGGAATTCACACCAACAG  45927125
+
+Query  129       GACTCGATGAGAATTGGCCAG  149
+                 ||  ||| |  || |||||||
+Sbjct  45927124  GAAACGAGGCAAACTGGCCAG  45927104
+
+
+
+
+Range 5: 70218151 to 70218290
+
+Score:63.5 bits(69), Expect:2e-05, 
+Identities:103/144(72%),  Gaps:6/144(4%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  70218290  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  70218235
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||
+Sbjct  70218234  GAGTGATGTTTATAAGTTAGAGAACATTGCGAATGTTTACAACATGGAATTTTGCCCAAC  70218175
+
+Query  127       TGGACTCGATGAGAATTGGCCAGA  150
+                   ||  ||  ||||| ||||| ||
+Sbjct  70218174  AAGAAACGTGGAGAACTGGCCTGA  70218151
+
+
+
+
+Range 6: 9268072 to 9268183
+
+Score:59.9 bits(65), Expect:2e-04, 
+Identities:83/114(73%),  Gaps:2/114(1%), Strand: Plus/Plus
+
+Query  15       CATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGGCTGATG  74
+                ||||| || ||| |||||||   | ||||| || |||  ||  ||  | |||||||||||
+Sbjct  9268072  CATGTAAT-TGCAGGTTGCACACACCAACATATGGACCACAAGCAGTT-TGTGGCTGATG  9268129
+
+Query  75       TGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                | || |||||  || | ||  |||||||  | || |||||||| |  |||||||
+Sbjct  9268130  TTTACAGACTACATAATGTTACGAATGTTGATAATATGGAGTTCATGCCAACTG  9268183
+
+
+
+
+Range 7: 75184808 to 75184950
+
+Score:59.0 bits(64), Expect:2e-04, 
+Identities:106/148(72%),  Gaps:8/148(5%), Strand: Plus/Plus
+
+Query  7         CATGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TAT  64
+                 |||| |||||||| || ||| || || |   | |||| ||| |||  |||  | |  |||
+Sbjct  75184808  CATGTCGACATGTTAT-TGCAGGATGTAAACAACAACGCATAGAC--CATG-AGCAGTAT  75184863
+
+Query  65        GTGGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCA  124
+                 |||  ||||||||| |   | ||| || |  | ||||| ||||||||||| |||   |||
+Sbjct  75184864  GTGAGTGATGTGTACAAGTTAGATAACATTACTAATGTGTACAACATGGAATTTTGCCCA  75184923
+
+Query  125       ACTGG-ACTCGATGAGAATTGGCCAGAA  151
+                 || || | || | ||||||||||| |||
+Sbjct  75184924  ACAGGCAATCTA-GAGAATTGGCCTGAA  75184950
+
+
+
+
+Range 8: 5076632 to 5076748
+
+Score:58.1 bits(63), Expect:8e-04, 
+Identities:88/121(73%),  Gaps:6/121(4%), Strand: Plus/Minus
+
+Query  12       CGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGTGGC  69
+                ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || |||  
+Sbjct  5076748  CGACATGTGAT-TGCAGGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGTGAG  5076693
+
+Query  70       TGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTGG  129
+                |||||| ||||   | ||  || | |||||||| ||||||||||| |||   ||||| ||
+Sbjct  5076692  TGATGTTTATAAGTTAGAGAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACAGG  5076633
+
+Query  130      A  130
+                |
+Sbjct  5076632  A  5076632
+
+
+
+
+Range 9: 64973560 to 64973698
+
+Score:58.1 bits(63), Expect:8e-04, 
+Identities:100/142(70%),  Gaps:4/142(2%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCC-ATCTATGTG  67
+                 || || ||||| || ||| |||||||   | |||||| | |||  |||   |  | ||||
+Sbjct  64973560  TGTCGGCATGTAAT-TGCAGGTTGCACACACCAACACTTGGAC--CATGAGAAGTTTGTG  64973616
+
+Query  68        GCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACT  127
+                 |||||||| || |||||  || | || |||||  | || |||||||| || |  ||||| 
+Sbjct  64973617  GCTGATGTTTACAGACTCCATAATGTTGCGAACATTTATAACATGGAATTCACACCAACA  64973676
+
+Query  128       GGACTCGATGAGAATTGGCCAG  149
+                 |||   || |  || |||||||
+Sbjct  64973677  GGAAATGAGGCAAACTGGCCAG  64973698
+
+
+
+
+Range 10: 74288877 to 74289015
+
+Score:58.1 bits(63), Expect:8e-04, 
+Identities:100/142(70%),  Gaps:4/142(2%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC-TATGTG  67
+                 || || ||||| || | | ||||||| | | |||||||| |||  |||   |  | ||||
+Sbjct  74288877  TGTCGGCATGTAAT-TACAGGTTGCATGCAACAACACATGGAC--CATGAGTAGTTTGTG  74288933
+
+Query  68        GCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACT  127
+                 |||||||| ||||||||  || | ||  ||||  | || |||||||| || |  ||||  
+Sbjct  74288934  GCTGATGTTTATAGACTCTATAATGTTACGAACATTTATAACATGGAATTCACACCAATG  74288993
+
+Query  128       GGACTCGATGAGAATTGGCCAG  149
+                 |||   || || || | |||||
+Sbjct  74288994  GGAAATGAGGAAAACTAGCCAG  74289015
+
+
+
+
+Range 11: 7522875 to 7523013
+
+Score:57.2 bits(62), Expect:8e-04, 
+Identities:101/143(71%),  Gaps:6/143(4%), Strand: Plus/Minus
+
+Query  9        TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                || || ||||| || ||| |||||||   | |||||||| ||   |||  | |  | |||
+Sbjct  7523013  TGTCGGCATGTAAT-TGCAGGTTGCACACACCAACACATGGAT--CATG-AGCAGTTTGT  7522958
+
+Query  67       GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                ||||||||| || |||||| || | ||  |||| || || |||||||| || |  |||| 
+Sbjct  7522957  GGCTGATGTTTACAGACTTCATAATGTTACGAACGTTTAGAACATGGAATTCACACCAAT  7522898
+
+Query  127      TGGACTCGATGAGAATTGGCCAG  149
+                 | |  ||| |  || |||||||
+Sbjct  7522897  GGAAAACGAGGCAAACTGGCCAG  7522875
+
+
+
+
+Range 12: 40450744 to 40450882
+
+Score:54.5 bits(59), Expect:0.010, 
+Identities:98/141(70%),  Gaps:2/141(1%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+                 || || ||||| || ||  |||||||   | |||||||| ||    |  ||  | |||||
+Sbjct  40450882  TGTCGGCATGTAAT-TGTAGGTTGCACACACCAACACATGGATCATAAGCAGTT-TGTGG  40450825
+
+Query  69        CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                 ||||||| || |||||  || | ||  ||||| | || |||||||| || || ||||  |
+Sbjct  40450824  CTGATGTTTACAGACTCCATAATGTTACGAATATTTATAACATGGAATTCAAACCAATGG  40450765
+
+Query  129       GACTCGATGAGAATTGGCCAG  149
+                 ||  | | || |||| | |||
+Sbjct  40450764  GAAACAAAGAAAATTAGGCAG  40450744
+
+
+
+
+Range 13: 6504468 to 6504604
+
+Score:53.6 bits(58), Expect:0.010, 
+Identities:99/141(70%),  Gaps:6/141(4%), Strand: Plus/Minus
+
+Query  12       CGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGTGGC  69
+                ||||||||| | | | ||||| |   |||||| ||| |||  |||  | |  || |||  
+Sbjct  6504604  CGACATGTGCT-TACCGGTTGTAAACATCAACTCATGGAC--CATG-AGCAGTACGTGAG  6504549
+
+Query  70       TGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTGG  129
+                |||||| ||||   | ||  || |  ||||||| ||||||||||| |||   ||||| ||
+Sbjct  6504548  TGATGTTTATAAGTTAGAGAACATTACGAATGTTTACAACATGGAATTTTGCCCAACAGG  6504489
+
+Query  130      ACTCGATGAGAATTGGCCAGA  150
+                |  ||  ||||| ||||| ||
+Sbjct  6504488  AAACGTGGAGAACTGGCCTGA  6504468
+
+
+
+
+Range 14: 19332347 to 19332485
+
+Score:52.7 bits(57), Expect:0.036, 
+Identities:100/143(70%),  Gaps:6/143(4%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATC--CATCTATGT  66
+                 || || ||||| || ||| |||| ||   | |||||||| |||  |||   ||  | |||
+Sbjct  19332485  TGTCGGCATGTAAT-TGCAGGTTACACACAGCAACACATAGAC--CATGGGCAGTT-TGT  19332430
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 ||||||||| || |||||  || | |   |||| || || |||||||| || |  |||||
+Sbjct  19332429  GGCTGATGTATACAGACTCTATAATGATACGAACGTTTATAACATGGAATTCATACCAAC  19332370
+
+Query  127       TGGACTCGATGAGAATTGGCCAG  149
+                  |||  | | | ||| | |||||
+Sbjct  19332369  AGGAAACAAGGCGAACTAGCCAG  19332347
+
+
+
+
+>Malpighia emarginata NRA309 DNA, sequence_id:NRA309p0019, complete sequence
+Sequence ID: AP035812.1 Length: 3241122
+Range 1: 854922 to 855007
+
+Score:70.7 bits(77), Expect:1e-07, 
+Identities:67/86(78%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  64      TGTGGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCC  123
+               |||||||||||| ||||||||  || | || | |||||| || |||||||| || |  ||
+Sbjct  854922  TGTGGCTGATGTTTATAGACTCCATAATGTGGTGAATGTTTATAACATGGAATTCACACC  854981
+
+Query  124     AACTGGACTCGATGAGAATTGGCCAG  149
+               ||| |||  ||| || || |||||||
+Sbjct  854982  AACGGGAAACGAGGAAAACTGGCCAG  855007
+
+
+
+
+>Malpighia emarginata NRA309 DNA, chromosome 9, nearly complete sequence
+Sequence ID: AP035810.1 Length: 81726457
+Range 1: 25734967 to 25735100
+
+Score:69.8 bits(76), Expect:1e-07, 
+Identities:97/135(72%),  Gaps:1/135(0%), Strand: Plus/Plus
+
+Query  15        CATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGGCTGATG  74
+                 ||||| || ||| |||||||   | |||||||| ||    |  ||| | |||||||||||
+Sbjct  25734967  CATGTAAT-TGCAGGTTGCACACAGCAACACATAGATCATAAGCATTTTTGTGGCTGATG  25735025
+
+Query  75        TGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTGGACTCG  134
+                 | || |||||  || | ||  ||||||| || |||||||| || |  ||||  |||  ||
+Sbjct  25735026  TATACAGACTCCATAATGTTACGAATGTTTATAACATGGAATTCACACCAATGGGAAACG  25735085
+
+Query  135       ATGAGAATTGGCCAG  149
+                 | | ||| | |||||
+Sbjct  25735086  AGGCGAACTAGCCAG  25735100
+
+
+
+
+Range 2: 59639957 to 59640096
+
+Score:69.8 bits(76), Expect:1e-07, 
+Identities:102/142(72%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+                 || ||||||||||| ||| ||||| |   |||||| ||| || |     ||  || ||| 
+Sbjct  59639957  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATTGATTATGAGCAG-TACGTGA  59640014
+
+Query  69        CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||||
+Sbjct  59640015  GTGATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACTG  59640074
+
+Query  129       GACTCGATGAGAATTGGCCAGA  150
+                 ||  ||  ||||| ||||| ||
+Sbjct  59640075  GAAACGTGGAGAACTGGCCTGA  59640096
+
+
+
+
+Range 3: 61051299 to 61051438
+
+Score:69.8 bits(76), Expect:1e-07, 
+Identities:102/142(72%),  Gaps:2/142(1%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+                 || ||||||||||| ||| ||||| |   |||||| ||| || |     ||  || ||| 
+Sbjct  61051438  TGTCGACATGTGAT-TGCCGGTTGGAAACATCAACGCATTGATTATGAGCAG-TACGTGA  61051381
+
+Query  69        CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||||
+Sbjct  61051380  GTGATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACTG  61051321
+
+Query  129       GACTCGATGAGAATTGGCCAGA  150
+                 ||  ||  ||||| ||||| ||
+Sbjct  61051320  GAAACGTGGAGAACTGGCCTGA  61051299
+
+
+
+
+Range 4: 66324427 to 66324566
+
+Score:69.8 bits(76), Expect:1e-07, 
+Identities:102/142(72%),  Gaps:2/142(1%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+                 || ||||||||||| ||| ||||| |   |||||| ||| || |     ||  || ||| 
+Sbjct  66324566  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATTGATTATGAGCAG-TACGTGA  66324509
+
+Query  69        CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||||
+Sbjct  66324508  GTGATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACTG  66324449
+
+Query  129       GACTCGATGAGAATTGGCCAGA  150
+                 ||  ||  ||||| ||||| ||
+Sbjct  66324448  GAAACGTGGAGAACTGGCCTGA  66324427
+
+
+
+
+Range 5: 59155173 to 59155312
+
+Score:68.0 bits(74), Expect:5e-07, 
+Identities:104/144(72%),  Gaps:6/144(4%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  59155312  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  59155257
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||
+Sbjct  59155256  GAGTGATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAAC  59155197
+
+Query  127       TGGACTCGATGAGAATTGGCCAGA  150
+                 ||||   |  ||||| ||||| ||
+Sbjct  59155196  TGGAAATGTGGAGAACTGGCCTGA  59155173
+
+
+
+
+Range 6: 19400676 to 19400815
+
+Score:64.4 bits(70), Expect:6e-06, 
+Identities:102/143(71%),  Gaps:4/143(2%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC-TATGTG  67
+                 || ||||||||||| ||| ||||| |   |||||| ||| |||  |||   |  || |||
+Sbjct  19400676  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATGGAC--CATGAGTAGTACGTG  19400732
+
+Query  68        GCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACT  127
+                   |||||| ||||   | ||  || | |||||||| ||||||||||| |||   ||||| 
+Sbjct  19400733  AGTGATGTTTATAAGTTAGAGAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACA  19400792
+
+Query  128       GGACTCGATGAGAATTGGCCAGA  150
+                 |||  |   ||||| ||||| ||
+Sbjct  19400793  GGAAACATGGAGAACTGGCCTGA  19400815
+
+
+
+
+Range 7: 54760475 to 54760611
+
+Score:64.4 bits(70), Expect:6e-06, 
+Identities:99/139(71%),  Gaps:2/139(1%), Strand: Plus/Plus
+
+Query  12        CGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGGCTG  71
+                 ||||||||||| ||| | ||| |   |||||| ||| || |     ||  || |||  ||
+Sbjct  54760475  CGACATGTGAT-TGCCGATTGTAAACATCAACGCATTGATTATGAGCAG-TACGTGAGTG  54760532
+
+Query  72        ATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTGGAC  131
+                 |||| ||||   | ||  || | |||||||| ||||||||||| |||   ||||||||| 
+Sbjct  54760533  ATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAACTGGAA  54760592
+
+Query  132       TCGATGAGAATTGGCCAGA  150
+                  ||  ||||| ||||| ||
+Sbjct  54760593  ACGTGGAGAACTGGCCTGA  54760611
+
+
+
+
+Range 8: 20886457 to 20886523
+
+Score:63.5 bits(69), Expect:2e-05, 
+Identities:54/67(81%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  64        TGTGGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCC  123
+                 ||| |||||||| || |||||  || | || ||||||||||| || |||||||| |  ||
+Sbjct  20886523  TGTAGCTGATGTTTACAGACTACATAATGTTGCGAATGTCTATAATATGGAGTTCACGCC  20886464
+
+Query  124       AACTGGA  130
+                 |||||||
+Sbjct  20886463  AACTGGA  20886457
+
+
+
+
+Range 9: 25416626 to 25416765
+
+Score:63.5 bits(69), Expect:2e-05, 
+Identities:103/144(72%),  Gaps:6/144(4%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| ||| ||||| |   | |||| ||| |||  |||  | |  || ||
+Sbjct  25416626  TGTCGACATGTGAT-TGCCGGTTGTAAACACCAACGCATTGAC--CATG-AGCAGTACGT  25416681
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || | || ||||| ||||||||||| |||   |||||
+Sbjct  25416682  GAGTGATGTTTATAAGTTAGAAAACATTGCAAATGTTTACAACATGGAATTTTGCCCAAC  25416741
+
+Query  127       TGGACTCGATGAGAATTGGCCAGA  150
+                 ||||  ||  ||||| ||||| ||
+Sbjct  25416742  TGGAAACGTGGAGAACTGGCCTGA  25416765
+
+
+
+
+Range 10: 42799360 to 42799426
+
+Score:63.5 bits(69), Expect:2e-05, 
+Identities:54/67(81%),  Gaps:0/67(0%), Strand: Plus/Plus
+
+Query  64        TGTGGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCC  123
+                 |||||||||||| |||||| |  || | ||  |||||||||| || |||||||| |  ||
+Sbjct  42799360  TGTGGCTGATGTTTATAGAGTACATAATGTTACGAATGTCTATAATATGGAGTTCACACC  42799419
+
+Query  124       AACTGGA  130
+                 |||||||
+Sbjct  42799420  AACTGGA  42799426
+
+
+
+
+Range 11: 73275222 to 73275322
+
+Score:59.9 bits(65), Expect:2e-04, 
+Identities:75/102(74%),  Gaps:1/102(0%), Strand: Plus/Minus
+
+Query  24        TGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGGCTGATGTGTATAGAC  83
+                 ||| |||||||   | |||||||| ||||     ||  | |||||||||||| |||| ||
+Sbjct  73275322  TGCAGGTTGCACACACCAACACATGGACTATGAGCAGTT-TGTGGCTGATGTTTATAAAC  73275264
+
+Query  84        TTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAA  125
+                 |  || | || |||||||| || |||||||| || |  ||||
+Sbjct  73275263  TCCATAATGTTGCGAATGTTTATAACATGGAATTCACACCAA  73275222
+
+
+
+
+Range 12: 42517120 to 42517259
+
+Score:59.0 bits(64), Expect:2e-04, 
+Identities:102/144(71%),  Gaps:6/144(4%), Strand: Plus/Minus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| |||  |||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  42517259  TGTCGACATGTGAT-TGCCTGTTGTAAACATCAACGCATTGAC--CATG-AGCAGTACGT  42517204
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||
+Sbjct  42517203  GAGTGATGTTTATAAGTTAGAAAACATTGCGAATGTTTACAACATGGAATTTTGCCCAAC  42517144
+
+Query  127       TGGACTCGATGAGAATTGGCCAGA  150
+                 | ||  ||  || || ||||| ||
+Sbjct  42517143  TAGAAACGTGGAAAACTGGCCTGA  42517120
+
+
+
+
+Range 13: 67243357 to 67243496
+
+Score:59.0 bits(64), Expect:2e-04, 
+Identities:102/144(71%),  Gaps:6/144(4%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| ||| ||||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  67243357  TGTCGACATGTGAT-TGCCGGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  67243412
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || |  ||||| | ||||||||||| |||   |||||
+Sbjct  67243413  GAGTGATGTTTATAAGTTAGAGAACATTACGAATATTTACAACATGGAATTTTGCCCAAC  67243472
+
+Query  127       TGGACTCGATGAGAATTGGCCAGA  150
+                  |||  ||  ||||| ||||| ||
+Sbjct  67243473  AGGAAACGTGGAGAACTGGCCTGA  67243496
+
+
+
+
+Range 14: 19255331 to 19255395
+
+Score:55.4 bits(60), Expect:0.003, 
+Identities:51/65(78%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  66        TGGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAA  125
+                 |||||||| | || ||| |  || | || ||||||||||| || |||||||| |  ||||
+Sbjct  19255395  TGGCTGATATTTACAGAATACATAATGTTGCGAATGTCTATAATATGGAGTTCACACCAA  19255336
+
+Query  126       CTGGA  130
+                 |||||
+Sbjct  19255335  CTGGA  19255331
+
+
+
+
+Range 15: 50311078 to 50311197
+
+Score:54.5 bits(59), Expect:0.010, 
+Identities:89/124(72%),  Gaps:6/124(4%), Strand: Plus/Plus
+
+Query  9         TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGT  66
+                 || ||||||||||| |||  |||| |   |||||| ||| |||  |||  | |  || ||
+Sbjct  50311078  TGTCGACATGTGAT-TGCCAGTTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGT  50311133
+
+Query  67        GGCTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAAC  126
+                 |  |||||| ||||   | ||  || | |||||||| ||||||||||| |||   |||||
+Sbjct  50311134  GAGTGATGTTTATAAGTTAGAGAACATTGCGAATGTTTACAACATGGAATTTTGCCCAAC  50311193
+
+Query  127       TGGA  130
+                  |||
+Sbjct  50311194  AGGA  50311197
+
+
+
+
+>Malpighia emarginata NRA309 DNA, sequence_id:NRA309p0021, complete sequence
+Sequence ID: AP035814.1 Length: 1551394
+Range 1: 1188206 to 1188341
+
+Score:56.3 bits(61), Expect:0.003, 
+Identities:99/140(71%),  Gaps:6/140(4%), Strand: Plus/Plus
+
+Query  13       GACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATC--TATGTGGCT  70
+                |||||||||| ||| | ||| |   |||||| ||| |||  |||  | |  || |||  |
+Sbjct  1188206  GACATGTGAT-TGCCGATTGTAAACATCAACGCATGGAC--CATG-AGCAGTACGTGAGT  1188261
+
+Query  71       GATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTGGA  130
+                ||||  ||||   | ||  || |||||||||| ||||||||||| |||   ||||| |||
+Sbjct  1188262  GATGCTTATAAGTTAGAGAACATCGCGAATGTTTACAACATGGAATTTTGCCCAACAGGA  1188321
+
+Query  131      CTCGATGAGAATTGGCCAGA  150
+                  |   ||||| ||||| ||
+Sbjct  1188322  AACATGGAGAACTGGCCTGA  1188341
+
+
+
+
+>Malpighia emarginata NRA309 DNA, sequence_id:NRA309p0044, complete sequence
+Sequence ID: AP035835.1 Length: 483551
+Range 1: 385473 to 385612
+
+Score:51.8 bits(56), Expect:0.036, 
+Identities:98/142(69%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  9       TGCCGACATGTGATATGCGGGTTGCAGGTATCAACACATCGACTCCATCCATCTATGTGG  68
+               || ||||||||||| ||| ||||| |   |||||  ||| || |     ||  || ||| 
+Sbjct  385473  TGTCGACATGTGAT-TGCAGGTTGTAAACATCAATGCATGGAGTATGAGCAG-TACGTGA  385530
+
+Query  69      CTGATGTGTATAGACTTGATCACGTCGCGAATGTCTACAACATGGAGTTTAATCCAACTG  128
+                |||||| ||||   | ||  || |  ||||||| ||||||||||| |||   | ||| |
+Sbjct  385531  GTGATGTTTATAAGTTAGAGAACATTACGAATGTTTACAACATGGAATTTTGCCTAACAG  385590
+
+Query  129     GACTCGATGAGAATTGGCCAGA  150
+               ||  ||  ||||| ||||| ||
+Sbjct  385591  GAAACGTGGAGAACTGGCCTGA  385612
+
+
+
+
+
+
+
+		
+
+

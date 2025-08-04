@@ -1,0 +1,444 @@
+RID: 8FDYTEYC015	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1:  Query ID: lcl|Query_4916401 Length: 254
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Euphorbia lathyris uncharacterized protein...          Euphorbia la... NA              212925     63.5   63.5  31%   3e-05 79.27  3410       XR_010690582.1   
+Cryptomeria japonica DNA, BAC clone: BAC29_N05, contig:...        Cryptomeria ... Japanese cedar  3369       58.1   58.1  18%   0.001 89.36  49506      LC312945.1       
+Calluna vulgaris genome assembly, chromosome: 1                   Calluna vulg... heather flower  13385      57.2   57.2  36%   0.001 73.63  83568965   OZ228604.1       
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       56.3   56.3  41%   0.004 71.84  2408       XM_056829232.1   
+PREDICTED: Spinacia oleracea protein MAINTENANCE OF...            Spinacia ole... spinach         3562       56.3   56.3  29%   0.004 76.71  803        XM_056841606.1   
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       56.3   56.3  41%   0.004 71.84  7551       XM_056837042.1   
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       56.3   56.3  41%   0.004 71.84  2514       XM_056837045.1   
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       56.3   56.3  41%   0.004 71.84  7832       XM_056837043.1   
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       56.3   56.3  41%   0.004 71.84  2564       XM_056837044.1   
+PREDICTED: Spinacia oleracea protein MAINTENANCE OF...            Spinacia ole... spinach         3562       56.3   56.3  41%   0.004 71.84  2058       XM_056838124.1   
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       56.3   56.3  41%   0.004 71.84  7601       XM_056837041.1   
+PREDICTED: Spinacia oleracea protein MAINTENANCE OF...            Spinacia ole... spinach         3562       56.3   56.3  41%   0.004 71.84  2317       XM_056840256.1   
+PREDICTED: Euphorbia lathyris uncharacterized protein...          Euphorbia la... NA              212925     55.4   55.4  29%   0.004 79.22  3655       XM_066020269.1   
+PREDICTED: Euphorbia lathyris uncharacterized protein...          Euphorbia la... NA              212925     55.4   55.4  29%   0.004 79.22  3696       XM_066020267.1   
+PREDICTED: Euphorbia lathyris uncharacterized protein...          Euphorbia la... NA              212925     55.4   55.4  29%   0.004 79.22  3605       XM_066020265.1   
+PREDICTED: Euphorbia lathyris uncharacterized protein...          Euphorbia la... NA              212925     55.4   55.4  29%   0.004 79.22  3738       XM_066020264.1   
+PREDICTED: Euphorbia lathyris uncharacterized protein...          Euphorbia la... NA              212925     55.4   55.4  29%   0.004 79.22  3748       XM_066020268.1   
+Cryptomeria japonica DNA, BAC clone: BAC636_K01, contig:...       Cryptomeria ... Japanese cedar  3369       53.6   53.6  18%   0.014 87.23  41201      LC313114.1       
+PREDICTED: Spinacia oleracea protein MAINTENANCE OF...            Spinacia ole... spinach         3562       51.8   51.8  21%   0.049 81.13  2075       XM_056838771.1   
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       51.8   51.8  41%   0.049 70.87  3569       XM_056834676.1   
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       51.8   51.8  36%   0.049 73.91  1825       XM_056834437.1   
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       51.8   51.8  36%   0.049 73.91  2458       XM_056834436.1   
+PREDICTED: Spinacia oleracea uncharacterized protein...           Spinacia ole... spinach         3562       51.8   51.8  36%   0.049 73.91  7975       XM_056834440.1   
+
+
+Alignments:
+
+>PREDICTED: Euphorbia lathyris uncharacterized protein (LOC136232738), transcript variant X5, misc_RNA
+Sequence ID: XR_010690582.1 Length: 3410
+Range 1: 1456 to 1535
+
+Score:63.5 bits(69), Expect:3e-05, 
+Identities:65/82(79%),  Gaps:5/82(6%), Strand: Plus/Plus
+
+Query  46    TGATG-GAGCGGTGGAACGATTGCACTCATACGTTCC--CTTTCAGTTTCGGGGAGATGA  102
+             ||||| ||||||||| | || |  || || || ||||  |||||  ||||||||||||||
+Sbjct  1456  TGATGTGAGCGGTGGGATGACTCGACCCACACTTTCCACCTTTC--TTTCGGGGAGATGA  1513
+
+Query  103   CCATCACTCCCGAGGATTTCTC  124
+             ||||| | ||| ||||||| ||
+Sbjct  1514  CCATCTCGCCCAAGGATTTTTC  1535
+
+
+
+
+>Cryptomeria japonica DNA, BAC clone: BAC29_N05, contig: BAC29_N05_contig00002
+Sequence ID: LC312945.1 Length: 49506
+Range 1: 40210 to 40254
+
+Score:58.1 bits(63), Expect:0.001, 
+Identities:42/47(89%),  Gaps:4/47(8%), Strand: Plus/Minus
+
+Query  75     ACGTTCCCTTT--CAGTTTCGGGGAGATGACCATCACTCCCGAGGAT  119
+              ||||||| |||  |||||  |||||||||||||||||||||||||||
+Sbjct  40254  ACGTTCCATTTGCCAGTT--GGGGAGATGACCATCACTCCCGAGGAT  40210
+
+
+
+
+>Calluna vulgaris genome assembly, chromosome: 1
+Sequence ID: OZ228604.1 Length: 83568965
+Range 1: 12805004 to 12805094
+
+Score:57.2 bits(62), Expect:0.001, 
+Identities:67/91(74%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  51        GAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGACCATCACT  110
+                 ||| |||||   |||  |||  |||| ||||  |||   || || ||||||||||| || 
+Sbjct  12805004  GAGAGGTGGTGGGATACCACGAATACCTTCCACTTCGACTTTGGTGAGATGACCATGACA  12805063
+
+Query  111       CCCGAGGATTTCTCCGCTATCACCGGGTTGA  141
+                 |||  ||| ||||| || |||||||| ||||
+Sbjct  12805064  CCCTTGGACTTCTCTGCGATCACCGGCTTGA  12805094
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130461233), transcript variant X1, mRNA
+Sequence ID: XM_056829232.1 Length: 2408
+Range 1: 730 to 832
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:74/103(72%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  43   CGTTGATGGAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGA  102
+            |||| |||  | |||||   |||  |||  | || |||| |||   ||  || |||||||
+Sbjct  730  CGTTCATGAGGTGGTGGTGGGATACCACCAACACCTTCCATTTTCCTTGGGGTGAGATGA  789
+
+Query  103  CCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+            | |||||||||||||| | | | ||| | || || ||||||||
+Sbjct  790  CGATCACTCCCGAGGACTACACGGCTTTGACGGGCTTGACCTT  832
+
+
+
+
+>PREDICTED: Spinacia oleracea protein MAINTENANCE OF MERISTEMS-like (LOC130471464), mRNA
+Sequence ID: XM_056841606.1 Length: 803
+Range 1: 94 to 166
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:56/73(77%),  Gaps:0/73(0%), Strand: Plus/Plus
+
+Query  73   ATACGTTCCCTTTCAGTTTCGGGGAGATGACCATCACTCCCGAGGATTTCTCCGCTATCA  132
+            |||| |||| |||   ||  || |||||||| || ||||||||||| | | ||||| | |
+Sbjct  94   ATACCTTCCATTTTCCTTGGGGCGAGATGACGATTACTCCCGAGGACTACACCGCTTTGA  153
+
+Query  133  CCGGGTTGACCTT  145
+            | || ||||||||
+Sbjct  154  CGGGCTTGACCTT  166
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130467933), transcript variant X2, mRNA
+Sequence ID: XM_056837042.1 Length: 7551
+Range 1: 5789 to 5891
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:74/103(72%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  43    CGTTGATGGAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGA  102
+             |||| |||  | |||||   |||  |||  | || |||| |||   ||  || |||||||
+Sbjct  5789  CGTTCATGAGGTGGTGGTGGGATACCACCAACACCTTCCATTTTCCTTGGGGTGAGATGA  5848
+
+Query  103   CCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+             | |||||||||||||| | | | ||| | || || ||||||||
+Sbjct  5849  CGATCACTCCCGAGGACTACACGGCTTTGACGGGCTTGACCTT  5891
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130467933), transcript variant X5, mRNA
+Sequence ID: XM_056837045.1 Length: 2514
+Range 1: 752 to 854
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:74/103(72%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  43   CGTTGATGGAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGA  102
+            |||| |||  | |||||   |||  |||  | || |||| |||   ||  || |||||||
+Sbjct  752  CGTTCATGAGGTGGTGGTGGGATACCACCAACACCTTCCATTTTCCTTGGGGTGAGATGA  811
+
+Query  103  CCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+            | |||||||||||||| | | | ||| | || || ||||||||
+Sbjct  812  CGATCACTCCCGAGGACTACACGGCTTTGACGGGCTTGACCTT  854
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130467933), transcript variant X3, mRNA
+Sequence ID: XM_056837043.1 Length: 7832
+Range 1: 6070 to 6172
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:74/103(72%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  43    CGTTGATGGAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGA  102
+             |||| |||  | |||||   |||  |||  | || |||| |||   ||  || |||||||
+Sbjct  6070  CGTTCATGAGGTGGTGGTGGGATACCACCAACACCTTCCATTTTCCTTGGGGTGAGATGA  6129
+
+Query  103   CCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+             | |||||||||||||| | | | ||| | || || ||||||||
+Sbjct  6130  CGATCACTCCCGAGGACTACACGGCTTTGACGGGCTTGACCTT  6172
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130467933), transcript variant X4, mRNA
+Sequence ID: XM_056837044.1 Length: 2564
+Range 1: 802 to 904
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:74/103(72%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  43   CGTTGATGGAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGA  102
+            |||| |||  | |||||   |||  |||  | || |||| |||   ||  || |||||||
+Sbjct  802  CGTTCATGAGGTGGTGGTGGGATACCACCAACACCTTCCATTTTCCTTGGGGTGAGATGA  861
+
+Query  103  CCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+            | |||||||||||||| | | | ||| | || || ||||||||
+Sbjct  862  CGATCACTCCCGAGGACTACACGGCTTTGACGGGCTTGACCTT  904
+
+
+
+
+>PREDICTED: Spinacia oleracea protein MAINTENANCE OF MERISTEMS-like (LOC130469165), mRNA
+Sequence ID: XM_056838124.1 Length: 2058
+Range 1: 300 to 402
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:74/103(72%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  43   CGTTGATGGAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGA  102
+            |||| |||  | |||||   |||  |||  | || |||| |||   ||  || |||||||
+Sbjct  300  CGTTCATGAGGTGGTGGTGGGATACCACCAACACCTTCCATTTTCCTTGGGGTGAGATGA  359
+
+Query  103  CCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+            | |||||||||||||| | | | ||| | || || ||||||||
+Sbjct  360  CGATCACTCCCGAGGACTACACGGCTTTGACGGGCTTGACCTT  402
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130467933), transcript variant X1, mRNA
+Sequence ID: XM_056837041.1 Length: 7601
+Range 1: 5839 to 5941
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:74/103(72%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  43    CGTTGATGGAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGA  102
+             |||| |||  | |||||   |||  |||  | || |||| |||   ||  || |||||||
+Sbjct  5839  CGTTCATGAGGTGGTGGTGGGATACCACCAACACCTTCCATTTTCCTTGGGGTGAGATGA  5898
+
+Query  103   CCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+             | |||||||||||||| | | | ||| | || || ||||||||
+Sbjct  5899  CGATCACTCCCGAGGACTACACGGCTTTGACGGGCTTGACCTT  5941
+
+
+
+
+>PREDICTED: Spinacia oleracea protein MAINTENANCE OF MERISTEMS-like (LOC130470315), mRNA
+Sequence ID: XM_056840256.1 Length: 2317
+Range 1: 330 to 432
+
+Score:56.3 bits(61), Expect:0.004, 
+Identities:74/103(72%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  43   CGTTGATGGAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGA  102
+            |||| |||  | |||||   |||  |||  | || |||| |||   ||  || |||||||
+Sbjct  330  CGTTCATGAGGTGGTGGTGGGATACCACCAACACCTTCCATTTTCCTTGGGGCGAGATGA  389
+
+Query  103  CCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+            | |||||||||||||| | | | ||| | || || ||||||||
+Sbjct  390  CGATCACTCCCGAGGACTACACGGCTTTGACGGGCTTGACCTT  432
+
+
+
+
+>PREDICTED: Euphorbia lathyris uncharacterized protein (LOC136231037), transcript variant X5, mRNA
+Sequence ID: XM_066020269.1 Length: 3655
+Range 1: 1803 to 1876
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:61/77(79%),  Gaps:6/77(7%), Strand: Plus/Plus
+
+Query  51    GAGCGGTGGAACGATTGCACTCATACGTTCC--CTTTCAGTTTCGGGGAGATGACCATCA  108
+             ||| |||||   || |  || ||||| ||||  |||||  ||||||||||||||||||| 
+Sbjct  1803  GAGAGGTGGGTTGACTCGACCCATACCTTCCACCTTTC--TTTCGGGGAGATGACCATCT  1860
+
+Query  109   C-TCCCGAGGATTTCTC  124
+             | |||||| ||||||||
+Sbjct  1861  CGTCCCGA-GATTTCTC  1876
+
+
+
+
+>PREDICTED: Euphorbia lathyris uncharacterized protein (LOC136231037), transcript variant X3, mRNA
+Sequence ID: XM_066020267.1 Length: 3696
+Range 1: 1844 to 1917
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:61/77(79%),  Gaps:6/77(7%), Strand: Plus/Plus
+
+Query  51    GAGCGGTGGAACGATTGCACTCATACGTTCC--CTTTCAGTTTCGGGGAGATGACCATCA  108
+             ||| |||||   || |  || ||||| ||||  |||||  ||||||||||||||||||| 
+Sbjct  1844  GAGAGGTGGGTTGACTCGACCCATACCTTCCACCTTTC--TTTCGGGGAGATGACCATCT  1901
+
+Query  109   C-TCCCGAGGATTTCTC  124
+             | |||||| ||||||||
+Sbjct  1902  CGTCCCGA-GATTTCTC  1917
+
+
+
+
+>PREDICTED: Euphorbia lathyris uncharacterized protein (LOC136231037), transcript variant X2, mRNA
+Sequence ID: XM_066020265.1 Length: 3605
+Range 1: 1753 to 1826
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:61/77(79%),  Gaps:6/77(7%), Strand: Plus/Plus
+
+Query  51    GAGCGGTGGAACGATTGCACTCATACGTTCC--CTTTCAGTTTCGGGGAGATGACCATCA  108
+             ||| |||||   || |  || ||||| ||||  |||||  ||||||||||||||||||| 
+Sbjct  1753  GAGAGGTGGGTTGACTCGACCCATACCTTCCACCTTTC--TTTCGGGGAGATGACCATCT  1810
+
+Query  109   C-TCCCGAGGATTTCTC  124
+             | |||||| ||||||||
+Sbjct  1811  CGTCCCGA-GATTTCTC  1826
+
+
+
+
+>PREDICTED: Euphorbia lathyris uncharacterized protein (LOC136231037), transcript variant X1, mRNA
+Sequence ID: XM_066020264.1 Length: 3738
+Range 1: 1886 to 1959
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:61/77(79%),  Gaps:6/77(7%), Strand: Plus/Plus
+
+Query  51    GAGCGGTGGAACGATTGCACTCATACGTTCC--CTTTCAGTTTCGGGGAGATGACCATCA  108
+             ||| |||||   || |  || ||||| ||||  |||||  ||||||||||||||||||| 
+Sbjct  1886  GAGAGGTGGGTTGACTCGACCCATACCTTCCACCTTTC--TTTCGGGGAGATGACCATCT  1943
+
+Query  109   C-TCCCGAGGATTTCTC  124
+             | |||||| ||||||||
+Sbjct  1944  CGTCCCGA-GATTTCTC  1959
+
+
+
+
+>PREDICTED: Euphorbia lathyris uncharacterized protein (LOC136231037), transcript variant X4, mRNA
+Sequence ID: XM_066020268.1 Length: 3748
+Range 1: 1896 to 1969
+
+Score:55.4 bits(60), Expect:0.004, 
+Identities:61/77(79%),  Gaps:6/77(7%), Strand: Plus/Plus
+
+Query  51    GAGCGGTGGAACGATTGCACTCATACGTTCC--CTTTCAGTTTCGGGGAGATGACCATCA  108
+             ||| |||||   || |  || ||||| ||||  |||||  ||||||||||||||||||| 
+Sbjct  1896  GAGAGGTGGGTTGACTCGACCCATACCTTCCACCTTTC--TTTCGGGGAGATGACCATCT  1953
+
+Query  109   C-TCCCGAGGATTTCTC  124
+             | |||||| ||||||||
+Sbjct  1954  CGTCCCGA-GATTTCTC  1969
+
+
+
+
+>Cryptomeria japonica DNA, BAC clone: BAC636_K01, contig: BAC636_K01_contig00002
+Sequence ID: LC313114.1 Length: 41201
+Range 1: 25265 to 25309
+
+Score:53.6 bits(58), Expect:0.014, 
+Identities:41/47(87%),  Gaps:4/47(8%), Strand: Plus/Plus
+
+Query  75     ACGTTCCCTTT--CAGTTTCGGGGAGATGACCATCACTCCCGAGGAT  119
+              ||||||| |||  |||||  |||||||||| ||||||||||||||||
+Sbjct  25265  ACGTTCCATTTGCCAGTT--GGGGAGATGATCATCACTCCCGAGGAT  25309
+
+
+
+
+>PREDICTED: Spinacia oleracea protein MAINTENANCE OF MERISTEMS-like (LOC130469448), mRNA
+Sequence ID: XM_056838771.1 Length: 2075
+Range 1: 371 to 423
+
+Score:51.8 bits(56), Expect:0.049, 
+Identities:43/53(81%),  Gaps:0/53(0%), Strand: Plus/Plus
+
+Query  93   GGGGAGATGACCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+            || |||||||| |||||||||||||| | | | ||| | || || ||||||||
+Sbjct  371  GGTGAGATGACGATCACTCCCGAGGACTACACGGCTTTGACGGGCTTGACCTT  423
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130465845), mRNA
+Sequence ID: XM_056834676.1 Length: 3569
+Range 1: 1569 to 1671
+
+Score:51.8 bits(56), Expect:0.049, 
+Identities:73/103(71%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  43    CGTTGATGGAGCGGTGGAACGATTGCACTCATACGTTCCCTTTCAGTTTCGGGGAGATGA  102
+             |||| |||  | |||||   |||  |||  | || |||| |||   ||  || |||||||
+Sbjct  1569  CGTTTATGAGGTGGTGGTGGGATACCACCAACACCTTCCATTTTCCTTGGGGCGAGATGA  1628
+
+Query  103   CCATCACTCCCGAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+             | ||||||||  |||| | | | ||| | || |||||||||||
+Sbjct  1629  CGATCACTCCTAAGGACTACACGGCTTTGACGGGGTTGACCTT  1671
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130465605), transcript variant X2, mRNA
+Sequence ID: XM_056834437.1 Length: 1825
+Range 1: 358 to 448
+
+Score:51.8 bits(56), Expect:0.049, 
+Identities:68/92(74%),  Gaps:2/92(2%), Strand: Plus/Plus
+
+Query  55   GGTGGAACGATTGCACTCATACGTTCC-CTTTCAGTTTCGGGGAGATGACCATCACTCCC  113
+            |||||   |||  |||  |||| |||| |||||  ||  || |||||||| || ||||||
+Sbjct  358  GGTGGTGGGATACCACCAATACTTTCCACTTTCC-TTGGGGCGAGATGACGATTACTCCC  416
+
+Query  114  GAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+            ||||||| | | ||| | || || ||| ||||
+Sbjct  417  GAGGATTACACTGCTTTGACAGGCTTGGCCTT  448
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130465605), transcript variant X1, mRNA
+Sequence ID: XM_056834436.1 Length: 2458
+Range 1: 991 to 1081
+
+Score:51.8 bits(56), Expect:0.049, 
+Identities:68/92(74%),  Gaps:2/92(2%), Strand: Plus/Plus
+
+Query  55    GGTGGAACGATTGCACTCATACGTTCC-CTTTCAGTTTCGGGGAGATGACCATCACTCCC  113
+             |||||   |||  |||  |||| |||| |||||  ||  || |||||||| || ||||||
+Sbjct  991   GGTGGTGGGATACCACCAATACTTTCCACTTTCC-TTGGGGCGAGATGACGATTACTCCC  1049
+
+Query  114   GAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+             ||||||| | | ||| | || || ||| ||||
+Sbjct  1050  GAGGATTACACTGCTTTGACAGGCTTGGCCTT  1081
+
+
+
+
+>PREDICTED: Spinacia oleracea uncharacterized protein (LOC130465605), transcript variant X3, mRNA
+Sequence ID: XM_056834440.1 Length: 7975
+Range 1: 6508 to 6598
+
+Score:51.8 bits(56), Expect:0.049, 
+Identities:68/92(74%),  Gaps:2/92(2%), Strand: Plus/Plus
+
+Query  55    GGTGGAACGATTGCACTCATACGTTCC-CTTTCAGTTTCGGGGAGATGACCATCACTCCC  113
+             |||||   |||  |||  |||| |||| |||||  ||  || |||||||| || ||||||
+Sbjct  6508  GGTGGTGGGATACCACCAATACTTTCCACTTTCC-TTGGGGCGAGATGACGATTACTCCC  6566
+
+Query  114   GAGGATTTCTCCGCTATCACCGGGTTGACCTT  145
+             ||||||| | | ||| | || || ||| ||||
+Sbjct  6567  GAGGATTACACTGCTTTGACAGGCTTGGCCTT  6598
+
+
+
+
+
+
+
+		
+
+
